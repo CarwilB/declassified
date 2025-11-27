@@ -1,0 +1,40 @@
+---
+title: "Expedited Munition Requirements, Government Of Bolivia."
+author: ""
+date: "February 02, 1974"
+editor: visual
+cable-date: "February 02, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Niact Immediate 2143"
+cable-info: "Oct-01 Ara-16 Iso-00 Ciae-00 Inr-10 Nsae-00 Rsc-01 Pm-07 Ss-20 Nsc-10 Aid-20 Iga-02 Sso-00 Nsce-00 Inre-00 Usie-00 Acda-19 Drc-01 /109 W --------------------- 057705 O 022030z Feb 74"
+cable-subject: "Expedited Munition Requirements, Government Of Bolivia."
+cable-tags: "MASS, PFOR, BW"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00729"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "AMMUNITION, GOVERNMENT PROCUREMENT, MILITARY AIRLIFTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. COMUSMILGP, Bolivia has received official assurance, Feb 2, from GOB G-4, that transportation costs will be paid by GOB for expedited requirements.
+2. Request action soonest. Commence airlift cargo. Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00729
+
+- **Date:** February 02, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** AMMUNITION, GOVERNMENT PROCUREMENT, MILITARY AIRLIFTS

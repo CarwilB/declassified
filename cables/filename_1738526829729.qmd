@@ -1,0 +1,44 @@
+---
+title: "Bolivia Desire Purchase U.s. Food Products And Ccc Credit"
+author: "Stedman"
+date: "March 14, 1974"
+editor: visual
+cable-date: "March 14, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2525"
+cable-info: "Oct-01 Ara-16 Iso-00 Eb-11 Come-00 Rsc-01 Drc-01 /050 W --------------------- 096130 R 141452z Mar 74"
+cable-subject: "Bolivia Desire Purchase U.s. Food Products And Ccc Credit"
+cable-tags: "EAGR, BL"
+cable-ref: "LA PAZ 1425 TO DEPT OF AGRICULTURE"
+cable-doc-number: "1974LAPAZ01554"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PROCUREMENT, AGRICULTURAL COMMODITIES, TRADE OPPORTUNITY REPORTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. **Action requested:** Embassy would appreciate confirmation that CCC credit lines remain frozen and that it is not, repeat not, possible for Bolivia to open GSM-4 credit at this time.
+
+2. In follow-up to a request for food supply price information reported in the reftel trade opportunity, the Embassy received a letter from MININD/COM noting that GOB would prefer to make these purchases under the CCC GSM-4 credit sales program. The Ministry nonetheless noted its understanding of the Embassy's explanation that this program is not, repeat not, currently available to Bolivia.
+
+3. The Ministry added that firms wishing to supply price information can use Telex 5434-MINDUS-BX.
+Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01554
+
+- **Date:** March 14, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PROCUREMENT, AGRICULTURAL COMMODITIES, TRADE OPPORTUNITY REPORTS

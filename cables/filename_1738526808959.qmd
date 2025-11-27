@@ -1,0 +1,41 @@
+---
+title: "Request For Faa Inspector"
+author: "Stedman"
+date: "February 20, 1974"
+editor: visual
+cable-date: "February 20, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2318"
+cable-info: "Oct-01 Iso-00 Cab-09 Ciae-00 Come-00 Dode-00 Eb-11 Inr-10 Nsae-00 Rsc-01 Drc-01 /033 W --------------------- 104604 R 201317z Feb 74"
+cable-subject: "Request For Faa Inspector"
+cable-tags: "ETRN, BL"
+cable-ref: "LIMA 0921"
+cable-doc-number: "1974LAPAZ01086"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "CIVIL AVIATION, PROCUREMENT, AIRLINES, JET AIRCRAFT, AVIATION REGULATIONS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. In conversation with Emboff General Federico Casanovas, Sub-Secretary for Civil Aviation, Bolivian Ministry of Transportation, has requested that Ambassador arrange for FAA inspector to visit Bolivia and inspect sole jet (727-100) of national airline, Lloyd Aereo Boliviano (LAB). Casanovas stated that LAB receiving conflicting advice as to safe flying time of aircraft before overhaul.
+2. As Department is aware, LAB is currently trying to negotiate purchase of used 727-100 to serve while LAB's other jet goes into overhaul. Casanovas indicated that negotiations between LAB President Bilbao and various aircraft brokers in U.S. not going well. There is thus effort to stretch out life of jet now in use.
+3. Action requested: Advise whether FAA could send inspector and what funding arrangements possible. (Casanovas obviously hopes that inspection could be done cost free to LAB. If not possible send FAA rep, advise possible alternatives.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01086
+
+- **Date:** February 20, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** CIVIL AVIATION, PROCUREMENT, AIRLINES, JET AIRCRAFT, AVIATION REGULATIONS

@@ -1,0 +1,41 @@
+---
+title: "Ec Food Aid To Bolivia - Umr"
+author: "Stedman"
+date: "January 25, 1974"
+editor: visual
+cable-date: "January 25, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 2053"
+cable-info: "Oct-01 Ara-16 Eur-25 Iso-00 Agr-20 Aid-20 Cea-02 Ciae-00 Come-00 Frb-02 Inr-10 Nsae-00 Rsc-01 Ciep-02 Spc-03 Str-08 Trse-00 Lab-06 Sil-01 Omb-01 Sso-00 Nsce-00 Usie-00 Inre-00 Ss-20 Nsc-10 Iga-02 Drc-01 /162 W --------------------- 091636"
+cable-subject: "Ec Food Aid To Bolivia - Umr"
+cable-tags: "EAID, EEC, BL"
+cable-ref: "EC BRUSSELS 0459"
+cable-doc-number: "1974LAPAZ00547"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "WHEAT, IMPORT DATA, FOOD ASSISTANCE"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Embassy notes that International Wheat Council figures regarding Bolivia's wheat imports cited reftel are consistently 10 to 20 percent higher than those collected each quarter by Embassy from local sources. Department may wish refer to Table III Embassy's A-228 which displays Embassy data on FY basis. Updating that table, FY 1973 commercial imports totalled 123,300 metric tons of wheat equivalent. Embassy calculation based on GOB data contrasts with 138,020 metric tons figure cited reftel.
+
+2. Comment: EC's proposed 130,000 metric tons UMR still seems high especially given Bolivian difficulties securing Argentine wheat in first semester FY 1974. Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00547
+
+- **Date:** January 25, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** WHEAT, IMPORT DATA, FOOD ASSISTANCE

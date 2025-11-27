@@ -1,0 +1,58 @@
+---
+title: "Modern Fighter Aircraft For Bolivia"
+author: "Approximately $200 Million)."
+date: "July 13, 1979"
+editor: visual
+cable-date: "July 13, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 7251"
+cable-info: "Oct-01 Ads-00 Sso-00 Nsce-00 Inre-00 Pm-05 Sp-02 Ss-15 L-03 Ciae-00 Inr-10 Nsae-00 Dode-00 Mc-02 Acda-12 Aid-05 Trse-00 Omb-01 /071 W ------------------039081 132328z /61"
+cable-subject: "Modern Fighter Aircraft For Bolivia"
+cable-tags: "MASS, BL"
+cable-ref: "(A) STATE 207984 310241Z AUG 77 (B) STATE 252478 DTD 211400Z OCT 77 (C) STATE 47743 DTD 240237Z FEB 78 (D) LA PAZ 5726"
+cable-doc-number: "1979LAPAZ06049"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "FIGHTER AIRCRAFT, MILITARY ASSISTANCE PROGRAMS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+2. The Bolivia Air Force (BAF) has requested a letter of offer and acceptance for the following air defense weapons system and related support items:
+    *   10 F-5E aircraft
+    *   2 F-5B's
+    *   Spare parts for 2 years
+    *   Related ground support equipment
+    *   Related pilot and aircraft mechanic training in the USA
+    *   Related technical assistance in Bolivia
+    *   Related appropriate air defense munitions
+
+3. The following responses are keyed to Para 5E, Reference A.
+
+A. The BAF has no viable air defense capability. The BAF defensive air order of battle includes eight very old and marginally armed and maintained F-86 aircraft of which possibly 4 could be launched simultaneously and thirteen even older T-33 and TF-33 aircraft, of which 6 or 7 could be launched simultaneously. It is estimated that only 50 percent of these aircraft could be turned to a second sortie. The BAF clearly and seriously recognizes its primary mission to defend, in conjunction with the other Bolivian Armed Forces, the territorial sovereignty of Bolivia. At the same time, the BAF, and all of Bolivia's neighbors (except perhaps Paraguay), realize that the BAF does not possess a deterrent defensive capability. The regional and sub-regional tensions stemming from historical and contemporary territorial disputes provide the BAF a bona fide requirement to purchase a limited number of modern fighter aircraft. The BAF (and also the other armed forces) believe that the possibility of conflict within the region is real. This view is held not only by the high command, but also the company and field grade officers. The GOB has not expended funds to modernize the BAF fighter fleet since the modest acquisition of the Korean War vintage F-86 aircraft from Venezuela in the early 1970's. Further, the impending withdrawal of the armed forces from direct involvement in the government, with the avowed purpose of returning to the barracks, has placed very heavy internal pressures on the BAF leaders to initiate a token (albeit costly) modernization program. Bolivian leaders cannot ignore or discount such pressures in light of the imminent return to non-military government, nor should we. In addition to the F-5, BAF acquisition studies are known to include consideration of Mirage and Jaguar aircraft.
+
+B. Acquisition of the F-5 aircraft would permit the BAF to organize and train a modest air defense force. While the effectiveness of such a force is debatable in light of the overwhelming materiel superiority of Bolivia's neighbors (excepting Paraguay), it would provide Bolivia with a marginal air defense capability. The provision of F-5 aircraft to Bolivia would not exacerbate the arms imbalance of the region. In fact, it would serve to reduce the present imbalance. Neither would such an acquisition serve to introduce for the first time this weapon system to South America.
+
+C. The BAF, with appropriate training, should be able to employ and maintain the F-5 system. We estimate that two or three civilian technical representatives would be required for the first 2 years after acquisition. This would enable the BAF to initially maintain and subsequently develop a satisfactory maintenance capability. The BAF has pilots who, with normal familiarization training in CONUS, would be fully qualified to pilot the F-5.
+
+D. GOB has requested USG financing or sale approval with subsequent commercial financing. The BAF desires the most reasonable interest rates possible with a 2 year grace period followed by an extended repayment schedule (15 to 20 years total). The BAF Command expressed verbally, in conversations with US Ambassador Boeker and members of this MILGP, that the repayment of such loans would come from the normal BAF yearly budget, supplemented if and as necessary by income derived from commercial utilization of the BAF fleet of C-130s and F-27s.
+
+E. We believe Bolivia will attempt to finance such a purchase through some medium term borrowing arrangement from commercial sources. Repayments, not to begin before 1981, which, if the case, would postpone any immediate impact upon the Bolivian economy. Amortization would derive from the regular Air Force budget which BAF sources indicate will not require any appreciable increase because of inter alia increased revenues from their air cargo service. Moreover, if Bolivia is determined to go through with this Air Force upgrading, purchase of the F-5's would constitute a burden of considerably less dimension than would purchase of known alternative aircraft (i.e., a purchase of $75-100 as opposed to approximately $200 million).
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ06049
+
+- **Date:** July 13, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** FIGHTER AIRCRAFT, MILITARY ASSISTANCE PROGRAMS

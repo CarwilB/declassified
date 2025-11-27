@@ -1,0 +1,43 @@
+---
+title: "Pl-480 Title I Wheat. Refs: (A) State 244; (B) La Paz 0430; (C) La Paz 0321."
+author: "Stedman"
+date: "January 24, 1974"
+editor: visual
+cable-date: "January 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2042"
+cable-info: "Oct-01 Iso-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-10 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Aid-20 Come-00 Eb-11 Frb-02 Trse-00 Xmb-07 Opic-12 Ciep-02 Lab-06 Sil-01 Omb-01 Fea-02 Sci-06 Agr-20 Int-08 Cea-02 Str-08 Drc-01 /207 W --------------------- 089208 R 242118z Jan 74"
+cable-subject: "Pl-480 Title I Wheat. Refs: (A) State 244; (B) La Paz 0430; (C) La Paz 0321."
+cable-tags: "EAID ECON PFOR BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00526"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "WHEAT, PROCUREMENT, FOOD SHORTAGE, PUBLIC DEMONSTRATIONS, ECONOMIC ASSISTANCE, PL 480 TITLE 1,"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. We understand milling of PL-480 wheat in Arequipa has stopped. We unable get definite information from MININD/COM officials who say Subsecretary Zamorano is only official who has facts on this matter at his command. Zamorano has been out of La Paz.
+
+2. With reference para 2 ref A, GOB decision mill flour in Arequipa not a premeditated conscious violation of PL-480 regulations, during which GOB could take into consideration purchase of flour from U.S. GOB decision was taken in emergency situation created by a) Peruvian Southern Railway strike, b) need obtain storage space at Matarani for incoming shipments, and c) need insure adequate flour supply to La Paz at time when local mills were unable meet demand due their limited capacity and usual supply of flour from Argentina was not forthcoming. In these unforeseen and probably unforeseeable circumstances, we do not see that there is a U.S. domestic issue raised.
+
+3. We have serious reservations about telling MININD/COM, at this time at least, that his action to mill PL-480 wheat in Peru will automatically convert PL-480 purchase to commercial purchase. Bolivia is now undergoing great stress from GOB decisions to increase control prices on basic food items by more than 100 percent (see ref B). Street demonstrations, store break-ins and attempts, kidnapping of police officers, dynamitings, exchanges of gun fire with injuries between police and crowds have all occurred over the last few days. GOB feels none too secure. GOB also unhappy and shaken by USG decision not grant further PL-480 this FY and USG advice to not count on PL-480 for FY 1975. MININD/COM has already shown tendency to try to put as much blame for his present wheat and flour troubles on USG as he can (see ref C). We believe USG could come in for major public accusations that it is responsible for world wheat shortage, high wheat prices, and withdrawal of badly needed support at critical time if this situation is not handled carefully. Moreover, conversion to commercial sale would deny GOB about $20 million in generations which sorely needed. As ref A ignores 1) transport problems in moving wheat from Matarani to La Paz, etc., and transport and other problems in moving Argentine flour to Bolivia and 2) important factors presented in paras 3 and 4 above, request instruction ref A be carefully reconsidered.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00526
+
+- **Date:** January 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** WHEAT, PROCUREMENT, FOOD SHORTAGE, PUBLIC DEMONSTRATIONS, ECONOMIC ASSISTANCE, PL 480 TITLE 1,

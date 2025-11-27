@@ -1,0 +1,51 @@
+---
+title: "Bolivian Financial Crisis Deepens"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "May 11, 1979"
+editor: visual
+cable-date: "May 11, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 6225"
+cable-info: "Oct-01 Ads-00 Com-02 Lab-04 Aid-05 Ciae-00 Eb-08 Frb-03 Inr-10 Nsae-00 Ica-11 Trse-00 Xmb-02 Opic-07 Sp-02 Sil-01 Omb-01 Nsc-05 Ss-15 Str-08 Cea-01 Doe-15 Soe-02 /118 W ------------------014714 121327z /47 P 112130z May 79"
+cable-subject: "Bolivian Financial Crisis Deepens"
+cable-tags: "EFIN, EGEN, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ04170"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "FINANCIAL CRISIS, GOVERNMENT DEBTS, FINANCIAL RESERVES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. **Summary:** The Bolivian financial situation, which was critical before today's cabinet changes, may deteriorate sharply during the next six weeks. If the government cannot obtain substantial financial credits (i.e., in the vicinity of $100 million) before elections, a substantial buildup of arrearages on foreign obligations by the end of July is virtually a foregone conclusion.
+
+2. According to a reliable source who spoke with Minister Alba the evening of May 9, Alba told the cabinet meeting that morning that the country "had reached an historic landmark: reserves (i.e., the international reserves of the consolidated banking system) had fallen to zero." According to source, Alba also tried to press for action on hydrocarbons, referring to an earlier cabinet agreement in principle on the subject, but found that whatever accord may have existed had evaporated. At the same meeting, Minister of Energy and Hydrocarbons Candia is said to have informed the cabinet that YPFB (the government-owned petroleum company) will not have sufficient funds to meet its June payroll.
+
+3. In line with the gloomy economic news given the cabinet, the President of the Central Bank informed us that in the absence of new financial credits he doubted the government could continue to meet its financial obligations beyond June 15. He added that he had received offers of up to $150 million in financing, but that they were contingent upon the adoption of an economic stabilization program. In the absence of such a program he doubts that even short-term financing can be obtained, and he (a career banker) claims to have taken the position within the government that he will not lend his reputation to a search for credits unless, at a minimum, meaningful price increases in hydrocarbons are instituted.
+
+4. President Padilla's reaction to this pressure has been to fire both Finance Minister Alba and probably Central Bank President Fabri as well. He has replaced Alba with a loyal military man whose job will be to stop talking about economic reforms and start looking for enough borrowed money to finance reserve losses and essential domestic expenses, in particular government salaries, until the August transition. This will be Padilla's last word on economic measures unless financial collapse forces action.
+
+5. Lt. Colonel Javier Alcoreza, whom President Padilla named Minister of Finance May 11, although regarded as an able and intelligent officer, has no known experience in economics or finance, and is a relative stranger to domestic and international bankers. He is a close associate of President Padilla and has most recently been occupied with negotiating the bulk of Bolivia's 1979 arms purchases. The appointment as Minister of Finance of a man who lacks experience in economics and banking, and, more importantly, who is unknown to the international financial community, should make it more difficult for Bolivia to obtain credits from legitimate sources, particularly because it appears the government does not intend to implement policies (i.e., substantial price hikes in domestic hydrocarbons) which would gain the support of the IMF.
+
+6. As of April 30, the net international reserves of the Central Bank amounted to $111.2 million, and the bank was approximately $65 million overdrawn in its foreign exchange accounts with other banks. Both the IMF and the Central Bank report heavy buying of dollars by the public during the last two days. This demand for foreign exchange has undoubtedly moved the net international reserves of the consolidated banking system from zero, as reported by the Minister on May 9, into a negative position.
+
+7. During the next three months, Bolivia owes $68.88 million dollars in debt service payments: May $25.4 million, June $21.649 million; July $21.832 million. In addition, the nation faces heavy current obligations arising from a growing trade imbalance. Imports are said to be approximately 45 percent above 1978 levels for the first quarter, and Central Bank authorities are anticipating a current account deficit of at least $500 million. Unless new financial credits amounting to approximately $100 million are obtained during the next three months, the Padilla government will be unable to meet its foreign payment obligations beginning some time in July. Under present circumstances the Padilla government will have great difficulty raising these credits.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ04170
+
+- **Date:** May 11, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** FINANCIAL CRISIS, GOVERNMENT DEBTS, FINANCIAL RESERVES

@@ -1,0 +1,42 @@
+---
+title: "Foreign Government Tender: Pre-Selection."
+author: "Stedman"
+date: "January 03, 1974"
+editor: visual
+cable-date: "January 03, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Usdoc WashDC Priority"
+cable-info: "Oct-01 Ara-10 Iso-00 Drc-01 Rsc-01 /018 W --------------------- 011477"
+cable-subject: "Foreign Government Tender: Pre-Selection."
+cable-tags: "BEXP ENRG BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00039"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  Asesoria Legal de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), Casilla 401, La Paz, Bolivia. Cable address: YACIBOL.
+2.  Licitacion Número 180/73.
+3.  February 18, 1974, 6 P.M.
+4.  YPFB explicitly invites specialized firms from countries which are members of the Interamerican Development Bank (ID) and the World Bank to present their antecedents. YPFB will thereupon select firms who will be invited to present bids on detailed engineering, provision of equipment and material and actual construction of a petroleum refinery in Cochabamba, with a capacity of 25,000 barrels per day, another refinery in Santa Cruz with a capacity of 10,000 barrels per day, and a lubricants plant in Cochabamba with a capacity of 2,100 barrels per day. Embassy will attempt obtain gratis copy of specification and extension of BPD deadline. Interested parties may purchase specifications from item 6 address upon payment of 200 Bolivian pesos (US$ 10.00). Project is being financed by IDB loan 255/OCBO, for about US$ 45 million.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00039
+
+- **Date:** January 03, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

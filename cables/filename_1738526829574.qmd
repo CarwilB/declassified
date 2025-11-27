@@ -1,0 +1,47 @@
+---
+title: "Agricultural Trade Opportunity"
+author: "Stedman"
+date: "March 13, 1974"
+editor: visual
+cable-date: "March 13, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2515"
+cable-info: "Oct-01 Ara-10 Iso-00 Eb-05 Come-00 Rsc-01 Drc-01 /038 W --------------------- 086716 R 132017z Mar 74"
+cable-subject: "Agricultural Trade Opportunity"
+cable-tags: "BEXP, EAGR, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01537"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "AGRICULTURAL PRODUCTION, FOOD SHORTAGE, FOODS, AGRICULTURAL IMPORTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Direct Sale for Resale:**
+    **Description:**
+    *   2079165-0000 Salad or cooking oil 400,000 liters in 50-55 gallon drums.
+    *   2011517-0000. Lard commercial sizes, 1,000.
+    *   2041105-0000. White wheat flour, 5,000 tons.
+    *   2044011-0000. Glazed rice packed in 100 pound bags, 3,000 tons.
+    *   2041141-0000. Whole wheat, 5,000 tons.
+    All the above commodities should be quoted C&F Antofagasta, Chile or Matarani, Peru. Payment will be with an irrevocable letter of credit paid at documents presentation.
+    This opportunity reported upon explicit request from firm, which is one of the oldest import and retailers in the country. Its main activity is the import of tools and hardware in general. At present it wants to import agricultural products due to shortage of these products in the country. WTDR of December 1972.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01537
+
+- **Date:** March 13, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** AGRICULTURAL PRODUCTION, FOOD SHORTAGE, FOODS, AGRICULTURAL IMPORTS

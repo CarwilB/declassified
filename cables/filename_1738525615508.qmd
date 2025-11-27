@@ -1,0 +1,49 @@
+---
+title: "(C) Political Trends: First Quarter 1979"
+author: ""
+date: "April 19, 1979"
+editor: visual
+cable-date: "April 19, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 5816"
+cable-info: "Oct-01 Ads-00 Ciae-00 Dode-00 Pm-05 H-01 Inr-10 L-03 Nsae-00 Nsc-05 Pa-01 Sp-02 Ss-15 Ica-11 Aid-05 /074 W ------------------022351 210217z /70 R 191245z Apr 79"
+cable-subject: "(C) Political Trends: First Quarter 1979"
+cable-tags: "PINT, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ03402"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "POLITICAL STABILITY, TRENDS, POLITICAL SITUATION"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+2. **Summary:** Since the beginning of the YAR, President Padilla has firmly asserted control over Bolivia's governing military junta, skillfully deflecting potential challenges to his leadership and the democratization process. At the same time, however, he has resisted taking any significant action to shore up the nation's sagging economy and has allowed corruption in the armed forces and the government to spread unchecked. Against this background, the civilian political groups have been organizing slowly. Siles Zuazo's UDP coalition, initially plagued by defections and bitter internal dissension over Siles' choice of the MIR's Paz Zamora for the vice presidential slot, finally jelled on April 9. Paz Estenssoro, whose electoral alliance was formalized that same date, superficially appears to be in a better position than Siles Zuazo—but Siles, as last year, could prove to be the more effective vote getter. Bernal, who may hold the key to the presidency in the event of a congressional runoff, thus far has concentrated on cultivating the rural vote in Cochabamba and Oruro, while former President Banzer, the odd man out, has publicly announced that he will launch his own presidential bid.
+
+3. Since January, President David Padilla has demonstrated shrewd political judgment and, by acting pragmatically, has managed both to strengthen his position in power and to defuse potential threats to the democratization process. Not surprisingly, his first significant challenge came from within his military constituency. From the outset, many questioned whether Padilla would be able to control the headstrong "generationalist" officers who were the architects of the November 24 coup. Most concerned about Padilla's position were his high-ranked colleagues, many of whom feared that generationalist cabinet ministers Lt. Colonels Rolando Saravia (Agriculture), Victor Ramirez (Labor), and Raul Lopez (Interior) posed a threat to the military's hierarchical values; some also believed that Saravia and Lopez were "leftists," ideologically committed to Hernan Siles Zuazo's UDP.
+
+4. Whatever the merits of their case, Padilla accurately gauged the mounting anti-generationalist pressure, and—shortly after detecting an incipient conspiracy by pro-Banzer elements—he moved decisively. Taking advantage of the temporary absence from La Paz of such key ministers as General Jorge Echazu (Mines) and Lt. Col. Gary Prado (Planning), who might have opposed him on purely generational grounds, he squeezed Saravia and Ramirez out of the cabinet, leaving Lopez isolated and somewhat beholden to him. The upshot of this maneuver was that the pro-Banzer plotters were undercut, the senior-ranked officers were mollified, and Padilla's position vis-a-vis the generationalists was strengthened.
+
+5. Padilla has been equally pragmatic in his dealings with the civilian political sector. In his year-end national address, for example, he categorically rejected the political groups' recommendations that military troops be withdrawn from the mines, that labor union leaders be permitted to run for national office and that the controversial military-peasant pact be dissolved. His strong stance on these three issues promptly provoked stiff opposition. On the first—the presence of troops in the mines—he sensed he could hang tough—and did. But on the other two he quickly realized that his position was untenable. Within two weeks he reversed his decision on the labor leader question, and by the end of February the High Command formally suspended the military-peasant pact until after the election.
+
+6. Although Padilla has continually professed neutrality in the electoral process, it has become increasingly clear that he and key members of his government favor the presidential candidacy of Victor Paz Estenssoro. In mid-March, while Padilla was out of the country, military preferences (some for Bernal, some for Paz) translated into subtle pressures on the National Electoral Court. Jealous of their prerogatives, on March 20 the entire court decided to resign en masse—an action that prompted speculation that the election date would be postponed. Confronted by these rumblings, Padilla firmly set the democratization process back on course by rejecting the resignations and putting the court back to work. Later, when 57 separate groups applied for credentials to compete in the elections, Padilla expressed concern that last year's "political carnival" would be repeated. This concern spawned a tough decree providing for the imposition of severe financial liabilities on any electoral slate that fails to obtain at least 50,000 popular votes. As a result, the number of electoral slates this year will probably not exceed five—thus significantly improving the chances for a stable democratic government.
+
+7. In his single-minded zeal to keep the electoral process on course, Padilla unfortunately has proved short-sighted in other related areas. One of these is the economy. In a poor state when he took power, it has steadily deteriorated since. Padilla has resisted implementing significant corrective measures because he does not want to open the way for further criticism of the armed forces and because he fears that popular discontent could interfere with the democratization schedule. He has been notably less concerned about the prodigious burden that, as a result of his inaction, will be left for his successor.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ03402
+
+- **Date:** April 19, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** POLITICAL STABILITY, TRENDS, POLITICAL SITUATION

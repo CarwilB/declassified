@@ -1,0 +1,47 @@
+---
+title: "Patrol Craft For Bolivian Navy; Letter Offer From Adm. Zumwalt To Bolivian Cno."
+author: "Stedman"
+date: "January 04, 1974"
+editor: visual
+cable-date: "January 04, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 1871"
+cable-info: "Oct-01 Ss-14 Iso-00 Ara-10 L-02 Nsc-10 Nsce-00 Ciae-00 Inr-10 Nsae-00 Rsc-01 Dode-00 Iga-02 Eb-03 Trse-00 Omb-01 Mc-02 Spc-01 Drc-01 Aid-10 /071 W --------------------- 025739 R 041937z Jan 74"
+cable-subject: "Patrol Craft For Bolivian Navy; Letter Offer From Adm. Zumwalt To Bolivian Cno."
+cable-tags: "MASS BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00080"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "28 MAY 2004"
+cable-concepts: "MILITARY SALES, NAVAL SHIPS, DIPLOMATIC COMMUNICATIONS, MILITARY CREDIT, MILITARY ASSISTANCE AGREEMENTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Admiral Zumwalt has signed a letter dated December 13, 1973 to Admiral Pinto of the Bolivian Navy, offering "two small unarmed patrol craft, PBRs" to meet the Bolivian Navy's "requirements." Admiral Zumwalt's letter goes on to state: "The estimated cost of the craft, including necessary repairs to place them in good operating condition as training craft is $25,000 each. In order that we can expedite the procedures to transfer these units to your Navy, I would suggest the submission of a diplomatic note to the U.S. government stating your country's wish to make this purchase. The means of funding the craft is, of course, at your discretion. The use of MAP funds might be a possibility and this avenue would require coordination with our Military Group in Bolivia. Another means is by a direct purchase through the Foreign Military Sales. After the diplomatic note has been submitted and approved, precise price and availability information of the patrol craft can be provided. This will, in turn, provide the basis for an official letter of offer and acceptance. I would estimate that the craft would be ready for shipment to Bolivia within sixty days after the financial arrangements have been completed."
+
+2. Upon receipt of information that this letter had been sent to the Bolivian Navy, I have had a special meeting with the appropriate members of the MILGP and the Defense Attache's office to evaluate the offer and to formulate our responses if we receive a note as Admiral Zumwalt has suggested to the Bolivian Navy. As a result of this meeting, I have concluded that there is no objection on substantive grounds to the acquisition of these vessels from US, but I wish to record in the following paragraphs some observations about the manner in which this offer was made.
+
+3. Although Admiral Zumwalt's letter invites the GOB to consider inclusion of the patrol craft under MAP, this is a matter which of course should be reviewed by the IG/ARA and by the PMG if this mission were to recommend it, which we do not. Our position is that the Bolivians should either pay cash or use FMS. Accordingly, we are informally undertaking to discourage the Bolivian Navy from asking us to provide these vessels under MAP. We believe that this actually coincides with the Bolivian Navy's wishes to be on a more independent basis. If this analysis is correct, then the MAP suggestion in the letter may not cause us any political problems.
+
+4. The concerns I have about the manner in which the offer of the patrol craft was made are both substantive and procedural. The U.S. is conducting a MAP program in Bolivia and has sought over the past several years to develop a concept of coordinated or joint planning for this program. Thus, requests from Bolivian authorities for military equipment should be channeled through the MILGP here and then reviewed in an appropriate inter-agency forum in a systematic way in Washington. If Washington approval is then given to an offer of equipment, such an offer should be made by me or by elements of my mission at my direction so as to reinforce the Embassy's role as the responsible agency for the conduct of U.S. foreign affairs in Bolivia. Even if ceremonial or protocolary communications are made on a service to service basis, they should of course go through me, or be subject to my concurrence. On the substantive side, we now find that the two patrol craft are in fact to be substituted for a naval vessel already programmed under MAP which was to have replaced the existing MAP patrol craft, the J.F.Kennedy. The vessel which will now be deleted had been selected in a careful way as being the appropriate unit for use on Lake Titicaca. Again, we believe that we may be able to delete this vessel without political problems but cannot be completely sure.
+
+5. In view of the foregoing, I would appreciate it if the Department would take up with the Navy Department my concerns in the manner by which this offer of patrol craft was made to Bolivia and to seek agreement on the points that I have made to insure the more orderly conduct of our affairs in Bolivia.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00080
+
+- **Date:** January 04, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 28 MAY 2004
+
+- **Concepts:** MILITARY SALES, NAVAL SHIPS, DIPLOMATIC COMMUNICATIONS, MILITARY CREDIT, MILITARY ASSISTANCE AGREEMENTS

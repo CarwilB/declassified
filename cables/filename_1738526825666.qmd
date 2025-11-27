@@ -1,0 +1,40 @@
+---
+title: "Bolivia's U.s. Sugar Quota Refs: (Al La Paz A-048; (B) Ara/Bc Memo To Dept Asst Secy Szabo Dated February 28, 1974"
+author: "Stedman"
+date: "March 08, 1974"
+editor: visual
+cable-date: "March 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2489"
+cable-info: "Oct-01 Iso-00 Agr-20 Eb-11 Come-00 Aid-20 Ciae-00 Inr-10 Nsae-00 Rsc-01 Trse-00 Omb-01 L-03 Drc-01 /088 W --------------------- 050110 R 082203z Mar 74"
+cable-subject: "Bolivia's U.s. Sugar Quota Refs: (Al La Paz A-048; (B) Ara/Bc Memo To Dept Asst Secy Szabo Dated February 28, 1974"
+cable-tags: "ETRD, EAGR, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01454"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "SUGAR, AGRICULTURAL PRODUCTION, AGRICULTURAL DEVELOPMENT"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Ref A is comprehensive report on Bolivian sugar situation and will be in March 11 pouch. Ref presents strong evidence that Bolivian sugar production will continue its recent dynamic growth and that, therefore, Bolivia should be regarded as a reliable supplier.
+2. Would appreciate knowing whether Department has made presentation recommended in Ref B and, if so, results. Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01454
+
+- **Date:** March 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** SUGAR, AGRICULTURAL PRODUCTION, AGRICULTURAL DEVELOPMENT

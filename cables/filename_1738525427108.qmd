@@ -1,0 +1,51 @@
+---
+title: "Narcotics: Selection Of Consultants For Tropical And Citrus Fruits Feasibility Studies, Rfp No. 3104-802525, Bolivia Agricultural Development In Coca Zones, Prow/Ag 104-0-02-02 The Evaluation Panel Selected Included The Following Individuals: Ing. Clovis Villegas, Director Of Marketing, Project For The Development Of The Chapare - Yungas (Prodes); Ing. Francisco Pereira, Acting Director, Bolivian Agricultural Technology Institute (Ibta); Thomas C. James, Gereral Services Officer, Usemb/La Paz; Carlos E. Ferro, Procurement Officer, Office Of Development Resources, Usaid/ Bolivia; Howard L. Steele, Project Manager, Usda/Oinm. The Panel Met In Two Formal Sessions, May 14 And May 17. On May 17 Each Evaluator Submitted A Technical Evaluation Criteria Sheet And His Written Comments About Each Firm's Technical Proposal. The Results Are As Follows:"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "May 23, 1979"
+editor: visual
+cable-date: "May 23, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 6392"
+cable-info: "Oct-01 Ads-00 St-02 Aid-05 Ara-15 Inm-05 /029 W ------------------056081 261434z /14 R 232110z May 79"
+cable-subject: "Narcotics: Selection Of Consultants For Tropical And Citrus Fruits Feasibility Studies, Rfp No. 3104-802525, Bolivia Agricultural Development In Coca Zones, Prow/Ag 104-0-02-02 The Evaluation Panel Selected Included The Following Individuals: Ing. Clovis Villegas, Director Of Marketing, Project For The Development Of The Chapare - Yungas (Prodes); Ing. Francisco Pereira, Acting Director, Bolivian Agricultural Technology Institute (Ibta); Thomas C. James, Gereral Services Officer, Usemb/La Paz; Carlos E. Ferro, Procurement Officer, Office Of Development Resources, Usaid/ Bolivia; Howard L. Steele, Project Manager, Usda/Oinm. The Panel Met In Two Formal Sessions, May 14 And May 17. On May 17 Each Evaluator Submitted A Technical Evaluation Criteria Sheet And His Written Comments About Each Firm's Technical Proposal. The Results Are As Follows:"
+cable-tags: "SNAR"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ04507"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "AGRICULTURAL DEVELOPMENT, NARCOTICS, CONSULTANTS, FRUITS, STUDIES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Development Planning and Research Associates, Inc., Manhattan, Kansas.**
+    A. Weighted average evaluation score, 93.
+    B. Estimated total cost, US$102,595.
+
+2.  **Fredericksen, Kanine and Associates, Inc., Sacramaneo, California.**
+    A. Weighted average evaluation score, 84.
+    B. Estimated total cost, US$149,510.
+
+3.  **University of Florida, Gainesville, Florida.**
+    A. Weighted average evaluation score, 78.
+    B. Estimated total cost, US$63,350.
+
+The evaluation panel recommends that Development Planning and Research Associates, Inc. be contracted to perform the citrus and tropical fruits feasibility studies as soon as possible. All documentation, including the evaluator's original criteria scaling sheets for each firm, and the evaluator's comments regarding each firm, will be pouched to your office May 21, 1979.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ04507
+
+- **Date:** May 23, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** AGRICULTURAL DEVELOPMENT, NARCOTICS, CONSULTANTS, FRUITS, STUDIES

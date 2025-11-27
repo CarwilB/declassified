@@ -1,0 +1,47 @@
+---
+title: "Bolivia's Oil Import Problem-A Brazilian Solution?"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "March 10, 1979"
+editor: visual
+cable-date: "March 10, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState 5166"
+cable-info: "Oct-01 Iso-00 Com-02 Soe-02 Aid-05 Cea-01 Ciae-00 Dode-00 Eb-08 Doe-15 H-01 Inr-10 Int-05 L-03 Nsae-00 Nsc-05 Omb-01 Pm-05 Ica-11 Oes-09 Sp-02 Ss-15 Str-08 Trse-00 Acda-12 /136 W ------------------115732 120109z /15 R 101335z Mar 79"
+cable-subject: "Bolivia's Oil Import Problem-A Brazilian Solution?"
+cable-tags: "ENRG, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ02086"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "PETROLEUM, GASOLINE, TRADE AGREEMENTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Summary:** A combination of Bolivia's rapidly worsening balance of payments predicament and serious financial problems in YPFB is spurring efforts here to find a way to avoid the country's again becoming a net petroleum importer. One possible medium-term solution being discussed within the GOB is a petroleum swap with Brazil.
+
+2.  **The Problem:** Although declining, Bolivia's current crude production is approximately 31,000 BPD while consumption totals only 24-25,000 BPD. Nevertheless, the extreme lightness of Bolivian crude requires that the entire production be refined in country to supply needed heavy components. However, as consumption continues to rise (it has been increasing at 10 percent annually) and production declines, a point will be reached where local crude production will fail to provide the necessary 10,000 BPD of diesel, kerosene, jet fuel and fuel oil. This could occur as early as mid-1979 even though at that point domestic crude production will still substantially exceed domestic crude consumption. (Bolivia halted crude exports, all of which had been going to Argentina, in October 1978.)
+
+3.  **The resulting 2,000-3000 BPD heavy fuel shortfall:** Beginning some time during the latter half of this year could, of course, be dealt with by importing either crude or heavy product. However, importation presents a major transportation problem. The existing La Paz to Arica (Chile) pipeline is largely gravity operated and to reverse the flow would require a substantial new investment in pumping equipment. The only other transport alternatives -- a narrow gauge railroad from Arica and an often impassable parallel highway-- present their own serious problems.
+
+4.  **A Brazilian solution?** Faced with intermittent gasoline shortages in Western Mato Grosso, Petrobras has privately offered YPFB a trade: Brazilian crude for Bolivian gasoline on a barrel-for-barrel basis. However, according to Bolivian government sources, the Brazilian offer has, at least for now, been declined. The reason given is that with Bolivian gasoline worth more than an equal volume of Brazilian-supplied crude, the deal is inequitable.
+
+5.  **Comment:** The GOB could of course continue to export its excess gasoline and use the resultant foreign exchange to buy crude. But transportation remains a problem unless Petrobras agrees to simply sell crude rather than swap it for gasoline, a deal the Brazilian entity is reportedly presently unwilling to make. In spite of YPFB head Col. Jose Patino's initial rejection of the proposed Petrobras swap, it is likely the deal (perhaps sweetened somewhat by the Brazilians) will look increasingly attractive as the need to import the first shipment of crude approaches. In part, the appeal of the Petrobras offer is that a swap will avoid highlighting the continuation of the GOB's present subsidy of domestic fuel consumption. Importing world-market crude or product at higher unit prices than the fuel is resold for domestically will dramatize the subsidy and embarrass the GOB with local and foreign critics of its economic policies. By contrast, a swap would be far less dramatic and may well in the end prove irresistible to a government which is both loathe to raise fuel prices and embarrassed to highlight the fact that the country's once widely-touted oil wealth is no longer sufficient to fulfill even its own needs.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ02086
+
+- **Date:** March 10, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** PETROLEUM, GASOLINE, TRADE AGREEMENTS

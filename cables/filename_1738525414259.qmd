@@ -1,0 +1,56 @@
+---
+title: "Letter From President Padilla To President Carter"
+author: "End Quote."
+date: "February 23, 1979"
+editor: visual
+cable-date: "February 23, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 4937"
+cable-info: "Oct-01 Iso-00 Aid-05 Oes-09 Cpr-02 Nsce-00 Pa-02 Ss-15 Sso-00 Icae-00 /049 W ------------------024298 232250z /70 O 232145z Feb 79"
+cable-subject: "Letter From President Padilla To President Carter"
+cable-tags: "PPDC, TATT, BL, EAID"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ01647"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "PRESIDENT, DIPLOMATIC COMMUNICATIONS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. On February 23 President Padilla asked the Ambassador to come to the palace with Messrs. Paul and Bartolucci of AID who are in Bolivia to consider possible location here of an AID-financed regional center for remote sensing. President Padilla presented the Ambassador with the text of a letter to President Carter (repeated beginning paragraph 5 below with informal English translation). The original letter is being forwarded through the Bolivian Embassy in Washington.
+
+2. President Padilla said he wanted to emphasize his deep personal interest in locating the Latin American Regional Remote Sensing Center in Bolivia. He noted that this was an area of advanced technology where Bolivia's capability was well established and known to the U.S. through previous U.S.-Bolivian collaboration. President Padilla wanted to assure us that the Bolivian Government would do all that was necessary to support such a regional center if the U.S. could agree to locate it in Bolivia. He wanted to provide blanket assurance that the facilities and full cooperation of such a regional center would be available to all other Latin American countries without reservation, including Chile. The President also underlined that under several governments in Bolivia there has been continuity in the managers and technical personnel of Bolivia's remote sensing programs and that this continuity would pertain in the future as well.
+
+3. The Ambassador noted that we were indeed deeply impressed with Bolivian capabilities in the area of remote sensing technology and its productive application. He said that we do indeed consider Bolivia to be a solid candidate, among several others, for location of the regional center. The Ambassador said that he would do what he could to encourage location of the center in Bolivia.
+
+4. Mr. Paul explained the background of the proposal for a Latin America Regional Center and the experience AID has had with such centers in Africa and Asia. He noted that funds to support such a center could be available not only from AID but from the United Nations, the Andean Pact and other institutions as well.
+
+5. There follows Spanish text of letter to President Carter from President Padilla as presented to the Ambassador:
+
+> LA PAZ, 23 DE FEBRERO DE 1979
+> EXCELENTISIMO SENOR PRESIDENTE:
+> TENGO A HONRA DIRIGIRME A VUESTRA EXCELENCIA, PARA PONER EN SU DIGNO CONOCIMIENTO QUE MI PAIS, COMO UN POSITIVO EFECTO DE LA EXCELENTE UTILIZACION DE LA TECNICA DE SENSORES REMOTOS LOCALIZADOS EN PLATAFORMAS ESPECIALES DE LA SERIE LANDSAT DE LA ADMINISTRACION NACIONAL DE AERONAUTICA Y DEL ESPACIO (NASA) DE LOS ESTADOS UNIDOS, HA PODIDO OBTENER SIGNIFICATIVAS APLICACIONES Y RESULTADOS EN EL ESTUDIO DE LOS RECURSOS NATURALES DE BOLIVIA.
+> HACIENDO REFERENCIA A LA POLITICA DELINEADA POR SU ADMINISTRACION EN FECHA 11 DE OCTUBRE DEL PASADO ANO ACERCA DEL USO CIVIL DEL ESPACIO Y EN LA CUAL VUESTRA EXCELENCIA SE HA SERVIDO ENFATIZAR LOS IMPORTANTES RESULTADOS QUE LOS SENSORES REMOTOS APORTAN AL DESARROLLO DE NUESTROS PAISES, DESEO EXPRESARLE MI VIVO INTERES EN QUE EL ILUSTRADO GOBIERNO DE VUESTRA EXCELENCIA TENGA A BIEN CONSIDERAR LA POSIBILIDAD DE IMPLEMENTAR UN CENTRO REGIONAL DE ADIESTRAMIENTO EN EL CAMPO DE LOS SENSORES REMOTOS EN BOLIVIA, PRINCIPALMENTE LANDSAT, QUE BENEFICIARIA NO SOLAMENTE A MI PAIS, SINO A TODAS LAS NACIONES LATINOAMERICANAS.
+> PARA ESTA FINALIDAD, MI GOBIERNO SE HALLA RESUELTO A PONER A DISPOSICION DE TAN NOBLE OBJETIVO, TODAS LAS FACILIDADES ACTUALMENTE EXISTENTES, LAS CUALES HAN SIDO EVALUADAS POR LOS MIEMBROS DEL PROGRAMA DE SENSORES REMOTOS DS/ST DE LA AGENCIA DE LOS ESTADOS UNIDOS PARA EL DESARROLLO INTERNACIONAL (AID).
+> EN ESPERA DE TENER UNA POSITIVA RESPUESTA SOBRE ESTE ASUNTO QUE TANTO INTERESA A BOLIVIA, HAGO PROPICIA LA OPORTUNIDAD PARA OFRECER A VUESTRA EXCELENCIA, LAS SEGURIDADES DE MI CONSIDERACION MAS ALTA Y DISTINGUIDA.
+> GRAL. DIV. DAVID PADILLA ARANCIBIA, PRESIDENTE DE LA HONORABLE JUNTA MILITAR DEL GOBIERNO DE BOLIVIA.
+> AL EXCELENTISIMO SENOR DON. JIMMY CARTER PRESIDENTE DE LOS ESTADOS UNIDOS DE NORTEAMERICA WASHINGTON D.C. U.S.A.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ01647
+
+- **Date:** February 23, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** PRESIDENT, DIPLOMATIC COMMUNICATIONS

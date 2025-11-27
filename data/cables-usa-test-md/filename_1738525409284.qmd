@@ -1,0 +1,43 @@
+---
+title: "Peru Coca Survey Team Visit To Bolivia"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "July 31, 1979"
+editor: visual
+cable-date: "July 31, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Amembissy Lima"
+cable-info: "Oct-01 Ara-15 Ads-00 Deae-00 /021 W ------------------072524 020515z /11 R 311528z Jul 79"
+cable-subject: "Peru Coca Survey Team Visit To Bolivia"
+cable-tags: "SNAR, BL, PE"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ06523"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "OPIUM, SURVEYS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Subject: Peru Coca Survey Team visit to Bolivia
+Ref: Lima 6191
+
+Mission concurs with Peru Coca Survey Team visit to Bolivia. Team will be met and other details arranged. Confirmation of visiting dates will be made after August 6, 1979, due to the pending change of government.
+Boeker
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ06523
+
+- **Date:** July 31, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** OPIUM, SURVEYS

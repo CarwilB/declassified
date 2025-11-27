@@ -1,0 +1,39 @@
+---
+title: "Applegate/Youngquist Land Expropriation Case"
+author: "Stedman"
+date: "March 19, 1974"
+editor: visual
+cable-date: "March 19, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2569"
+cable-info: "Oct-01 Ara-16 Iso-00 L-03 Agr-20 Come-00 Ciae-00 Inr-10 Nsae-00 Rsc-01 Drc-01 Trse-00 /063 W --------------------- 010621 R 191322z Mar 74"
+cable-subject: "Applegate/Youngquist Land Expropriation Case"
+cable-tags: "ETRD, EAGR, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01658"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "LAND NATIONALIZATION, ATTORNEYS, PROPERTY TITLES, LAND REFORMS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+On presence Applegate, Youngquist or their attorney in Bolivia to deal with GOB in this matter, para 1, ref A wish draw Department's attention to fact that Applegate has been in Santa Cruz area for about two months to our knowledge without seeking Embassy help in this matter as reported ref B.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01658
+
+- **Date:** March 19, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** LAND NATIONALIZATION, ATTORNEYS, PROPERTY TITLES, LAND REFORMS

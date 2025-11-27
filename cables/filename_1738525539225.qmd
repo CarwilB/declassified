@@ -1,0 +1,47 @@
+---
+title: "Congress Chooses Gueiler To Be Interim President Of Bolivia"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "November 17, 1979"
+editor: visual
+cable-date: "November 17, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Niact Immediate 9338"
+cable-info: "Oct-01 Ads-00 Ciae-00 Pm-06 H-02 Inr-10 L-03 Nsae-00 Pa-02 Sp-02 Ss-15 Ssc-01 Sy-05 Usss-00 Eur-12 Io-15 Nsce-00 Sso-00 Icae-00 Inre-00 Anae-00 /089 W ------------------072407 170243z /73"
+cable-subject: "Congress Chooses Gueiler To Be Interim President Of Bolivia"
+cable-tags: "PINT, PINS, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ09940"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "PRESIDENT, INTERIM GOVERNMENT, POLITICAL SETTLEMENT"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Shortly after 8 PM tonight (Nov 16), the Congress in plenary session unanimously approved a resolution (a) revoking the presidential mandate of Walter Guevara and (b) naming congressional chairperson Lydia Gueiler as interim president of the country until August 6, 1980.
+
+Although not so stipulated, the congressional resolution of last August calling for presidential and vice presidential--rather than general--elections evidently remains in force.
+
+2. The selection of Ms. Gueiler presumably was approved in principle during last evening's bilateral negotiations between representatives of the Armed Forces and the Congress. Immediately afterward, Col. Natusch, appearing on national television, formally resigned.
+
+3. At approximately 8:05 PM Ms. Gueiler took the oath of office on the floor of the Congress. After congressmen and spectators sang a verse of the national anthem, she gave a brief, emotional address recalling her 30 years of "patriotic struggle" as a "revolutionary woman" and pledging to defend the Congress and the Constitution.
+
+4. Gueiler, about 60 years old, was one of the founding members of the Nationalist Revolutionary Movement (MNR). After the 1952 Revolution, she held a position in the Ministry of Labor, and in 1960 she served as a congressional deputy. She subsequently joined Juan Lechin to form the labor-oriented Party of the Revolutionary Left (PRIN). In the late 1970s, when the PRIN became schismatic, she established her own party faction. In the 1979 elections, she was a member of Victor Paz Estenssoro's MNR alliance; Edwin Moeller, a former husband, headed a second PRIN faction which supported Hernan Siles' UDP. Ms. Gueiler has a grown daughter, and a grandchild who is currently studying at a university in Florida.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09940
+
+- **Date:** November 17, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** PRESIDENT, INTERIM GOVERNMENT, POLITICAL SETTLEMENT

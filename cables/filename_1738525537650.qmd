@@ -1,0 +1,41 @@
+---
+title: "Death Of U.s. Citizen Frances Christian Ring To: Mr. Clayton Hall 5906 East University Boulevard Apt 201 Dallas, Texas 75206 Tel. (214) 739-2921"
+author: ""
+date: "December 06, 1979"
+editor: visual
+cable-date: "December 06, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Niact Immediate 9642"
+cable-info: "Oct-01 Cco-00 Paso-00 Sso-00 Ads-00 H-02 /009 W ------------------091403 062125z /66 O 062112z Dec 79 Zff4"
+cable-subject: "Death Of U.s. Citizen Frances Christian Ring To: Mr. Clayton Hall 5906 East University Boulevard Apt 201 Dallas, Texas 75206 Tel. (214) 739-2921"
+cable-tags: "CDES, BL (RING, FRANCES CHRISTIAN)"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ10441"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Remains of Frances Christian Ring due to depart La Paz 1910 hours December 6 aboard LAB Flight 861 for Miami. Casket will be transferred to Braniff Flight 140 scheduled to arrive Dallas 1430 hours on December 7, 1979.
+2. Pearson Funeral Home, Overton, Texas advised by separate telegram regarding arrival time and has been requested to meet flight.
+3. Please accept our deepest sympathy in your bereavement. If we can be of any further assistance, please do not hesitate to contact us.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ10441
+
+- **Date:** December 06, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

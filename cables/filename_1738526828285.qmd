@@ -1,0 +1,45 @@
+---
+title: "Applegate - Youngquist Land Expropriation Case Reference: 1) State 047381: A) State 46969"
+author: "Stedman"
+date: "March 12, 1974"
+editor: visual
+cable-date: "March 12, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2510"
+cable-info: "Oct-01 Ara-16 Iso-00 Agr-20 Come-00 Aid-20 Omb-01 Trse-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Str-08 Drc-01 /152 W --------------------- 075291 R 122118z Mar 74"
+cable-subject: "Applegate - Youngquist Land Expropriation Case Reference: 1) State 047381: A) State 46969"
+cable-tags: "ETRD, EAGR"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01520"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "LAW, LAND NATIONALIZATION, TAXES, ATTORNEYS, PROPERTY TITLES, FOREIGN POLICY POSITION, LAND REFORMS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. The Embassy has received a copy of a letter signed by the Ministry of Industry and Commerce to Mr. J.A. Moran, attorney for Applegate-Youngquist, in reply to his letter to GOB of January 11. GOB reply inter alia 1) states the GOB cannot be subject to pressures or threats; 2) renews offer of compensation in form of land; 3) asks for documentation regarding Applegate-Youngquist payment of taxes prior to seizure of land, deeds of title and appointment of legal representative for Applegate & Youngquist, or alternatively their presence in Bolivia, in order to deal with GOB on the matter. Although the letter is somewhat brusque in tone, we do not necessarily consider it a step backward since the documents sought by GOB are presumably available in one form or another from Applegate & Youngquist.
+
+2. GOB's letter, of course, does not advance case beyond where it stood in December 1973 when GOB offered land in compensation but refused to pay any monetary compensation. Reftels, however, suggest that members House Agricultural Committee may have idea that GOB is totally intransigent on matter when in point of fact GOB offer of compensation in land represents considerable improvement in GOB position from what it was a few years ago. As regards Moran's statement to Committee that he unaware of any "good faith efforts being made to settle case", this at variance with his letter to GOB of January 11 in which he says "offer land compensation is first specific proposal for settlement received from GOB" and emphasizes "our appreciation" for offer. It should be noted also that Applegate & Youngquist would be free to sell land received in compensation if they do not choose to farm it. If land received in compensation can be sold at a price equivalent to the value of Applegate-Youngquist property at the time of taking, is this not in fact the same thing as monetary compensation? Finally, as far as Embassy aware, no Bolivian or foreigner has ever been compensated in any form for lands expropriated pursuant to Agrarian Reform legislation.
+
+3. If House Committee seriously considering tightening discretionary provisions Sugar Act, Section 408 (C), with possible subsequent invocation against GOB, we believe Committee should have the full picture before acting. Testimony of lobbyist for GOB as reported State 046969, does not strike us as having given a complete picture of case. If Department unable to provide House Committee with current status report on case, we recommend that Bolivia's lobbyist be advised promptly to do so.
+
+4. We are pouching to ARA/BC copy of GOB letter of March 1.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01520
+
+- **Date:** March 12, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** LAW, LAND NATIONALIZATION, TAXES, ATTORNEYS, PROPERTY TITLES, FOREIGN POLICY POSITION, LAND REFORMS

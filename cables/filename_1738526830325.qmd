@@ -1,0 +1,60 @@
+---
+title: "Agricultural Trade Opportunity"
+author: "Stedman"
+date: "March 14, 1974"
+editor: visual
+cable-date: "March 14, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2541"
+cable-info: "Oct-01 Ara-10 Iso-00 Eb-05 Rsc-01 Drc-01 /038 W --------------------- 099479 R 141903z Mar 74"
+cable-subject: "Agricultural Trade Opportunity"
+cable-tags: "BEXP, EAGR, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01571"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "AGRICULTURAL EXPORTS, TRADE OPPORTUNITY REPORTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. 335/01/A0005.
+2. 031374.
+3. E. ROJAS.
+4. 335 BOLIVIA.
+5. ID.
+6A. REPLY TO --.
+6B. LUIS PRUDENCIO.
+6C. SOCIEDAD AUONIMA COMERCIAL, INDUSTRIAL
+   CASILLA 346
+   LA PAZ, BOLIVIA.
+7. CABLE: SACI.
+8. --.
+9. 102. 9A. DIRECT SALE FOR RESALE.
+10. DESCRIPTION:
+2079165-0000. GRADE A SALAD OR COOKING OIL, COMMERCIAL SIZES,
+500 TONES.
+2043053-0000. ROLLED OATS, 300 TONS.
+ALL PRICES SHOULD BE QUOTED CIF ARICA. THIS OPPORTUNITY REPORTED
+UPON EXPLICIT REQUEST FROM FIRM. IT HAS ONE OF THE LARGEST FLOUR
+MILLS IN THE COUNTRY. ALSO IMPORTS AGRICULTURAL MACHINERY AND
+PHARMACEUTPCALS. WTDR OF OCTOBER, 1973.
+STEDMAN
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01571
+
+- **Date:** March 14, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** AGRICULTURAL EXPORTS, TRADE OPPORTUNITY REPORTS

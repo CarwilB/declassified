@@ -1,0 +1,43 @@
+---
+title: "Reaction To Gob Economic Measures"
+author: "Stzeman"
+date: "January 24, 1974"
+editor: visual
+cable-date: "January 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2026"
+cable-info: "Oct-01 Iso-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-10 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Eb-11 Come-00 Trse-00 Aid-20 Agr-20 Drc-01 /150 W --------------------- 077188 P 241549 Z Jan 74"
+cable-subject: "Reaction To Gob Economic Measures"
+cable-tags: "ECON, BL"
+cable-ref: "LA PAZ 0430 SUMMARY: GOB SEEKING TO PROMOTE ACCEPTANCE OF ECONOMIC MEASURES DECREED EVENING JANUARY 20. MINISTERS OF FINANCE AND IND/COM HELD JOINT RADIO/TV INTERVIEW JANUARY 21 AND FINANCE MINISTER AND MINISTER SECRETARY AND MINISTER OF TRANSPORTATION GAVE OTHER RADIO/TV INTERVIEWS JANUARY 22 ATTEMPTING TO ASSURE POPULACE THAT STEPS TAKEN NECESSARY TO ELIMINATE SHORTAGES AND THAT THEY ARE SUFFICIENT AND FURTHER PRICE INCREASES SHOULD NOT BE ANTICIPATED. SUB-SECRETARY OF COMMERCE TOLD EMBOFF THAT HE ESTIMATES FOOD SUPPLIES MUST BE REGULARIZED IN NEXT TEN DAYS OR PUBLIC CONFIDENCE WILL BE LOST AND MEASRES WILL PROVE INEFFECTIVE. END SUMMARY."
+cable-doc-number: "1974LAPAZ00493"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "CONTRABAND, DEVALUATIONS, ECONOMIC PROGRAMS, EXPORTS, FOOD SHORTAGE, IMPORTS, PRESS COMMENTS, PRESS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Simple explanation given by government for measures, for instance in signs posted throughout city, is that lines (colas) had to be eliminated.** Without clear elaboration, press reported that in interviews ministers referred to four problems as cause of government action: contraband and hoarding, overevaluation of neighboring countries' currencies, national production and imports. Minister Ind/Com Pereda said that country "not an island" but has long border and although government earlier froze prices, world experiencing worst economic crisis since 1930 and forces of inflation have had local effect. Ministers explained that wheat essentially transportation problem but said that sugar in oversupply and rice harvest delayed. They stated that official meat prices will not be raised. Subsequent press notice stressed that a general price increase not permitted and forty-four basic items still controlled at former prices.
+2.  **Government took pains to emphasize that there will be no devaluation.** One of decrees gave guarantee against devaluation for domestic savings. Minfin stated that this year Bolivia will have favorable balance of payments. He admitted that some additional measures, such as reduction of export taxes and import duties and some internal taxes, are being contemplated to stimulate production and ease burden of new bonus on private concerns.
+3.  **For benefit of press Minfin gave detailed breakdown of government's calculation of $B400 bonus showing that it based on effect of new prices on "market basket" survey done by Factory Workers Federation.** He said that ministry concluded that $B254 bonus merited but President Banzer personally ruled that higher amount should be paid. Workers who have more than one source of income or who benefit from subsidized commissary will have to negotiate with employers regarding size of bonus. According to press some firms complaining of inability to pay bonus.
+4.  **Although no announcement made of new public transportation fares Minfin inferred that 30 percent rise can be expected and we understand that negotiations now underway with drivers.** He stated that public transportation subsidy will continue and domestic gasoline prices will not be raised because international prices high enough to support present low domestic gasoline price.
+5.  **Comment:** Initial reaction to measure is one of uncertainty and to some extent confusion caused by GOB's explanation of measures. As result most storekeepers have shut doors and generally retailers have shown hesitancy in dealing with public. Labor highly concerned about price rises while downplaying benefit of bonus (see septel). An economic slowdown and increased unemployment are probably very bad eventualities unless GOB provides some form of relief, possibly tax concessions, restoration of subsidies to some basic food crops, etc. The subsidy may not be reasonable tool if absolute scarcities prevail and tax concessions may be overly costly to fiscal integrity of GOB.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00493
+
+- **Date:** January 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** CONTRABAND, DEVALUATIONS, ECONOMIC PROGRAMS, EXPORTS, FOOD SHORTAGE, IMPORTS, PRESS COMMENTS, PRESS

@@ -1,0 +1,53 @@
+---
+title: "Special Trade Opportunity: Petroleum Refineries - Follow-Up"
+author: "Stedman"
+date: "January 09, 1974"
+editor: visual
+cable-date: "January 09, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Usdoc WashDC Priority"
+cable-info: "Oct-01 Ea-11 Iso-00 Eb-11 Ciae-00 Inr-10 Nsae-00 Rsc-01 Aid-20 Trse-00 Scem-02 Ss-20 Int-08 Drc-01 /105 W --------------------- 056774"
+cable-subject: "Special Trade Opportunity: Petroleum Refineries - Follow-Up"
+cable-tags: "BEXP, ETRD, ENRG, EFIN, BL, JA"
+cable-ref: "A-62 APRIL 6, 1973 AND LA PAZ 0039 (NOTAL)"
+cable-doc-number: "1974LAPAZ00172"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PETROLEUM, CONSTRUCTION, REFINERIES, PROPOSALS (BID), LOANS, NEGOTIATIONS, EXPORT DATA"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Reftel reported our T0013, an invitation for preselection of bidders to design and build two refineries and one lubricants plant, with financing by IDE.
+
+2. Rolanda Prada, general manager, Yacimientos Petroliferos Fiscales Bolivianos (YPFB), the Bolivian government's petroleum corporation which issued invitation, at dinner at Ambassador Stedman's residence on January 8, mentioned to Emboffs that YPFB may forswear use of IDB credit to finance building refineries at Cochabamba and Santa Cruz. As originally planned, project will cost US $58 million, 20 percent of which will be paid by YPFB and the remainder financed by IDB. He stated IDB demands too many requisites and takes too long to disburse. He added that loan negotiations for refineries and lubricant plant have been going on now for over two years and may continue for an additional six months. He added that it is just as convenient financially to borrow commercially (has had offer of 10-year credit from First National Bank of Boston) and roll over credit as it is to borrow from IDB ordinary capital.
+
+3. He said YPFB tired of waiting and has issued cited invitation with deadline of February 18. YPFB expects to get favorable bid from Japanese firms which may agree to receive payment in crude petroleum.
+
+4. Prada also said Santa Cruz refinery is to be constructed with 10,000 barrel per day capacity, expandable to 15,000.
+
+5. Refair is 1972 "Petroleum Report", containing more detail on Bolivian petroleum industry. Invitation's specifications were sent to USDOC (BIC-267) January 3, 1973.
+
+6. Bolivia's petroleum exports in 1973 estimated at 11.9 million barrels up from 10.9 million in 1972.
+
+7. **Comment:** Should be borne in mind that, if Japanese get contract it will be major entree for them as seller to YPFB as well as buyer of Bolivian crude. Embassy believes that, as indicated to Emboffs earlier on January 8, YPFB would be receptive to a similar offer from U.S. firm.
+
+8. **Action Requested:** Encourage U.S. firms to communicate directly with YPFB ASAP at address shown Reftel. Also, make available to interested U.S. firms the detailed IDB documents on this project.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00172
+
+- **Date:** January 09, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PETROLEUM, CONSTRUCTION, REFINERIES, PROPOSALS (BID), LOANS, NEGOTIATIONS, EXPORT DATA

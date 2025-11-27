@@ -1,0 +1,88 @@
+---
+title: "(C) The Bolivian Economy On A Tightrope; Cerp 102"
+author: ""
+date: "March 15, 1979"
+editor: visual
+cable-date: "March 15, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 5260"
+cable-info: "Oct-01 Iso-00 Mmo-01 Eb-08 Come-00 Trse-00 Ciae-00 Inr-10 Nsae-00 Cea-01 Ss-15 Nsc-05 Aid-05 Xmb-02 Frb-03 Doe-15 Soe-02 Sp-02 Gsa-02 Int-05 Agre-00 Pa-01 Ica-11 /104 W ------------------048601 152329z /66 P 152155z Mar 79"
+cable-subject: "(C) The Bolivian Economy On A Tightrope; Cerp 102"
+cable-tags: "EGEN, EFIN, BL"
+cable-ref: "(A) LA PAZ 2233 (STADIS) (B) LA PAZ 1469"
+cable-doc-number: "1979LAPAZ02299"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "CERP, ECONOMIC REPORTS, ECONOMIC DATA"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+2. **Summary:** The latest Central Bank estimates of Bolivia's 1978 balance of payments performance show that imports (FOB) increased 23 percent during the year, while exports (FOB) fell 1.1 percent, and the services account deficit rose by more than 39 percent. These unhappy phenomena gave rise to a current account deficit of $385.1 million. Year-end short-term borrowings, which appear to have amounted to approximately $100 million, held the balance of payments deficit to an estimated $123.3 million.
+
+3. The Padilla government has not and almost certainly will not adopt economic measures that will arrest the deterioration which is so evident from the 1978 results. Import growth is said to be continuing, and we do not expect a net increase in export earnings. The key to Bolivia's balance of payments results in 1979 will be the management of the capital account. As disbursements under USAID and World Bank loans are being limited by a shortage of Bolivian counterpart funds, thereby reducing inflows from these sources, the capital account balance will depend heavily upon the government's success in refinancing debt, in securing new credits, and in maintaining public confidence so as to minimize short term capital flight. To date the Padilla government has not performed effectively in any of these three areas. Although we continue to believe the government has a reasonable chance of muddling through financially until elections, a continuing build-up of arrearages on official debt is possible if credit negotiations are not brought to a successful conclusion, and if creditors ultimately balk at rolling over a major portion of the debt service payments due this year. End summary.
+
+4. **1978 Results.** The most recent estimates of Bolivia's 1978 balance of payments performance, prepared by the Central Bank February 22, 1979, are summarized below:
+
+| | 1977 | 1978 | Percent Change |
+| :------------------------------ | :--- | :----- | :------------- |
+| **CURRENT ACCOUNT** | | | |
+| A. Exports (FOB) | 649 | 641.7 | (1.1) |
+| B. Imports (FOB) | (644) | (791.9) | 23 |
+| C. Services | (188) | (261.9) | 39.3 |
+| D. Transfers | 15 | 27 | |
+| E. Balance | (168) | (385.1) | |
+| **CAPITAL ACCOUNT** | | | |
+| A. Long Term Capital (Net) | 335 | 294.1 | |
+| B. Short Term Capital (Net) | (96) | 1.6 | |
+| C. Balance | 239 | 295.7 | |
+| D. Errors and Omissions | (39) | (33.9) | |
+| E. Net Balance | 32 | (123.3) | |
+
+(Note: Figures in parentheses are negative.)
+The net short term capital balance is somewhat misleading. According to the Central Bank, public enterprises received $97 million in short term credits in 1978, and the private sector absorbed another $50 million in short term loans. These credits offset short term outflows of $145.5 million.
+
+5. **Minerals and Hydrocarbons Exports.** We estimate that mineral and hydrocarbons exports in 1979 will vary little from levels attained last year. Increased sales of gas to Argentina will bring $15.99 million in additional revenues, but petroleum exports are expected to decline by $37.82 million as production continues to fall and domestic consumption increases. The following are our projections of 1979 mineral and hydrocarbons exports, together with actual exports for 1978.
+
+(ALL AMOUNTS IN MILLIONS OF $ US)
+
+| Commodity | Exports-1978 (FOB) | Exports-1979 (FOB) |
+| :------------------------------ | :----------------- | :----------------- |
+| **TIN** | | |
+| Metallic | 191.77 | 211.19 |
+| Concentrate | 138.6 | 122.84 |
+| Alloy | 5.39 | 6.37 |
+| **ANTIMONY** | | |
+| Metallic | 4.92 | 4.26 |
+| Concentrate | 12.13 | 9.38 |
+| ZINC | 5.18 | 6.00 |
+| TUNGSTEN | 34.81 | 25.98 |
+| COPPER | 2.52 | 4.90 |
+| LEAD | 7.78 | 8.61 |
+| SILVER | 22.25 | 22.34 |
+| OTHERS | 1.58 | 1.76 |
+| **TOTAL MINERALS** | **426.93** | **423.63** |
+| NATURAL GAS | 78.51 | 94.50 |
+| PETROLEUM | 42.32 | 4.50 |
+| LIQUID GAS | 1.31 | 1.32 |
+| GASOLINE | 0 | 17.0 |
+| **TOTAL HYDROCARBONS** | **122.14** | **117.32** |
+| **TOTAL MINERALS AND HYDROCARBONS** | **549.07** | **540.95** |
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ02299
+
+- **Date:** March 15, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** CERP, ECONOMIC REPORTS, ECONOMIC DATA

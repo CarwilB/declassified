@@ -1,0 +1,49 @@
+---
+title: "Farmabol Case"
+author: "Stedman"
+date: "January 25, 1974"
+editor: visual
+cable-date: "January 25, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2046"
+cable-info: "Oct-01 Iso-00 L-03 Eb-11 Inr-10 Drc-01 Rsc-01 /047 W --------------------- 090669 P 251724z Jan 74"
+cable-subject: "Farmabol Case"
+cable-tags: "BDIS, EIND, BBAK, BL"
+cable-ref: "A) STATE 14854; B) LA PAZ 470; C) STATE 13866; D) BINNS' MEMO OF JAN. 3, 1974"
+cable-doc-number: "1974LAPAZ00538"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "FINANCIAL TRANSACTIONS, LOANS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  As of six p.m. Jan 24, Capt. Sanchez had not returned from his trip. His office promised to have him telephone Embassy immediately upon his return.
+
+2.  Comment: We are in complete accord with Department's desire that the USG's role in this case be essentially that of honest broker and are satisfied that the GOB officials concerned with this dispute so regard us. When Capt. Sanchez was informed of substance of Ref D, he seemed more appreciative of the demonstration of the USG's willingness to act as an honest broker than disturbed by what he clearly understood to be merely an initial and fragmentary report. We are confident that the GOB continues to regard settlement of the Farmabol dispute as in its interest and continues to see Atty. Hathorn's packages as a promising vehicle for resolution. (Obviously, confirmation of our impression must await Sanchez' return.) Clearly, however, Hathorn's packages must stand on their own merits.
+
+3.  As Department is aware, Atty. Hathorn came to Bolivia with three arrows in his quiver: A) Settle the Farmabol dispute; B) Offer the Dominick & Dominick loan, and C) offer the complex "fiduciary deposit" loan package described in La Paz 7639 and La Paz 7614. As reported in our A-268, Hathorn said the loans and the Farmabol settlement need not be directly tied together. While here, he clearly gave impression that he was more interested in arranging the "fiduciary deposit" loan package than either or both of the other matters. Moreover, Hathorn said purpose of his December trip here was to establish parameters of discussion. He left satisfied he had done so and clearly aware that next step would be satisfaction of GOB's inquiries about his own, his firm's and his backers antecedents and bona fides.
+
+4.  Department will recall that GOB was embarrassed last summer by a $US 225 million loan offer (among several others) that could not be closed after public announcement. If for no other reason, GOB officials would today approach any package with healthy caution which we feel should be encouraged and which, to the extent that U.S. citizens are involved, we feel we should help satisfy.
+
+5.  On the other hand, while we are indeed anxious to see Farmabol dispute resolved, we do not feel that Atty. Hathorn's packages constitute only opportunity history will offer. Capt. Sanchez was the only GOB official informed of Ref D and we believe he should continue to be the channel of information, any other approach, in our view, would put USG in the position of seemingly endorsing a specific transaction. End comment.
+
+6.  Action requested: Ref. C reported Dominick & Dominick President Kennedy said quote he would be aware of a transaction of this magnitude end quote and also reported that Dominick & Dominick's S.A. Megeath quote confirmed Hathorn was authorized to propose $US 15 million transaction to GOB end quote. To close circle, Department is requested to seek confirmation from Kennedy that Megeath is empowered to commit Dominick & Dominick in this matter. Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00538
+
+- **Date:** January 25, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** FINANCIAL TRANSACTIONS, LOANS

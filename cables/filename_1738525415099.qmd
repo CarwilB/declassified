@@ -1,0 +1,41 @@
+---
+title: "Request For Status On Background Investigation"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "December 04, 1979"
+editor: visual
+cable-date: "December 04, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 9596"
+cable-info: "Oct-01 Ara-15 Ads-00 Aid-05 Deae-00 Per-05 /031 W ------------------079375 051108z /17 R 041653z Dec 79"
+cable-subject: "Request For Status On Background Investigation"
+cable-tags: "ASEC"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ10373"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Please provide status and expected completion date of background investigation pending on Consuelo V. Franco, USAID Bolivia FSN employee intended spouse of DEA SA Mario Perez. Case forwarded 24 October, 1979.
+
+Boeker
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ10373
+
+- **Date:** December 04, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

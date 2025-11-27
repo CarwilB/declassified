@@ -1,0 +1,53 @@
+---
+title: "[subject not available]"
+author: "French Acting"
+date: "February 11, 1974"
+editor: visual
+cable-date: "February 11, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Usinfo WashDC"
+cable-info: "Oct-01 Iso-00 Pa-01 Inr-01 /005 W --------------------- 126516 R 111959z Feb 74"
+cable-subject: "[subject not available]"
+cable-tags: "PFOR, BL, XR, XS, XL, PRESENCIA"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00907"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "FOREIGN RELATIONS, PRESS COMMENTS, PANAMA CANAL TREATY, NEGOTIATIONS, MAGAZINES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+UNCLAS LA PAZ 0907
+
+FOR: IPS/IBS
+
+REF: FEB 8 WIRELESS
+
+La Paz. "Presencia", uno de los periódicos de mayor circulación en Bolivia, en su editorial del sábado último (febrero 9), bajo el título de "Solución al Problema del Canal de Panamá", entre otras cosas dice:
+"Si queremos construir una América fuerte y progresista, es imprescindible la cooperación entre las naciones ricas y pobres del hemisferio. De ahí la importancia que tiene que reconocerse a las buenas relaciones entre Estados Unidos y América Latina y la necesidad que hay de eliminar aquellas condiciones que llevan a malos entendidos.
+"Un paso notable se ha dado recientemente, cuando Estados Unidos y Panamá suscribieron un documento en el cual se sientan las bases para llegar posteriormente a un tratado que substituya al de 1903, todavía vigente, y que, por las injusticias que contiene es fuente de continuos roces...
+En los últimos veinticinco años, Estados Unidos fue impulsor de la independencia de muchas naciones coloniales y, por lo tanto, no podía negarse a seguir la misma ruta en lo que toca a relaciones similares, si no iguales, que mantiene con algunos territorios. Que la nueva mentalidad se abre camino es comprobado por varios hechos, como la finalización de la guerra de Vietnam, varias declaraciones oficiales de los últimos años y la actitud ante las justas reclamaciones panameñas".
+
+Luego de afirmar que el caso de Panamá tenía que ser resuelto por varias razones y mostrar su creencia de que también el caso de Guantánamo será resuelto cuando mejoren las relaciones entre Estados Unidos y Cuba, el editorial de "Presencia" finaliza diciendo:
+"Si los principios ahora acordados llegan a concretarse en un tratado, como esperamos que suceda, todos habremos ganado, inclusive Estados Unidos, que podrá integrar en mejores condiciones la Comunidad Americana y eliminar una fuente de incomprensiones. Así lo han de ver quienes, en la potencia norteña, no tengan vista de corto alcance y adviertan lo mucho que podemos hacer todos en una acción mancomunada. Y sostenida en la igualdad y la amistad."
+
+French acting
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00907
+
+- **Date:** February 11, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** FOREIGN RELATIONS, PRESS COMMENTS, PANAMA CANAL TREATY, NEGOTIATIONS, MAGAZINES

@@ -1,0 +1,40 @@
+---
+title: "Un: Bolivia Protests Sale Of Tin From U.s. Strategic Reserves"
+author: ""
+date: "October 24, 1979"
+editor: visual
+cable-date: "October 24, 1979"
+cable-from: "Usmission Usun New York"
+cable-to: "SecState WashDC 3412"
+cable-info: "Oct-01 Ara-15 Ads-00 Eb-08 Com-04 Gsa-02 Fema-02 Dode-00 Int-05 L-03 Ciae-00 Inr-10 Nsae-00 Pa-02 Ica-15 Sp-02 Ss-15 Nsc-05 /104 W ------------------056195 271426z /73 R 242334z Oct 79"
+cable-subject: "Un: Bolivia Protests Sale Of Tin From U.s. Strategic Reserves"
+cable-tags: "PORG, EMIN, BL, US"
+cable-ref: ""
+cable-doc-number: "1979USUNN04608"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "TIN, SALES, GOVERNMENT REACTIONS, DIPLOMATIC COMMUNICATIONS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Bolivian PERMREP circulated, as an official document of the General Assembly under agenda item 12, the complete text of the letter from Bolivian Foreign Affairs Minister Fernandez to Ambassador Boeker dated September 28, 1979, protesting the approval by the Senate Armed Services Committee of a bill that would permit the sale of tin from the U.S. strategic reserves on the international market. We are not repeating text which we assume has already been transmitted by AmEmbassy La Paz.
+2. **Comment:** Bolivia circulated its letter within the 3rd Committee - Social (not 2nd Committee - Economic) under item 12 (report of ECOSOC). There is no indication that any action by the General Assembly is being requested or expected. McHenry
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979USUNN04608
+
+- **Date:** October 24, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** TIN, SALES, GOVERNMENT REACTIONS, DIPLOMATIC COMMUNICATIONS

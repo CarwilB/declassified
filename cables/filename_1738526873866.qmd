@@ -1,0 +1,169 @@
+---
+title: "Pl-480, Title I, Cup Payment"
+author: "Stedman"
+date: "July 24, 1974"
+editor: visual
+cable-date: "July 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3735"
+cable-info: "Oct-01 Ara-10 Iso-00 Fse-00 Abf-01 L-03 Rsc-01 Drc-01 Aid-07 Iga-02 Eb-05 /031 W --------------------- 108101 R 241845z Jul 74"
+cable-subject: "Pl-480, Title I, Cup Payment"
+cable-tags: "EAID, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ04763"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PL 480 TITLE 1, DEBT REPAYMENTS, AGRICULTURAL AGREEMENTS, CHECKS (MONEY)"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 241949Z
+
+
+67
+ACTION TRSE-00
+
+
+INFO OCT-01 ARA-10 ISO-00 FSE-00 ABF-01 L-03 RSC-01 DRC-01
+
+
+   AID-07 IGA-02 EB-05 /031 W
+            --------------------- 108101
+R 241845Z JUL 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC 3735
+
+
+UNCLAS LA PAZ 4763
+
+
+E.O. 11652: N/A
+TAGS: EAID, BL
+SUBJ: PL-480, TITLE I, CUP PAYMENT
+
+
+REF: STATE 124386
+
+
+ON JULY 19 EMBASSY RECEIVED FROM TREASURER OF BOLIVIA CHECK NO.
+814643 IN THE AMOUNT OF $B 8,014,220.78, EQUIVALENT TO US$
+392,853.96 AT CURRENT RATE OF EXCHANGE 20.40, UNDER CUP
+PROVISION OF DECEMBER 20, 1972 PL-480 AGREEMENT.
+STEDMAN
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                        
+
+                     
+
+
+                                                       Message Attributes
+Automatic Decaptioning: X
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: PL 480 TITLE 1, DEBT REPAYMENTS, AGRICULTURAL AGREEMENTS, CHECKS (MONEY)
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 24 JUL 1974
+Decaption Date: 01 JAN 1960
+Decaption Note:
+Disposition Action: n/a
+Disposition Approved on Date:
+Disposition Authority: n/a
+Disposition Case Number: n/a
+Disposition Comment:
+Disposition Date: 01 JAN 1960
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ04763
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: N/A
+Errors: N/A
+Film Number: D740201-0118
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740722/aaaaassv.tel
+Line Count: 37
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION TRSE
+Original Classification: 
+Original Handling Restrictions: n/a
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 1
+Previous Channel Indicators:
+Previous Classification: n/a
+Previous Handling Restrictions: n/a
+Reference: STATE 124386
+Review Action: RELEASED, APPROVED
+Review Authority: cunninfx
+Review Comment: n/a
+Review Content Flags:
+Review Date: 25 FEB 2002
+Review Event:
+Review Exemptions: n/a
+Review History: RELEASED <25 FEB 2002 by thomasv0>; APPROVED <21 JAN 2003 by cunninfx>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: PL-480, TITLE I, CUP PAYMENT
+TAGS: EAID, EAGR, BL, US
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ04763
+
+- **Date:** July 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PL 480 TITLE 1, DEBT REPAYMENTS, AGRICULTURAL AGREEMENTS, CHECKS (MONEY)

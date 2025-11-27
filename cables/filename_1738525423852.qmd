@@ -1,0 +1,40 @@
+---
+title: "Death Of Us Citizen Harold D. Poole To: Rockwell-Draper Division 17 Metro Drive P.o. Box 5047 Spartanburg, South Carolina Tel. 803-585-6411"
+author: ""
+date: "September 13, 1979"
+editor: visual
+cable-date: "September 13, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 8146"
+cable-info: "Oct-01 Cco-00 Paso-00 Ads-00 /007 W ------------------009076 162012z /15 R 131734z Sep 79"
+cable-subject: "Death Of Us Citizen Harold D. Poole To: Rockwell-Draper Division 17 Metro Drive P.o. Box 5047 Spartanburg, South Carolina Tel. 803-585-6411"
+cable-tags: "CDES (HAROLD POOLE)"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ07793"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Embassy checked with the freight company and found out that Mr. Harold Poole's personal effects were shipped back to U.S. on September 3, 1979 Braniff Flight 974, AWB 00284743746.
+2. Please forward to this embassy through the Department of State, WASHDC (SCS) the amount of US DOL 165.00 (one hundred and sixty five dollars) to cover all remaining expenses incurred on Mr. Harold Poole's death.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ07793
+
+- **Date:** September 13, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

@@ -1,0 +1,55 @@
+---
+title: "W/W Charles And Marie Hale"
+author: ""
+date: "November 05, 1979"
+editor: visual
+cable-date: "November 05, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 9085"
+cable-info: "Oct-01 Ads-00 Cco-00 Paso-00 /007 W ------------------003148 070336z /14 R 052319z Nov 79"
+cable-subject: "W/W Charles And Marie Hale"
+cable-tags: "CASC, BL (HALE, CHARLES) (HALE, MARIE)"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ09490"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+UNCLAS LA PAZ 9490
+E.O. 12065: N/A
+TAGS: CASC, BL (Hale, Charles) (Hale, Marie)
+SUBJECT: W/W Charles and Marie Hale
+
+TO: MR. EGON MENKER
+CONTOUR PRODUCTS COMPANY
+5030 WEST 111 STREET
+OAK LAWN, ILLINOIS 60453
+
+Dear children, we are detained in La Paz since Friday, November 2, 1979. We are well and safe and hope to leave this country but don't know when as yet. Love, Marie and Charles.
+
+AMERICAN EMBASSY
+LA PAZ, BOLIVIA
+BOEKER
+
+Note by OC/T: Passed to above addressee.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09490
+
+- **Date:** November 05, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

@@ -1,0 +1,54 @@
+---
+title: "Impc"
+author: "Stedman"
+date: "January 11, 1974"
+editor: visual
+cable-date: "January 11, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 1918"
+cable-info: "Oct-01 Iso-00 Opic-12 Aid-20 Ciae-00 Come-00 Eb-11 Frb-02 Inr-10 Nsae-00 Rsc-01 Trse-00 Xmb-07 Spc-03 Ciep-02 Lab-06 Sil-01 Omb-01 L-03 Drc-01 /101 W --------------------- 077628 R 111603z Jan 74"
+cable-subject: "Impc"
+cable-tags: "EMIN EIND BL"
+cable-ref: "STATE 848 SUMMARY: DUE DELAY, WE TRANSMITTING BELOW FREE TRANSLATION LETTER DATED DECEMBER 14, 1973 FROM FRANK TYE TO MINMINES LEMA. EMBASSY RECEIVED COPY DECEMBER 27, BUT DELAYED TRANSMITTAL WITH COMMENT IN ABSENCE MINATTACHE. END SUMMARY."
+cable-doc-number: "1974LAPAZ00225"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "NATIONALIZATION, MINING INDUSTRY, INDEMNIFICATION"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. "Mr. Minister:
+"In my position as representative of International Metal Processing Corporation, I have remained in the country two weeks trying to contact you, Mr. Minister, and with other authorities, to discuss the problem that has arisen with Embosa and try to reach an arbitrated agreement as provided in Article 39 of the social statutes of the cited enterprise.
+"Unfortunately, I have not had the opportunity sought for, surely due to the extremely heavy workload of all the persons whom I have tried to contact.
+"In the face of this negative result, we, the stockholders of International Metal Processing Corporation, think that the present situation is the same as that of January, 1971, the date when the enterprise was nationalized by the government headed by General Juan Jose Torres. Consequently our present position is one of repeating our request to the Supreme Government of Bolivia for the payment of adequate and just indemnization which we solicit along with accumulated interest because of the non-performance of the Mining Corporation of Bolivia.
+"The situation resolved in this leval, just and equitable manner, International Metal Processing Corporation would have the right and freedom to recuperate the process patent and to utilize it in the manner most convenient to its interests.
+"I express to you in advance, Mr. Minister, that the liquidation of the Bolivian Metallurgical Enterprise, S.A. (mixed) has not arisen for the reasons indicated in Article 39 of the statutes, as I am able to demonstrate that financing could not be obtained, due precisely to the lack of a series of requirements that are not imputable to IMPC.
+"I very respectfully ask you, Mr. Minister, to consider carefully the historical facts presented in very summary form and to channel them adequately within the juridical order presently extant in the country so that they reach a satisfactory solution which contemplates the interests of both sides.
+"With this purpose I repeat to you assurance of my highest and distinguished consideration.
+"International Metal Processing Corporation
+"Frank M. Tye, Jr.
+President".
+
+2. **Comment:** Due continued absence Minattache and careful review our files, following comment should be regarded as preliminary and tentative. During Tye's earlier visit to La Paz he showed to Emboffs decided lack of interest in pressing his claim through arbitration clause as provided in statutes. Difficult accept proposition that liquidation Embosa returns situation to January, 1971 situation as we understand Tye accepted check for US$ 1.4 million in December, 1971. Statutes state patent to be property of Comibol after one year of use. End Comment.
+
+4. We understand Tye in La Paz (as indicated Reftel) accompanied by "two foreigners", probably Americans. He has not called on Embassy.
+Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00225
+
+- **Date:** January 11, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** NATIONALIZATION, MINING INDUSTRY, INDEMNIFICATION

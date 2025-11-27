@@ -1,0 +1,43 @@
+---
+title: "Wheat Problem Refs: (A) La Paz 173: (B) State 5614; (C) State 5919"
+author: "Stedman"
+date: "January 16, 1974"
+editor: visual
+cable-date: "January 16, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 1956"
+cable-info: "Oct-01 Ara-16 Iso-00 Eb-11 Come-00 Trse-00 Aid-20 Iga-02 L-03 Omb-01 Ciae-00 Inr-10 Nsae-00 Rsc-01 Drc-01 /086 W --------------------- 119884 P 161948z Jan 74"
+cable-subject: "Wheat Problem Refs: (A) La Paz 173: (B) State 5614; (C) State 5919"
+cable-tags: "EAGR, ETRD, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00321"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "WHEAT, SUPPLIES, PL 480 TITLE 1, AGRICULTURAL PRODUCT SALES, AGRICULTURAL PRICES, AGRICULTURAL AGREEMENTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Econoffs met with Minind/Com in follow-up to Ambassador's conversation with President Banzer (Ref A). Econoff explained situation as described Refs B and C and offered Mission's assistance in arranging commercial wheat sales. Minister Pereda complained that if USG had responded to GOB request sooner, GOB could have made arrangements to cover its requirements. Econoff conceded would have been helpful had we been able respond sooner but pointed out that (1) almost 50,000 M.T. PL-480 wheat still had not entered Bolivia, (2) these supplies should last until mid-April, 1974 which should afford GOB time to make other arrangements, and (3) flour was real short-term problem and possibility of importing flour under PL-480 had been discarded from time 1972 agreement had been under negotiation due to prohibitively high U.S. price delivered to Bolivia.
+
+2. Econoff offered help arrange commercial wheat sales in any way could. Minind/Com said would appreciate current wheat price quotes from U.S., what wheat available, where and when. Econoff then asked whether Minister believed it would be useful arrange for a U.S. wheat mission to visit Bolivia. Suggested that mission might be composed of one official from Department of Agriculture plus representatives of U.S. wheat brokers not represented in La Paz plus interested bankers. Minister said such mission might be useful.
+
+3. Action requested: (A) That USDA obtain price quotes and initial indications of quantities (of up to 60,000 M.T.) and locations of wheat available for shipping by March 1, 1974 and cable ASAP. (B) That Department consider arranging wheat mission as described above.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00321
+
+- **Date:** January 16, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** WHEAT, SUPPLIES, PL 480 TITLE 1, AGRICULTURAL PRODUCT SALES, AGRICULTURAL PRICES, AGRICULTURAL AGREEMENTS

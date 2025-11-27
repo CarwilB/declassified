@@ -1,0 +1,43 @@
+---
+title: "Wtdr - Turin Motors Ltda. Refs: Usdoc 18905 And La Paz A-236 Of November 9, 1973."
+author: "Stedman"
+date: "January 04, 1974"
+editor: visual
+cable-date: "January 04, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Usdoc WashDC"
+cable-info: "Oct-01 Iso-00 Eb-05 Rsc-01 Drc-01 /018 W --------------------- 019384 R 041551z Jan 74"
+cable-subject: "Wtdr - Turin Motors Ltda. Refs: Usdoc 18905 And La Paz A-236 Of November 9, 1973."
+cable-tags: "BEXP EIND BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00060"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Address:** Casilla 1867, Calle Bozo 119, La Paz, Bolivia. Cable: Turinmo, La Paz. Telex: BX5353. Phone: 55821. Officer: Domingo Linale Urioste, manager.
+2.  **Description:** Large firm established 1968. Employs 60. Acts as agent, retailer, distributor, and importer of automobiles, trucks, pick-up trucks, tractors, and motor vehicle parts and accessories. Is the local representative of "Fiat". Firm buys from Italy, Argentina, and Brazil. Sells throughout the country. Corresponds in Spanish and English.
+3.  **References:** Financial references: Banco do Brasil, Banco Mercantil, Banco del Estado, Banco de Santa Cruz de la Sierra, Banco de la Nacion Argentina, Banco Popular del Peru, Banco Nacional de Bolivia, all of La Paz. Trade references: Ribsa Ltda., Almacenes Fatima Ltda., Productos Oriental, Alfa & Cia., Udler & Cia., Linale & Weiss, all of La Paz.
+4.  **Major Foreign Firms Represented:** Fiat S.P.A., Corso Marconi 20/10, Turin, Italy (automobiles, trucks, pick-up trucks, tractors); Fiat Concord, Cerrito 740, Buenos Aires, Argentina (trucks, automobiles, motor vehicle spare parts and accessories); and Fiat do Brasil, Caixa Postal 9283, Sao Paulo, Brazil (tractors), all since 1969.
+5.  **Assessment:** Even though Turin Motors has been in operation only four years, it is today regarded as one of Bolivia's more aggressive and successful import houses, and its Fiat products are rapidly gaining acceptance in the Bolivian market. This firm is Bolivia's representative for Fiat-Concord, which is installing a tractor assembly plant in Cochabamba (see Refair) which will have a monopoly in the Bolivian market on certain sizes of tractors. Two local banks report that the firm has a good financial reputation and meets obligations promptly. A third bank reports that the firm has a well managed checking account but reports no credit experience. A fourth La Paz bank reports that the firm in the past was slow to pay on occasion but that its present obligations are met regularly. The firm itself reports paid-in capital the equivalent of US$ 34,000 and 1972 sales the equivalent of US$ 2 million. The firm is recommended as a good trade contact.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00060
+
+- **Date:** January 04, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

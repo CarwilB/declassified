@@ -1,0 +1,54 @@
+---
+title: "First Person Note From Foreign Minister Guillermo"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "November 03, 1979"
+editor: visual
+cable-date: "November 03, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 9013"
+cable-info: "Oct-01 Ads-00 Ssc-01 Ss-15 /032 W ------------------111221 031802z /42 P 031704z Nov 79"
+cable-subject: "First Person Note From Foreign Minister Guillermo"
+cable-tags: "PINT, PDIP, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ09408"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "AMBASSADORS, DIPLOMATIC COMMUNICATIONS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Subject: First Person Note From Foreign Minister Guillermo Bedregal
+
+The Ambassador received on the morning of November 3, the following first person note dated November 2, 1979 from Foreign Minister Guillermo Bedregal, announcing the installation of the Natusch regime:
+
+Señor Embajador:
+
+Tengo a honra poner en su conocimiento que el día de ayer, primero de noviembre, por decisión de las Fuerzas Armadas y con el apoyo del Movimiento Nacionalista Revolucionario Unificado y Renovado, además de vastos sectores de la ciudadanía, se constituyó en esta capital el popular y democrático Gobierno Civil Militar de índole constitucionalista y de izquierda nacional, que lideriza el señor Coronel Alberto Natusch Busch como Presidente de la República.
+
+El Gobierno del Coronel Natusch Busch se ha comprometido solemnemente al mantenimiento cordial y efectivo de las relaciones internacionales con todos los países del mundo, dentro del más amplio pluralismo ideológico, así como al respeto de los convenios y tratados suscritos por Bolivia de acuerdo con las normas del Derecho Internacional. Asimismo, aspira a ser, en lo interno, el fiel y devoto servidor de las legítimas aspiraciones populares y en tal virtud mantendrá la más plena observancia de los Pactos de Derechos Humanos, Políticos y Sociales.
+
+Cúmpleme informar también a Vuestra Excelencia y por su digno conducto a su ilustrado Gobierno, que es propósito del Gobierno de Bolivia encauzar el país dentro del más cuidadoso ejercicio de la democracia participativa y que, para tal fin, una de sus primeras medidas en el orden político interno será la convocatoria en un plazo prudencial, a una Asamblea Constituyente, a fin de que ella fije las nuevas normas constitucionales del Estado Boliviano, de acuerdo con las necesidades y aspiraciones del pueblo y las peculiaridades propias de su acontecer histórico.
+
+Me valgo de la oportunidad para expresarle las seguridades de mi consideración más alta y distinguida.
+
+Dr. Guillermo Bedregal Gutierrez
+Minister of Foreign Relations and Worship
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09408
+
+- **Date:** November 03, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** AMBASSADORS, DIPLOMATIC COMMUNICATIONS

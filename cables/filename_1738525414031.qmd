@@ -1,0 +1,48 @@
+---
+title: "W/W Frank Albert Leavens"
+author: ""
+date: "March 05, 1979"
+editor: visual
+cable-date: "March 05, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 5059"
+cable-info: "Oct-01 Ara-15 Iso-00 Ca-01 Cco-00 Paso-00 /023 W ------------------016611 060327z /75 R 051347z Mar 79"
+cable-subject: "W/W Frank Albert Leavens"
+cable-tags: "CASC, BL (LEAVENS, FRANK ALBERT)"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ01861"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+TO: Richard Leavens
+650 The Village No. 306
+Redondo Beach, California 90278
+Tel: 213-379-3705
+
+Embassy has sent a telegram to Mr. Frank Albert Leavens at this mailing address in Sucre on Feb. 26, 1979, and a letter has been sent to his Casilla No. 6040 in La Paz. A note has also been left for him in the visitors mail box at the consular section. No answer has been received yet. Please provide additional information on subject, such as friends or relatives in Bolivia, phone number (if any) etc., which may facilitate our locating him.
+
+American Embassy
+La Paz, Bolivia
+Boeker
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ01861
+
+- **Date:** March 05, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

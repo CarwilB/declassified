@@ -1,0 +1,45 @@
+---
+title: "Bolivian Postal Debt Refs: (A) A-199: (B) La Paz 4350 July 1973"
+author: "Stedman"
+date: "February 08, 1974"
+editor: visual
+cable-date: "February 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2219"
+cable-info: "Oct-01 Ara-16 Iso-00 Usps-02 Drc-01 Rsc-01 /032 W --------------------- 115335 R 082006z Feb 74"
+cable-subject: "Bolivian Postal Debt Refs: (A) A-199: (B) La Paz 4350 July 1973"
+cable-tags: "ETEL, EFIN, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00879"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "POSTAL SERVICE, DEBTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Being forwarded by airgram for the information of the Department and of the U.S. Postal Service is a letter from the Director of Bolivia's Postal Service, asking for an extension of time to produce evidence that certain payments were made about 1946.
+
+2. **Comment:** The Embassy has come to view the tactics of the Bolivian Postal Service as simple foot dragging. While we are not prepared to assert that the evidence does not exist, we are satisfied that the Bolivian Postal Service will take as long as possible to produce what will be offered as evidence. End Comment.
+
+3. **Recommendation:** That the Embassy be authorized to grant the Bolivian Postal Service until March 1, 1974, to deliver to this Embassy the alleged evidence. Failing delivery by that date, we recommend the Embassy be authorized to proceed with the steps outlined Ref B.
+
+4. **Action Requested:** Provide us with the basis for an interim response to the local Postal Service. Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00879
+
+- **Date:** February 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** POSTAL SERVICE, DEBTS

@@ -1,0 +1,45 @@
+---
+title: "Sugar Sales"
+author: "Brewin"
+date: "June 12, 1974"
+editor: visual
+cable-date: "June 12, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3397"
+cable-info: "Oct-01 Ara-16 Iso-00 Eb-11 Come-00 Trse-00 Drc-01 Rsc-01 /050 W --------------------- 012239 R 122116z Jun 74"
+cable-subject: "Sugar Sales"
+cable-tags: "EAGR BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ03852"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "SUGAR, SALES DATA, PRICES, EXPORT QUOTAS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. ACCORDING TO BOLIVIAN SUGAR INSTITUTE SOURCE BOLIVIA HAS
+SOLD ABOUT 9,000 M.T. OF SUGAR TO AMEROP (U.S. BROKER)
+AT PRICE OF US $535 PER M.T. AMEROP PORBABLY WILL RESELL
+IN EUROPE. ABOUT 6,000 M.T. IS FROM STEPHEN LEIGH MILL
+AND 3,000 M.T. FROM GUABIRA. GUABIRA EXPECTED TO SELL IN
+SEPTEMBER TO COVER U.S. QUOTA ALLOTMENT.
+BREWIN
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ03852
+
+- **Date:** June 12, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** SUGAR, SALES DATA, PRICES, EXPORT QUOTAS

@@ -1,0 +1,55 @@
+---
+title: "The Bolivian Economy Limps Into 1979"
+author: "In International Reserves."
+date: "January 09, 1979"
+editor: visual
+cable-date: "January 09, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 4258"
+cable-info: "Oct-01 Iso-00 Aid-05 Ciae-00 Come-00 Eb-08 Frb-03 Inr-10 Nsae-00 Ica-11 Trse-00 Xmb-02 Opic-03 Sp-02 Lab-04 Acda-12 Sil-01 Omb-01 Nsc-05 Ss-15 Str-07 Cea-01 Pa-01 Doe-15 Soe-02 Int-05 Gsa-02 /131 W ------------------111255 092210z /66 R 092020z Jan 79"
+cable-subject: "The Bolivian Economy Limps Into 1979"
+cable-tags: "EGEN, EFIN, ECON, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ00230"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "ECONOMIC DEVELOPMENT"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Entire text.**
+
+2.  **By mid-January** we expect Minister of Finance Alba to make a presentation to the Cabinet on the state of the Bolivian economy. He will be hard pressed to find any good news for his colleagues as he describes the economic results of 1978, and he can scarcely be hopeful in discussing the prospects for 1979. The Central Bank's latest official (but unpublished) estimate of the 1978 balance of payments deficit is $132 million. Year-end international reserves of the consolidated banking system are now expected by the bank to be approximately $60 million. (Comment: Reserves appear to have been bolstered by short-term borrowings but details are not yet available.) Unless foreign exchange purchases by private citizens are halted, which is unlikely, or new financial credits are obtained, banking system reserves may fall to zero in January or February.
+
+3.  **This message** deals with the performance of the Bolivian economy in 1978, touching as well on structural problems that will continue to affect economic performance in 1979. A subsequent cable will describe the political context in which economic stabilization measures are being considered, and will speculate on the short-term economic policies of the Padilla government. All data in the following paragraphs are drawn from official sources unless otherwise stated. Embassy estimates, which are somewhat more pessimistic, are contained in Table I.
+
+4.  **Current account:** Central Bank estimates prepared in mid-December project a current account deficit of $370 million. Bolivian export revenues rose by only an estimated 3 percent, to $668.7 million in 1978, despite record world market tin prices. Tin production declined five percent during the year. Petroleum exports, which had been falling since 1974, ended temporarily in October 1978. Sales of gas condensates brought revenues of $79.3 million, $11.9 million more than in 1977. Exports of agricultural products earned $92.3 million, an increase of $9.5 million over 1977. Imports in 1978 increased approximately 20 percent by value to $785 million, despite announced GOB efforts to reduce import growth through public sector budget cuts and changes in monetary policy. The services account deficit is estimated by the GOB to have amounted to $275.6 million, 46 percent greater than the deficit of the previous year. The increase is attributed to higher freight and insurance costs, as well as rising debt service payments.
+
+5.  **Capital account.** Net long-term capital inflow in 1978 was approximately $379 million, an increase of 12 percent over the previous year. Estimates of short-term capital flight, which increased in the second half of 1978, are being reformulated at this time. Until mid-December the Central Bank projected a net deficit in the short-term capital account of $141 million. By the first week of January this estimate had been revised downward by $60 million to $80 million, resulting in a figure which seems unrealistic to US. Both the IMF and the Central Bank are now checking for errors in the latest calculations.
+
+6.  **Net balance and international reserves:** The deficit in the balance of payments for 1979 is estimated by the Central Bank to be between $120 and $130 million. The Central Bank will reportedly end the year with net international reserves of approximately $162 million, and the international reserves of the consolidated banking system will be about $60 million. These figures, obtained from the Central Bank January 3, 1979, appear to reflect some short-term year-end borrowing which may have been specifically designed to inflate reserves.
+
+7.  **Public sector deficit:** The total deficit of Bolivia's public sector for 1978 will be between $450 and $500 million. A high level of investment by the state enterprises (investments exceeded $550 million in 1977) continued in 1978, despite a shift in their current account balance from a surplus of $50 million in 1977 to a deficit of approximately $35 million the following year. During 1978, Central Bank credit to the public sector increased by 93 percent as compared with 1977. The IMF (which places the deficit at $469 million) estimates that the public sector deficit equalled 11.4 percent of GDP. According to the IMF, 65 percent ($304 million) of the deficit was financed with foreign credits.
+
+8.  **Debt and debt service:** Bolivia's disbursed external debt is estimated by the IMF to have increased by 23 percent in 1978 to $1.797 billion. The debt service ratio for the year was 28.9 percent. If no refinancing is done in 1979, the debt service ratio will rise to at least 34 percent ($250 million). Not only is the magnitude of Bolivia's debt increasing with discouraging rapidity, the terms of the debt are hardening, and foreign borrowings are being used to cover current expenses, including tax payments to the Central Government by the public corporations.
+
+9.  **Inflation:** According to official statistics, inflation was held to 18 percent in 1978. This relatively reasonable rate is explained by the relatively low growth in the money supply (M2) (9 percent), which is in turn accounted for by the heavy demand for foreign currency and the consequent decline in international reserves.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ00230
+
+- **Date:** January 09, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** ECONOMIC DEVELOPMENT

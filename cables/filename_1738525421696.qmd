@@ -1,0 +1,40 @@
+---
+title: "Bio Data On Bolivian Ambassador To Madrid"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "March 14, 1979"
+editor: visual
+cable-date: "March 14, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "AmEmbassy Madrid"
+cable-info: "Oct-01 Iso-00 Inr-10 Ciae-00 Nsae-00 Eur-12 Dlos-09 /047 W ------------------055205 170628z /11 R 141430z Mar 79"
+cable-subject: "Bio Data On Bolivian Ambassador To Madrid"
+cable-tags: "PINT, SP, BL"
+cable-ref: "(A) MADRID 3467, (B) LA PAZ 1174"
+cable-doc-number: "1979LAPAZ02196"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "BIOGRAPHIC INFORMATION, AMBASSADORS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Entire text.
+2. Post has nothing further to add to bio information provided La Paz 1174 of Feb 7, 1979. We would, of course, be interested in any Spanish views on Bolivia's outlet-to-sea aspirations which Ambassador Rojas Montalvo may have gleaned in course of his recent calls on GOS. Boeker
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ02196
+
+- **Date:** March 14, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** BIOGRAPHIC INFORMATION, AMBASSADORS

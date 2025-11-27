@@ -1,0 +1,39 @@
+---
+title: "W/W Mickey, Pegues For: Mrs. Charles Pegues"
+author: ""
+date: "January 22, 1974"
+editor: visual
+cable-date: "January 22, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2015"
+cable-info: "Oct-01 Iso-00 Pass-00 /001 W --------------------- 052609 R 222035z Jan 74"
+cable-subject: "W/W Mickey, Pegues For: Mrs. Charles Pegues"
+cable-tags: "CASC (PEGUES, MICKEY)"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00459"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Mickey requests about $540 necessary to enable him settle debts here and return US. Will return US about two weeks after receipt of money. Pls. send money through cable transfer by First National City Bank. If unable assist please inform c/o US Embassy Consular Section, La Paz, Bolivia.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00459
+
+- **Date:** January 22, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

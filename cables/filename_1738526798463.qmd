@@ -1,0 +1,47 @@
+---
+title: "Farmabol Case."
+author: "Stedman"
+date: "February 01, 1974"
+editor: visual
+cable-date: "February 01, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2134"
+cable-info: "Oct-01 Iso-00 Eb-11 Come-00 Ciae-00 Inr-10 Nsae-00 Rsc-01 L-03 Trse-00 Opic-12 Aid-20 Drc-01 /079 W --------------------- 037370 R 011515z Feb 74"
+cable-subject: "Farmabol Case."
+cable-tags: "BDIS, EIND, BBAK, BL."
+cable-ref: "LA PAZ 0577 AND PREVIOUS."
+cable-doc-number: "1974LAPAZ00689"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Comatt Killeen delivered letter in stated reftel to Captain Sanchez evening of January 30. Copy of letter being airgrammed to Department.
+
+2. Sanchez said he will pass letter to head of Military Pension Fund (Caja de Pensiones Militares) and other appropriate authorities within Min Defense and that study of this vehicle for resolution of subject dispute continues. Sanchez noted, however, that current intranquility in Bolivia is subject of the attention of most officials.
+
+3. Sanchez said he would inform Attorney Hathorn directly when study has been completed and when would be an opportune time for Hathorn's return.
+
+4. **Action Requested:** Please pass substance of above to Attorney Hathorn.
+
+Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00689
+
+- **Date:** February 01, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

@@ -1,0 +1,43 @@
+---
+title: "Bolivia Situation Report Department Pass All Ara Posts"
+author: ""
+date: "January 31, 1974"
+editor: visual
+cable-date: "January 31, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2123"
+cable-info: "Oct-01 Iso-00 Omb-01 Opr-02 Sy-10 Aid-20 Pc-10 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-10 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Sam-01 Eb-11 Come-00 Trse-00 Sso-00 Oc-06 Cco-00 Per-05 Ppt-02 Sca-01 Scs-03 Drc-01 /171 W --------------------- 026918 P 312044z Jan 74"
+cable-subject: "Bolivia Situation Report Department Pass All Ara Posts"
+cable-tags: "PINT: PGOV: BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00674"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "MARTIAL LAW, GOVERNMENT OVERTHROW, SECURITY CONTROLS, CURFEW, TRAVEL CONTROLS, CIVIL DISORDERS,"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **GOB declared a state of siege January 28** in wake of adverse public reaction to government economic initiatives. The state of siege places restrictions on internal travel, i.e., persons traveling from city to city in Bolivia must obtain written police approval. Furthermore, persons may not be out of doors after midnight in groups of three or more. Tourists are specifically advised to carry complete documentation with them at all times.
+
+2.  **The GOB's declaration of the state of siege came shortly after campesinos had blocked roads** to the city of Cochabamba. These roads are now open and, although there may still be isolated incidents affecting public order in outlying areas, the security forces appear in control of the situation. The city of La Paz is calm.
+
+3.  **If posts are approached for advice by persons intending to visit Bolivia**, suggest you draw on foregoing, i.e., they should not be discouraged from coming to Bolivia, but should be advised of the possibilities of encountering difficulties in traveling between towns by road and the extra security precautions being taken by local authorities.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00674
+
+- **Date:** January 31, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** MARTIAL LAW, GOVERNMENT OVERTHROW, SECURITY CONTROLS, CURFEW, TRAVEL CONTROLS, CIVIL DISORDERS,

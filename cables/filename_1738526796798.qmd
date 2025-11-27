@@ -1,0 +1,53 @@
+---
+title: "State Of Siege Decree"
+author: "Stedman"
+date: "January 29, 1974"
+editor: visual
+cable-date: "January 29, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2081"
+cable-info: "Oct-01 Iso-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-10 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Sam-01 Io-14 Omb-01 Aid-20 Pc-10 Drc-01 /145 W --------------------- 001137 R 291917z Jan 74"
+cable-subject: "State Of Siege Decree"
+cable-tags: "PINT, PGOV, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00600"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "MARTIAL LAW, GOVERNMENT OVERTHROW, PUBLIC DEMONSTRATIONS, SECURITY CONTROLS, PROVINCIAL GOVERNMENT,"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Following is text of supreme decree issued January 28 declaring state of siege throughout the territory of Bolivia:**
+
+2.  **General Hugo Banzer Suarez, President of the Republic**
+    A. Considering: That, protected by the guarantees and liberties granted by the Nationalist Government, foreign-supported subversive activities of a guerrilla-type continue to occur.
+    B. That, the above facts have reached a limit with the destruction of bridges, interruption of railroad lines, blocking of roads and terrorist acts organized with the purpose of provoking supply shortages in the cities and from the cities to the countryside, creating popular discontent.
+    C. That, it is the duty of the Supreme Government to guarantee the supply of goods, the security of town and villages and the life of their inhabitants.
+
+3.  **The Council of Ministers decrees:**
+    A. Article 1 - A state of siege is hereby declared throughout the territory of the Republic.
+    B. Article 2 - The relevant authorities will adopt measures toward the maintenance of public order, security of the State, normal supply, productive activities and public services.
+    C. Article 3 - All meetings and public demonstrations are hereby forbidden.
+
+4.  **The Ministers of Interior and of National Defense are charged with the execution and fulfillment of this decree.**
+
+5.  **Given in the Palace of Government in the city of La Paz on the twenty-eighth day of January in the year nineteen seventy four.**
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00600
+
+- **Date:** January 29, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** MARTIAL LAW, GOVERNMENT OVERTHROW, PUBLIC DEMONSTRATIONS, SECURITY CONTROLS, PROVINCIAL GOVERNMENT,

@@ -1,0 +1,51 @@
+---
+title: "; Oasga 4 - October 25"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "October 26, 1979"
+editor: visual
+cable-date: "October 26, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 8877"
+cable-info: "Oct-01 Ads-00 Spta-02 Ha-05 Io-15 Gsa-02 Fema-02 Dlos-09 Oes-09 Ciae-00 Dode-00 Pm-06 H-02 Inr-10 L-03 Nsae-00 Nsc-05 Pa-02 Sp-02 Ss-15 Ica-15 Trse-00 Omb-01 Aid-05 Eb-08 Frb-01 Xmb-04 Opic-07 Lab-04 Sil-01 Str-08 Cea-01 Come-00 Agre-00 /160 W ------------------048789 261634z /44"
+cable-subject: "; Oasga 4 - October 25"
+cable-tags: "ETRD, PORG, XM, XL, OAS"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ09150"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "REGIONAL ORGANIZATIONS, MEETING PROCEEDINGS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Sixth plenary session (Oct. 25) opened with the Bargadian Fonmin Henry de B Ford who expressed his country's solidarity with Bolivia. He referred to CIECC meeting in Barbados and criticized US for not having co-sponsored the resolution of Bridgetown which 22 others adhered to. He expressed his opinion that the US left grave doubts as regards its true intentions towards the future of the voluntary funds. In the same vein Forde added that security was not provided by military expenditure alone, and felt that the US, being the most powerful country, could not escape its responsibility to contribute to equitable development in the region. He was followed by Ecuador's Subsecretary of Foreign Relations, Mario Alleman and Paraguay's Fonmin, Albert Nogues, who gave very general presentation.
+
+2. Committee 2 on economic affairs completed discussions on agenda items dealing with trade issues with lengthy but relatively moderate debate on protectionism. On discussion of GSP exclusion of OPEC countries, Venezuela remained silent and Ecuador cited objections to conclusion of bilateral agreement with US. Bolivia made a relatively mild statement about adverse effects of US tin disposal. US responded with exposition on tin prices since 1972 and on production falling behind consumption. Indication is that Bolivia does not intend to table a resolution on tin.
+
+3. Only substantive resolutions tabled thus far, not yet discussed, are one by Ecuador on Panama Canal tolls, calling for continued OAS study on negative impact on Latin American trade, and resolution by Costa Rica expressing Latin American concern over pending meat import legislation and asking USG to find long-term solutions that will not restrict meat imports from Latin America and the Caribbean.
+
+4. Third committee met in afternoon for first working session and completed consideration of the resolutions of 1978 CIECC of Santiago and the 1979 CIECC of Barbados. On the resolution of Bridgetown the US delegate referred to the position of the US against language implying commitment to 66 percent contribution. The US delegate also stated that the resolution contradicted the "voluntary" nature of the funds in its reference to a "proportion" for FEMCIECC. The delegate of Barbados acknowledged that in fact a kind of informal quota had been operating with regard to FEMCIECC. No other delegation spoke to the issue and the resolution was passed by consensus with the US reserving as was the case in Bridgetown. A working group was formed, including the US, to draft a resolution which would instruct the Secretariat and CEPCIECC to develop alternative criteria and procedures to achieve the goals of the resolution of Bridgetown.
+
+5. Committee 1 started substantive business with consideration of IAHRC annual report. USDEL made statement of strong support for Commission's work and we are preparing draft resolution in close coordination with IAHRC Chairman Aguilar. We expect work on this item to continue tomorrow after which El Salvador human rights report will be considered. Venezuelan and Salvadorean reps are developing appropriate resolution on this item which we will co-sponsor.
+
+6. Declaration of La Paz. A working group was set up to revise the proposal of the Andean Group. Mexican Ambassador De La Colina called for a total redrafting to focus on principles and goals for the Inter-American system. Brazil, Chile, Argentina joined Mexico and US in pressing for the elimination of references to specific problems like Bolivia's access to the sea and tin. US and Brazil were the only delegations with specific language changes to present. Working group meets again tomorrow to consider new draft with changes proposed in today's session.
+
+7. Bolivia's access to the sea. GOB is lining up co-sponsors for its resolution. Corridor talk indicates that several countries are urging language changes as conditions for their support and that drafts by other delegations are also circulating.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09150
+
+- **Date:** October 26, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** REGIONAL ORGANIZATIONS, MEETING PROCEEDINGS

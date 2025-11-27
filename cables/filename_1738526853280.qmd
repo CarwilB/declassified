@@ -1,0 +1,183 @@
+---
+title: "Brazilian Credit For Highway Construction And Maintenance Equipment Increased"
+author: "Brewin"
+date: "May 23, 1974"
+editor: visual
+cable-date: "May 23, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 3195"
+cable-info: "Oct-01 Iso-00 Eb-11 Aid-20 Dote-00 Ciae-00 Dode-00 Inr-10 Nsae-00 Pa-04 Rsc-01 Usia-15 Prs-01 Sp-03 Come-00 Ss-20 Nsc-07 Xmb-07 L-03 Opic-12 Omb-01 Trse-00 Drc-01 /137 W --------------------- 018384"
+cable-subject: "Brazilian Credit For Highway Construction And Maintenance Equipment Increased"
+cable-tags: "EFIN, BEXP, BL, BR"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ03357"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "CONSTRUCTION EQUIPMENT, COOPERATIVE SERVICE AGREEMENTS, CREDIT AGREEMENTS, HIGHWAYS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 232258Z
+
+
+71
+ACTION ARA-20
+
+
+INFO OCT-01 ISO-00 EB-11 AID-20 DOTE-00 CIAE-00 DODE-00
+
+
+   INR-10 NSAE-00 PA-04 RSC-01 USIA-15 PRS-01 SP-03
+
+
+   COME-00 SS-20 NSC-07 XMB-07 L-03 OPIC-12 OMB-01
+
+
+   TRSE-00 DRC-01 /137 W
+            --------------------- 018384
+P R 232105Z MAY 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC PRIORITY 3195
+INFO AMEMBASSY BRASILIA
+AMEMBASSY BUENOS AIRES
+
+
+UNCLAS LA PAZ 3357
+
+
+E.O. 11652: N/A
+TAGS: EFIN, BEXP, BL, BR
+SUBJ: BRAZILIAN CREDIT FOR HIGHWAY CONSTRUCTION AND MAINTENANCE
+  EQUIPMENT INCREASED
+
+
+REF: LA PAZ 3356
+
+
+IN ADDITION TO US$ 10 MILLION CREDIT FOR STUDIES AGREED TO BY
+PRESIDENTS GEISEL AND BANZER (SEE REFTEL), BRAZIL OFFERED
+AND BOLIVIA ACCEPTED ON MAY 22 BY EXCHANGE OF NOTES INCREASE IN
+BANCO DO BRASIL CREDIT TO BOLIVIAN NATIONAL ROAD SERVICE
+FROM US$ 5 MILLION (GRANTED MARCH 16, 1973) TO US$ 17 MILLION.
+US$ 12 MILLION INCREASE CAN BE USED FOR PURCHASING BRAZILIAN
+MACHINERY, EQUIPMENT, SPARES FOR BOLIVIAN ROAD PROGRAM
+"OF INTEREST TO BOTH COUNTRIES". TERMS AND CONDITIONS BE
+ESTABLISHED.
+BREWIN
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                      
+
+                     
+
+
+                                                Message Attributes
+Automatic Decaptioning: X
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: CONSTRUCTION EQUIPMENT, COOPERATIVE SERVICE AGREEMENTS, CREDIT AGREEMENTS, HIGHWAYS
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 23 MAY 1974
+Decaption Date: 01 JAN 1960
+Decaption Note:
+Disposition Action: n/a
+Disposition Approved on Date:
+Disposition Authority: n/a
+Disposition Case Number: n/a
+Disposition Comment:
+Disposition Date: 01 JAN 1960
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ03357
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: N/A
+Errors: N/A
+Film Number: D740130-0139
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740524/aaaaaurr.tel
+Line Count: 49
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION ARA
+Original Classification: 
+Original Handling Restrictions: n/a
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 1
+Previous Channel Indicators: n/a
+Previous Classification: n/a
+Previous Handling Restrictions: n/a
+Reference: LA PAZ 3356
+Review Action: RELEASED, APPROVED
+Review Authority: cunninfx
+Review Comment: n/a
+Review Content Flags:
+Review Date: 29 OCT 2002
+Review Event:
+Review Exemptions: n/a
+Review History: RELEASED <29 OCT 2002 by boyleja>; APPROVED <09 JAN 2003 by cunninfx>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: BRAZILIAN CREDIT FOR HIGHWAY CONSTRUCTION AND MAINTENANCE EQUIPMENT INCREASED
+TAGS: EFIN, BEXP, BL, BR
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ03357
+
+- **Date:** May 23, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** CONSTRUCTION EQUIPMENT, COOPERATIVE SERVICE AGREEMENTS, CREDIT AGREEMENTS, HIGHWAYS

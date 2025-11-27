@@ -1,0 +1,43 @@
+---
+title: "International Funding And Insurance Associates"
+author: "Page 02 La Paz 01007 142231z"
+date: "February 14, 1974"
+editor: visual
+cable-date: "February 14, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2288"
+cable-info: "Oct-01 Iso-00 Eb-11 L-03 Rsc-01 Drc-01 /037 W --------------------- 031215 P 142153z Feb 74"
+cable-subject: "International Funding And Insurance Associates"
+cable-tags: "EFIN BL"
+cable-ref: "BINNS-BREWIN LETTER OF FEBRUARY 5"
+cable-doc-number: "1974LAPAZ01007"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "DOCUMENTS, FOREIGN INVESTMENTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Emboffs called on Minfinance Quiroga afternoon February 14 to request copies of various documents relating to $225 million loan offer to GOB made by International Monetary Exchange and others. Emboffs stated that documents were necessary in USG prosecution of Jacob Gordon. Minister manifested immediate willingness to cooperate and promptly turned over to Emboffs several file folders of documents and communications relating to case, which now in possession of Embassy. In perusing documents we find several references to and telexes signed by M.L. Edwards of International Monetary Exchange, Sydney, and R.G. Dawson, also of Sydney, but no reference to or communications from Jacob Gordon. Query: Does Department wish Embassy to photograph these documents and transmit to Department?
+
+2. Minfinance said he would try to obtain copies from Central Bank of Bolivia of $100,000 surety deposit check which he believes was payable to Dawson and not Gordon.
+
+3. Please advise ASAP.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01007
+
+- **Date:** February 14, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** DOCUMENTS, FOREIGN INVESTMENTS

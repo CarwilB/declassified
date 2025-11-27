@@ -1,0 +1,52 @@
+---
+title: "Visit By National Bank Examiners"
+author: "Stedman"
+date: "June 24, 1974"
+editor: visual
+cable-date: "June 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3483"
+cable-info: "Oct-01 Ara-16 Iso-00 Eb-11 Omb-01 Drc-01 Rsc-01 /031 W --------------------- 004015 R 241306z Jun 74"
+cable-subject: "Visit By National Bank Examiners"
+cable-tags: "EFIN, BL"
+cable-ref: "STATE 132499"
+cable-doc-number: "1974LAPAZ04079"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "CENTRAL BANK, BANKERS, VISITS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. EMBASSY INFORMED SUBSECRETARY FINANCE RAUL BOADA AND LUIS
+VISCARRA, GENERAL MANAGER OF CENTRAL BANK OX BANK EXAMINERS
+DESIRE TO EXAMINE FNCB AND BANK OF AMERICA BRANCHES IN LA PAZ.
+BOADA, IN TURN, INFORMED MINFIN QUIROGA. ALL REACTED QUITE
+POSITIVELY AND HAD NO OBJECTIONS.
+
+
+2. EMBASSY RECOMMENDS THAT THE BANK EXAMINERS COME TO LA PAZ.
+
+
+3. VISCARRA SAID HE WOULD APPRECIATE DISCUSSING BANK EXAMINERS
+METHODS AND FINDINGS IF THEY WISH TO DO SO. CENTRAL BANK
+IS CHARGED WITH AUDITING ALL BANKS IN BOLIVIA.
+STEDMAN
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ04079
+
+- **Date:** June 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** CENTRAL BANK, BANKERS, VISITS

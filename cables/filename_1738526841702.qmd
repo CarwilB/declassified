@@ -1,0 +1,53 @@
+---
+title: "Foreign Investment Climate And Data"
+author: "Stedman"
+date: "April 24, 1974"
+editor: visual
+cable-date: "April 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2908"
+cable-info: "Oct-01 Ara-16 Iso-00 Agr-20 Cea-02 Ciae-00 Come-00 Dode-00 Frb-02 H-03 Inr-10 Int-08 L-03 Lab-06 Nsae-00 Nsc-07 Pa-04 Rsc-01 Aid-20 Ciep-02 Ss-20 Str-08 Tar-02 Trse-00 Usia-15 Prs-01 Sp-03 Fea-02 Omb-01 Swf-02 Oic-04 Opic-12 Sil-01 Ftc-01 Drc-01 /189 W --------------------- 050383 R 241535z Apr 74"
+cable-subject: "Foreign Investment Climate And Data"
+cable-tags: "EIND, EFIN"
+cable-ref: "STATE 53993 SUMMARY: THUS MESSAGE UPDATES FOREIGN INVESTMENT CLIMATE NARRATIVE FOR ANNUAL COMPENDIUM. END SUMMARY."
+cable-doc-number: "1974LAPAZ02576"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "COMMERCE & INDUSTRY, FOREIGN INVESTMENTS, INVESTMENT OPPORTUNITY REPORTS, INVESTMENT DATA"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Text requested longer than specified para 7 reftel but we feel is close to minimum possible given points reftel para 4 suggests be covered and Bolivia's interesting foreign investment history. If Department wishes to adhere to maximum length specified para 7 reftel, we have no objection to Department eliminating portions of text it believes least important to businessmen.
+
+2. **Investment Climate:** The government's attitude toward new foreign direct investment is generally encouraging. Its attitude toward old direct investment has frequently been adverse. The government did not reverse nationalizations of Bolivian Gulf Oil Company, Mina Matilde Corporation (United States Steel and Phillip Bros.) and International Mineral Processing Company. It did nothing to discourage W.R. Grace from disinvesting.
+
+The government's attitude toward the private sector as a whole has been relatively favorable in the context of recent Bolivian history. The government, nevertheless, clearly favors limiting control of certain industries to the public sector, and important elements of the private sector believe the government has a distinct statist tendency as most recently indicated by its support for the entry of the Armed Forces (in the form of the Armed Forces National Development Corporation) into industry, mining, and agriculture.
+
+Law No. 10521 of October 3, 1972, reserves control of Bolivia's prospective iron and steel industry to the public sector. Law No. 7150 of May 7, 1965, reserves to COMIBOL mineral rights on any land within 5 kilometers of existing COMIBOL concessions. Government policy also appears to be aimed at keeping all new mineral smelting capacity under public sector control. On the other hand, the Investment Law of December 1971 makes clear that private foreign investors are to be treated the same as domestic investors. The law grants considerable tax and other concessions to new investments and guarantees, inter alia, repatriation of capital and profits. The 1972 Hydrocarbons Law has attracted seven foreign oil companies or groups and more are expected to sign contracts soon.
+
+The government recently invited foreign firms to take up to 50,000 hectares each of Alto Beni land to put into cacao production.
+
+The only known legal barriers to direct foreign investment are: (1) Under the Hydrocarbons Law, investments are limited to those permitted under service and operations contracts; (2) foreigners may not own property within 50 kilometers of Bolivia's borders; and (3) the provisions of the Andean Foreign Investment Code, the full effects of which Bolivians are quick to point out, will not apply for some twenty years. Businessmen probably should assume that most of the Pact's tariff, ownership and other restrictions, as well as benefits, will eventually be applied in Bolivia, although the government has not yet issued implementing regulations to Decision 24 on foreign investment. The only rules on local procurement (origin of inputs) are likely to be those worked out by the Pact. In addition to export goals for foreign investors established by the Pact, the Investment Law does provide that the scale of benefits an investment will receive will be determined in part by the potential foreign exchange earnings or savings of the project.
+
+The government engages in weakly enforced price fixing on items important to the "popular economy." This usually means basic food prices (flour, lard, vegetable oil, rice, coffee, sugar, etc.; gasoline, auto parts, tires, etc.).
+
+Nationalizations began in Bolivia in 1936, resumed in the early 1950s and again in the late 60s and early 70s. The Banzer Government, which will have been in power two years and ten months in June 1974, has settled all clear cases of nationalization with despatch and good will. The Embassy believes, however, that the vagaries of Bolivian politics are such that renewed official respectability for nationalization is not unthinkable, particularly if there were to be a change in government.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02576
+
+- **Date:** April 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** COMMERCE & INDUSTRY, FOREIGN INVESTMENTS, INVESTMENT OPPORTUNITY REPORTS, INVESTMENT DATA

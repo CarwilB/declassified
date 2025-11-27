@@ -1,0 +1,84 @@
+---
+title: "Applegate/Youngquist Case"
+author: "Stedman"
+date: "April 01, 1974"
+editor: visual
+cable-date: "April 01, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2703"
+cable-info: "Oct-01 Ara-16 Iso-00 L-03 H-03 Agr-20 Aid-20 Ss-20 Spc-03 Nsc-07 Ciae-00 Inr-10 Nsae-00 Rsc-01 Come-00 Omb-01 Trse-00 Drc-01 /117 W --------------------- 043561 R 012028z Apr 74"
+cable-subject: "Applegate/Youngquist Case"
+cable-tags: "BDIS, ETRD, EAGR, BL, US, (MORAN, J ANTHONY), (APPLEGATE), (YOUNGQUIST)"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ02004"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "SUGAR, DISPUTE SETTLEMENT, TRADE COMPLAINTS, LAND NATIONALIZATION, COURTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+SUBJ: Applegate/Youngquist Case
+REF: State 062797
+
+1.  **Summary:** Embassy has now described reactions of House Agriculture Committee to testimony on Applegate/Youngquist case to MININD/COM as well as to his staff at an earlier date. Minister took the position that GOB cannot take further action in the case unless the claimants or their attorney document the claim and present themselves to the Minister in support of the claim. On the other hand, Minister said some mix of monetary-land compensation might be warranted depending on solidity and value of claim. Embassy believes that claimants have not been entirely accurate in their correspondence or testimony and that outlook for a satisfactory solution to the case is poor unless claimants engage in direct negotiation. We recommend that Department present its view of the case directly to Chairman Poage.
+
+House Agriculture Committee or its chairman and some of its members appear to have taken almost at face value Moran's statement (State 47381) that he was unaware of any good faith efforts to settle the case. We believe that, on the contrary, what appears to be a reasonable offer has been made and that neither Moran nor his principals have made any real effort to examine the offer or to negotiate a solution. According to Dr. Tapia of Sugar Institute (CNECA), neither Moran nor his principals have discussed specific parcels of land. It appears they could easily do so if they wished as Youngquist told EMBOFFs more than a year ago that he frequently travels to Bolivia where he is raising corn and, according to U.S. citizen residents of Santa Cruz, Applegate is in Santa Cruz as a farmer businessman once again.
+
+2.  Department will recall that the Bolivian Government has not yet specified parcels of land. In its letter of December 18, 1973 (see La Paz A-029 of Feb 24, 1974) the Government only indicated three provinces where land is almost entirely in Government hands, as possible areas from which claimants could choose parcels. Two provinces are not served by roads, but a third is. One province, according to Dr. Tapia, is subject to flooding, but even Moran appears to admit that it is only partially subject to such flooding (State 47381). GOB expects (implicit in its letter and explicitly in statements to Embassy officers) that Moran or his principals will want to examine specific parcels in these areas before accepting or rejecting its offer.
+
+3.  Exact situation of land parcels does not appear to be an important issue if GOB agrees to allow claimants to sell land as Government officials have repeatedly told EMBOFFs (see La Paz 7048, for example). Moran's insistence on a cash payment would also appear to be unjustified or immaterial if land is to be sold for cash. The real issue would be sale value of land offered in compensation.
+
+4.  Apparently GOB in the past has also tangibly shown its interest in according fair treatment to the claimants and in settling the case. GOB allowed Applegate to keep 500 hectares (1,235.5 acres) and offered bonds to compensate for the other 8,250 hectares (20,385.75 acres) nationalized in accordance with Agrarian Reform Law. It is worth recalling that Applegate and Youngquist originally purchased a total of about 16,700 hectares (45,098 acres) for about US$ 34,580 in 1951. (Amount may have been only US$20,748 if Applegate and Youngquist purchased Bolivian pesos at a "differential rate" of $B 101.00 per US$1.00 rather than the official rate of $B 60.6 per US$ 1.00 then in effect). As only 8,250 hectares were taken from them, they presumably still have 8,450 hectares and may have since purchased additional land. Moreover, according to Moran's letter of October 6, 1972 to Hector Ormachea (when he was Minister of Industry, Commerce and Tourism), Victor Paz, when he was President of Bolivia, awarded 5,000 hectares (12,355.0 acres) to Applegate and Youngquist. Thus, it appears that partial compensation at least has already been made and that Applegate and Youngquist may hold more than 13,450 hectares (33,234.95 acres) of Bolivian land even if title to this land is not perfect.
+
+5.  On the other hand, it appears that Moran and his principals may not have always acted in "good faith." As a general proposition, they appear disinclined to negotiate on a friendly and direct basis with Government officials, preferring an arms length exchange of letters and a maximum exertion of compulsion through the United States Government whether it be through the State Department and Embassy, the White House or the Congress as our files amply demonstrate.
+
+Limited Official Use
+
+6.  Moreover, it appears to us that Moran and his principals have been less than open and forthright with USG and GOB officials and House Agriculture Committee as indicated by instances cited below:
+    A. Although GOB initiated action to take control of a portion of the claimants' land ("affected") on or about November 18, 1961, claimants did not inform Embassy until February 6, 1963. (Acting Assistant Secretary Torbut's letter to Senator Ellender of January 8, 1968).
+    B. Although State Department offered, beginning in mid-1966, to formally espouse their claim if claimants could properly prepare and document their case, they have never been able to do so to the satisfaction of State Department lawyers. (See Herman Kleine's memorandum of July 6, 1971 to the Administrator). Despite this continuing inability or unwillingness to present a properly prepared and documented case, Moran has repeatedly claimed that State Department had agreed to espouse the case, carefully failing to add the condition on which Department would do so. (Summary of exchanges over past few years being airpouched. Moran's letters of June 8, 1973; September 20, 1973; November 15, 1973; and January 11, 1974 all claim that State Department had agreed to espouse the claim).
+    C. Moran repeatedly asserted that GOB had not made an offer or what could be considered an offer when, in fact, GOB had offered land which Moran virtually refused. (See Moran's letters of June 8, 1973; September 20, 1973; September 25, 1973; October 3, 1973; November 6, 1973; November 15, 1973; and November 16, 1973).
+    D. Moran repeatedly asserted that GOB had not replied to his offer when, in fact, GOB had stated as early as January 19, 1973 that any settlement other than in land would be impossible for it.
+    E. Although Moran asserted repeatedly, and as late as January 11, 1974, that settlement in land was not possible because Applegate had suffered an accident and his ability to travel was limited, U.S. citizen residents of Santa Cruz report that Applegate has resettled in Santa Cruz as a farmer and businessman. Youngquist reportedly passes through Bolivia frequently because he has farming and other interests in the country.
+
+7.  DCM and ECONOFF met with new MININD/COM, Sub-Secretary for Industry Pereira (Frontanilla) and Juan McLean and Dr. Tapia of Sugar Institute on March 27. Views of Chairman Poage were again presented. Bolivian officials insisted that they could not take further action unless claimants, or their fully empowered representative, were able to document their case and present it to the Ministry. They insisted that they did not have in their files the documentation they requested in their letter of March 1, 1974. (Embassy is gathering together all of the pertinent documents in its possession on this case and will send copies to the Minister to replenish his files). They did indicate for the first time that they might consider a mixed land and financial compensation if the case appeared to warrant it. They stated that Applegate/Youngquist land had little value when it was expropriated and that records of Okinawan Colony show it was virtually undeveloped and unfenced. None of these officials knew whether Applegate had or has effective control of the 5,000 hectares Moran stated in his letter of October 6, 1972 Ex-President Victor Paz (Estenssoro) had given Applegate, presumably in compensation for expropriated land.
+
+8.  Finally, they stated that Bolivian Embassy in Washington had full information on the case, including Ministry's most recent letter to Moran, and that they assumed Waters and Bolivian Embassy were cooperating.
+
+9.  **Recommended Action:** Recommend that State Department official brief Chairman Poage on State Department's view of this long and tortuous case, if this has not already been done. From our vantage point it appears that such a briefing should include the following points:
+    A. Moran has never documented his case to the satisfaction of State Department lawyers, at least to the point that they would espouse the case, contrary to repeated claims by Moran that State Department had agreed to espouse the case;
+    B. Neither Moran nor his claimants, to our knowledge, have sought for many years direct contacts with the Bolivian government except through the Bolivian Embassy in Washington;
+    C. Claimants may be missing a good opportunity to resolve the case by direct negotiations as this GOB is probably better disposed to find a solution than most, if not all, of its predecessor governments;
+    D. State Department and Embassy have been deeply involved in this case since 1963 when they were first appraised of it by claimants (contrary to claimants' statements that Embassy has done nothing for them and that they are responsible for moving the case to the Congress).
+
+11. We suggest that a timetable for reasonable action on the part of both sides in this case (GOB and claimants) be developed for USG use only to try to bring this longstanding case to a satisfactory conclusion. If Department believes such a guideline might be useful, it might be shown to Chairman Poage to indicate how we think the case could be resolved. Timetable might look something like the following:
+    A. Claimants or their lawyer to present copies of all available documents in support of their case to GOB by June 1, 1974, or claimants or their lawyer to present an acceptable documented case to Department for espousal by June 1, 1974.
+    B. Direct negotiations to begin by July 1, 1974.
+    C. Evaluation of expropriated property to be completed by August 1, 1974.
+    D. Specific parcels of land to be shown to claimants by September 1, 1974.
+    E. Negotiations to be concluded by December 31, 1974.
+
+12. This timetable is predicated on the assumption that claimants have some "valid" claim in USG's eyes even if the claim is not fully documented or perfect in all respects. It also assumes that claimants may not have paid all taxes for which they were liable but that there still is a "net" value for which they have not been compensated.
+
+13. Such a timetable might be acceptable to House Agriculture Committee as an appropriate guideline to reasonable performance by both sides and as a substitute for punitive action against Bolivia by the Congress before claimants have taken actions which we believe they should take.
+
+Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02004
+
+- **Date:** April 01, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** SUGAR, DISPUTE SETTLEMENT, TRADE COMPLAINTS, LAND NATIONALIZATION, COURTS

@@ -1,0 +1,47 @@
+---
+title: "Jose Kenneth Penaranda (I-73-0042 Jorge Baro, Ect. Al)"
+author: "Stedman"
+date: "March 08, 1974"
+editor: visual
+cable-date: "March 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2479"
+cable-info: "Oct-01 Ss-14 Iso-00 L-02 Snm-02 Ciae-00 Inr-10 Nsae-00 Rsc-01 Drc-01 /041 W --------------------- 038380 R 081605z Mar 74"
+cable-subject: "Jose Kenneth Penaranda (I-73-0042 Jorge Baro, Ect. Al)"
+cable-tags: "SNAR, BL"
+cable-ref: "STATE 028448 DATED FEBRUARY 13, AND PREVIOUS."
+cable-doc-number: "1974LAPAZ01434"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "28 MAY 2004"
+cable-concepts: "NARCOTICS, DRUG TRAFFIC, EXTRADITION, ARRESTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Following receipt of reftel, DCM spoke with legal advisor and Subsecretary of Justice Ledezma on February 20 concerning our desire that Penaranda be expelled from Bolivia into US custody. DCM stated that Washington authorities were of the view that procedure earlier outlined by Ledezma (La Paz 0712) seemed to be indistinguishable from formal extradition request, particularly need to channel documents through Foreign Office. DCM inquired whether Ledezma viewed his procedure as, in effect, an extradition procedure and whether Foreign Office channel could not be omitted. Ledezma replied that he did not regard procedure earlier outlined as formal extradition route. Rather, Foreign Office channel seemed to him to be required only in order that signature of Bolivian Consul in New York could be duly certified by Foreign Ministry. (Ledezma had not earlier mentioned need for Bolivian consul certification). When pressed as to the real need for use of Foreign Office channel, Ledezma agreed that this could be dropped and the relevant documents submitted directly to him. Assuming that documents are in good order, he would then authorize issuance of an arrest warrant for Penaranda. It was clear in the conversation with Ledezma that he views the documents as legally necessary to support issuance of an arrest warrant against a Bolivian citizen.
+
+2. Ledezma then stated that it would be necessary for the new Minister of Interior, Juan Pereda Asbun to be briefed by the Embassy on the case and the Minister's assent obtained to turning Penaranda over to USG jurisdiction. Minister Pereda has told Ambassador he wishes to discuss in private matters of current interest soon, perhaps next week. Ambassador will then take up Penaranda case and other matters. Embassy has no reason to believe that Minister Pereda will raise objections to procedure outlined by Ledezma.
+
+3. Embassy believes that with Ledezma's having dropped the Foreign Ministry requirement, objections raised in reftel have been overcome. What Ledezma now agrees to is in effect an informal procedure whereby Penaranda can be delivered to US jurisdiction. We have very carefully considered what complications might arise if we follow the new procedure outlined by Ledezma. Assuming Minister Pereda's concurrence, we foresee none. If, however, complications should arise subsequent to the presentation of the documents to Ledezma, we still believe it would be fairly easy to back-off, should such be necessary to avoid jeopardizing Bolivian narcotics cooperation.
+
+4. Action requested: Embassy requests that the following documents be obtained from New York court authorities and transmitted to Embassy for delivery to Ledezma:
+    1. Certified copy of arrest warrant against Jose Kenneth Penaranda, with accompanying Spanish translation, all legalized by Bolivian Consul.
+    2. Certified copy of indictment of Jose Kenneth Penaranda, with Spanish translation, all legalized by the Bolivian Consul.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01434
+
+- **Date:** March 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 28 MAY 2004
+
+- **Concepts:** NARCOTICS, DRUG TRAFFIC, EXTRADITION, ARRESTS

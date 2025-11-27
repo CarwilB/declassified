@@ -1,0 +1,47 @@
+---
+title: "Victor Paz Exiled"
+author: "Confid*Ntial"
+date: "January 09, 1974"
+editor: visual
+cable-date: "January 09, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 1888"
+cable-info: "Oct-01 Iso-00 Sso-00 Nsce-00 Usie-00 Inre-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-10 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Aid-20 Drc-01 /104 W --------------------- 054575"
+cable-subject: "Victor Paz Exiled"
+cable-tags: "PINT BL"
+cable-ref: "LA PAZ 110"
+cable-doc-number: "1974LAPAZ00158"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "EXILES, ANARCHY, SOCIAL CHANGE, CIVIL DISORDERS, EXTORTION, COMMUNIQUES, PARTY MEETINGS, PARTY LEADERS,"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. The Ministry of Interior announced that on January 8, Victor Paz Estenssoro, MNR chief, along with the following of his aides--Julio Garret Ayllon, Eduardo Olmedo, Eufronio Amurrio, Jose Ugarte Calvi and Juan Loayza were detained and exiled to Paraguay. Charges against the exiles were (in paraphrase): A) Attempt to change the nature of the Revolution of August 1971; B) Attempt to create divisions within the Armed Forces and Police; C) Systematic agitation among the ranks of organized labor to create anarchy and social discord; D) Unwillingness to accept the responsibility these persons had in the passage of the so-called economic package last October-November; E) Contact with the extreme left both within and outside of the country with patently subversive purposes; and F) Extortion of funds from industry for conspiratorial ends. (Note: This last charge evidently refers to the MNR campaign to raise contributions from party members and the public to defray the costs of the proposed convention.)
+
+2. Also on January 8, Ciro Humboldt issued a communique announcing his assumption of the duties of MNR chief ad interim. Dr. Humboldt stated that he has warned VPE of the need to work for party and national unity but that his efforts had been in vain. Humboldt, with an extraordinary display of cynicism, then criticized VPE for passively accepting his exile and abandoning his followers. Humboldt also announced the postponement of the MNR convention until August 1974. At the same time, the various dissidents to VPE's leadership, issued a communique in the name of the MNR criticizing Dr. Paz' autocratic rule and pledging the party's support to the FPN and President Banzer. Among dissident leaders signing this document were Humboldt, Executive Secretary Ruben Julio, Secretary General Juan Jose Rivero and the MNR ministers in the GOB.
+
+3. The meeting of Dr. Paz with the Minister of Interior in the morning of January 8 (see reftel) was attended by ranking officers of the Armed Forces so it is clear that the decision to exile the MNR leader had the backing of the upper echelons of the military institution.
+
+4. It is possible that other followers of Dr. Paz may be exiled in the near future.
+
+5. Comment: With the exile of VPE, the leader of Bolivia's largest political party, the government of President Banzer will appear more authoritarian than at any time in the past, both at home and abroad. It remains to be seen, but it appears unlikely that the public will accept the Humboldt-led party as the true MNR. Thus, the military, already considered the significant force behind the administration, will be awarded the primary responsibility for the accomplishments and failures of the Banzer government. This, in turn, should increase the military's interest in the day-to-day operations of the government. It would appear that although Banzer has removed a rival of great skill, he has limited his room for political maneuver and increased further his already significant dependence on the Armed Forces. Although we do not foresee any imminent political upheavals resulting from this action, there is some concern that the decapitation of the political middle ground may have longer term consequences of polarizing political activity in Bolivia between far right and far left.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00158
+
+- **Date:** January 09, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** EXILES, ANARCHY, SOCIAL CHANGE, CIVIL DISORDERS, EXTORTION, COMMUNIQUES, PARTY MEETINGS, PARTY LEADERS,

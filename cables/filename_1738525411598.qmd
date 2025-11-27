@@ -1,0 +1,41 @@
+---
+title: "The Economic Effects Of Bolivia's Political Crisis - Tin"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "November 14, 1979"
+editor: visual
+cable-date: "November 14, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 9269"
+cable-info: "Oct-01 Ara-11 Eur-12 Ea-10 Ads-00 Com-02 Int-05 Gsa-02 Ciae-00 Inr-10 Nsae-00 Dode-00 Aid-05 Frb-03 Ica-11 Trse-00 Xmb-02 Opic-07 Sp-02 Lab-04 H-01 Sil-01 Omb-01 /098 W ------------------077704 172316z /64 R 141850z Nov 79"
+cable-subject: "The Economic Effects Of Bolivia's Political Crisis - Tin"
+cable-tags: "EMIN, ECON, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ09817"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "TIN, ECONOMIC CONDITIONS, MINING INDUSTRY, LABOR STRIKES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Although Bolivia's private mining sub-sector is working, three Comibol mines/mills--Colquiri, Siglo XX, Catavi--are formally on strike. (Together these three entities represent slightly more than a third of Comibol production.) Additionally, the remainder of Comibol's mines are on quasi-strike, i.e., there is little production.
+
+2. Obviously, the final effect of the current political crisis on Bolivia's 1979 tin output depends on how long the strikes/slowdowns persist. However, even prior to the November 1 coup, 1979 tin production was lagging slightly more than five percent behind 1978's 30,880 metric tons. The effect of production lost just since November 1 now requires a revised estimate that 1979's shortfall over 1978 will be at least ten percent. If stoppages continue (and spread to the private mines) and there is little further production through the end of the year, the 1979 total could be as low as 24,500 metric tons.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09817
+
+- **Date:** November 14, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** TIN, ECONOMIC CONDITIONS, MINING INDUSTRY, LABOR STRIKES

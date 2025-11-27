@@ -1,0 +1,45 @@
+---
+title: "Fortnight Trends Report"
+author: ""
+date: "August 30, 1979"
+editor: visual
+cable-date: "August 30, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 7959"
+cable-info: "Oct-01 Ads-00 Pm-05 Nsc-05 Sp-02 Ss-15 Ciae-00 Inr-10 Nsae-00 Pa-01 Inc-01 Ica-11 Aid-05 Pc-01 Trse-00 /072 W ------------------038505 021456z /53 R 301230z Aug 79"
+cable-subject: "Fortnight Trends Report"
+cable-tags: "PINT, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ07386"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "DISPUTES, PRESIDENT, TRENDS, POLITICAL LEADERS, POLITICAL SUMMARIES, CENTRAL LEGISLATURE"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+2. **Summary:** A procedural dispute over selecting the leadership of state-owned corporations has somewhat marred President Walter Guevara's honeymoon with the Congress that elected him. As the executive and legislative branches thus shake down to one another, the major political groups are beginning to try to organize themselves for next year's elections. Although the UDP, the MNR Alliance and the ADN have all publicly expressed optimism about the political future, their real perspectives are considerably more complex. The UDP is still plagued by the internal tensions that almost pulled it apart earlier in the year; the MNR Alliance has not yet found a way of accommodating the ambitions of some of its younger (albeit middle-aged) leaders; and the ADN, chiefly concerned with the anti-Banzer accusations in Congress, may maneuver for elections in 1981, instead of next year. The armed forces, in the meantime, have accomplished their retreat to the barracks smoothly. Against this background, attention is now beginning to focus increasingly upon the labor sector, which is still considering how--or whether--to press its demands for significant wage hikes. End summary.
+
+3. In the past two weeks, the interim government of President Walter Guevara and the Congress that elected him have begun to shake down to one another. Relations between the two entities, generally speaking, have been tentative and cordial. On August 23, however, a confrontation erupted when Guevara decided to fill several upper-level positions at COMIBOL, the state mining corporation, without bothering to consult the Chamber of Deputies first, in accordance with Act 62 of the Constitution. Crying foul, the deputies promptly issued a resolution pointing out that it was the lower house's constitutional prerogative to submit a list of three candidates for "social and economic" positions in all state corporations. Later that same evening, Guevara responded, in effect, with a demurrer. He acknowledged that the legislature's rights were as stated and said that he had no intention of usurping them. But, he added, allowances must be made for the special circumstances that obtain during a "transitional" government. The appointments, therefore would stick. In response, the deputies threatened interpellation of ministers, which prompted the President to seek a meeting with the leadership of both houses and reach an accommodation. There will be no interpellation as such, but ministers will agree to present reports on their activities to the Congress. In return, the government will henceforth respect the legislature's prerogatives under Article 62 to submit three nominees for top managerial jobs in the state enterprises. (Comment: Guevara appears to have made a tactical error by overlooking the legislative prerogative, probably by oversight rather than design. The issue now appears to have been satisfactorily accommodated, but the new Congress made its point and has effectively served notice on the government. Despite the flare-up between executive and legislature, however, the honeymoon appears to continue on course. End comment).
+
+5. As the government and the Congress feel their way forward, the major political groups have begun to reorganize and to look toward the future. Spokesmen for the MNR, the UDP and the ADN have publicly proclaimed that Victor Paz Estenssoro, Hernan Siles and Hugo Banzer will again head their respective slates in the elections scheduled for May 4 next year. Underlying these proclamations, however, are considerably more complex realities.
+- The UDP, as earlier in the year, is experiencing internal strains. The mainstay MNRI party is divided on whether to permit Siles to run again with an MIR vice presidential candidate. The Moscow-line Communists (PCB) share these re-emerging reservations about the MIR, while the MIR members themselves have not resolved whether their standard bearer next round should be Jaime Paz (as in 1979) or Antonio Aranibar, currently a lower house deputy. Another point of contention is the scope of the next elections: the MNRI wants them to be general, rather than simply for President and Vice President; the Communists, on the other hand, do not want to risk their newly-won congressional seats.
+- The MNR Alliance is hardly more unified. Victor Paz remains the "indispensable" leader, but, according to a good source, he refuses to allow an objective review of 1979 election errors. Moreover, he remains resistant to "generational" pressures from ambitious young leaders such as Robert Jordan
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ07386
+
+- **Date:** August 30, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** DISPUTES, PRESIDENT, TRENDS, POLITICAL LEADERS, POLITICAL SUMMARIES, CENTRAL LEGISLATURE

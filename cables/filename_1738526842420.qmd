@@ -1,0 +1,42 @@
+---
+title: "Fy 1974 Fms Credit - Bolivia"
+author: "Stedman"
+date: "April 24, 1974"
+editor: visual
+cable-date: "April 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 2921"
+cable-info: "Oct-01 Ara-16 Iso-00 Dode-00 Sso-00 Aid-20 Iga-02 L-03 Ciae-00 Inr-10 Nsae-00 Rsc-01 Inre-00 Ss-20 Nsce-00 Nsc-07 Trse-00 Mc-02 Eb-11 Sp-03 Drc-01 /104 W --------------------- 052980"
+cable-subject: "Fy 1974 Fms Credit - Bolivia"
+cable-tags: "MASS BL"
+cable-ref: "SEC/DEFENSE MESSAGE 121835Z APR 74"
+cable-doc-number: "1974LAPAZ02604"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "MILITARY ASSISTANCE, PRESIDENT, ECONOMIC ASSISTANCE, CREDIT AGREEMENTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Reference message reported that State and Defense have allocated $4 million FMS for Bolivia in FY 1974.
+2. We have been informed by GOB Sub-Secretary of Defense that President Banzer has accepted $4 million credit under the terms indicated in Para. 2 of Reftel.
+3. Bolivian Ambassador in Washington will be instructed to sign FMS credit agreement on behalf of Bolivian government.
+STEDMAN
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02604
+
+- **Date:** April 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** MILITARY ASSISTANCE, PRESIDENT, ECONOMIC ASSISTANCE, CREDIT AGREEMENTS

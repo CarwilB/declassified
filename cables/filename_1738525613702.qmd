@@ -1,0 +1,55 @@
+---
+title: "Bolivian Government Signs Imf Letter Of Intent"
+author: "On Its External Debt Service."
+date: "December 29, 1979"
+editor: visual
+cable-date: "December 29, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 9949"
+cable-info: "Oct-01 Ads-00 Aid-05 Ciae-00 Com-02 Eb-08 Frb-03 Inr-10 Nsae-00 Trse-00 Xmb-02 Opic-07 Sp-02 Lab-04 H-01 Sil-01 Omb-01 Ss-15 Str-08 Cea-01 Nsce-00 Icae-00 Sso-00 Inre-00 /086 W ------------------112292 291355z /44"
+cable-subject: "Bolivian Government Signs Imf Letter Of Intent"
+cable-tags: "EFIN, BL"
+cable-ref: "(A) LA PAZ 10725, (B) LA PAZ 10745, (C) STATE 330263"
+cable-doc-number: "1979LAPAZ10988"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "FINANCIAL AGREEMENTS, IMF DRAWING RIGHTS, FINANCIAL PROGRAMS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. **Summary:** GOB Finance Minister signed a letter of intent requesting Standby and Trust Fund drawing from IMF December 27. The letter also indicates the GOB will seek EFF credit at the conclusion of Standby in late 1980. The Finance Minister also believes the World Bank is committed to providing a program loan once the Standby is approved by IMF and he plans to approach IBRD President McNamara accordingly. End summary.
+
+2. After receiving informal approval by the IMF on December 24, Bolivian Finance Minister Augusto Cuadros Sanchez signed late December 27 a formal letter of intent requesting the IMF to provide a Standby and indicating that at the termination of the Standby the GOB will request a credit from the Extended Fund Facility. The letter was accompanied by a memorandum on GOB economic policy over the four-year period 1980 through 1983, a technical memorandum of understanding with several tables, and a separate short letter requesting a Trust Fund drawing. According to local IMF representative Jorge Sol Perez, the Fund will give formal approval to the Standby and the Trust Fund drawing in mid-January.
+
+3. The Standby request is for 66.375 million SDRs, while the Trust Fund drawing request is estimated conservatively at 15 million SDRs, for a total of 81.4 SDRs or about 105.8 million dollars. Sol Perez estimates that, because of the rising price of gold, the Trust Fund drawing will more likely be in the neighborhood of 20 million SDRs and therefore that the total will be closer to 86.4 SDRs or 112.3 million dollars. Disbursements (using the more conservative estimate of the Trust Fund drawing) will be as follows:
+
+JANUARY 1980 41.4 SDR
+MARCH 1980 14.0 SDR
+JUNE 1980 13.0 SDR
+SEPT 1980 13.0 SDR
+TOTAL 81.4 SDR
+
+The GOB would expect to receive the first tranche of the EFF credit in January 1981.
+
+4. Cuadros Sanchez's memorandum on economic policy analyzes Bolivia's current economic problems and their origins, defends the economic measures already taken by the GOB and describes additional measures to be taken in the future. The object of the GOB's efforts in 1980, according to the memorandum, is "to create the bases to achieve sustained economic growth during subsequent years" and therefore "to put public finances and the administration of monetary instruments in order and to establish regulations and controls over public-sector external debt operations, with the purpose of reducing the balance of payments deficit." For the 1981-1983 period, the economic program's objective will be "to achieve and maintain an acceptable level of economic growth in real terms, avoiding inflationary pressures and seeking to strengthen still further the balance of payments." An acceptable level of economic growth is defined as four-and-a-half to five percent annual growth in the Gross Internal Product, compared with the two percent reportedly registered in 1979. The memorandum notes that among the objectives for 1980 will be a "viable" exchange rate, reduction of the overall public sector deficit, rationalization of public investment, adjustment of the prices of public-sector goods and services to realistic levels, and control of the external debt of the public sector and the private banking system. The memorandum strongly implies the possibility of future devaluation of the peso by stating that, "in the future the value of the peso will be determined by the behavior of the Bolivian economy, particularly the International Reserve position of the Central Bank and the relationships between external and internal costs."
+
+5. In addition, the memorandum notes, the administration will present to the Congress in 1980 tax reform legislation intended to stimulate economic growth and increase public sector revenues. Specifically, according to Cuadros Sanchez, the GOB will broaden the coverage of taxes on profits, introduce some new indirect taxes, reduce drastically exemptions from import duties, maintain a rate of expansion in the money supply which conforms to the projected growth of private sector savings and to balance of payments objectives, establish new incentives for savings and modify the taxation of the mining sector to promote increased investment and production. The GOB will not, says Cuadros Sanchez, impose any more restrictions in 1980 on international payments and transfers nor will it tighten present restrictions, if such actions would violate the IMF's prescriptions. He expects that during the first semester of 1980 the GOB will be current on its external debt service.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ10988
+
+- **Date:** December 29, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** FINANCIAL AGREEMENTS, IMF DRAWING RIGHTS, FINANCIAL PROGRAMS

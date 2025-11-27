@@ -1,0 +1,50 @@
+---
+title: "Bolivian Training School Hqs For Stutman/Tr, Embassy For Dea"
+author: "Stedman"
+date: "May 09, 1974"
+editor: visual
+cable-date: "May 09, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Dea Hqs WashDC Priority"
+cable-info: "Oct-01 Iso-00 Snm-02 Drc-01 Rsc-01 /015 W --------------------- 097310"
+cable-subject: "Bolivian Training School Hqs For Stutman/Tr, Embassy For Dea"
+cable-tags: "SNAR, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ03003"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "DRUG CONTROL, PERSONNEL TRAINING, VISITS, PERSONNEL TRAVEL"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. S/A MARTIN WILL BE MET ON HIS ARRIVAL IN BOLIVIA
+ON TUESDAY, MAY 14, 1974, VIA BN #979 AT 1:30 P.M.
+NECESSARY APPOINTMENTS WITH THE COMPETENT BOLIVIAN OFFICIALS
+WILL BE MADE.
+
+
+2. RESERVATIONS HAVE BEEN MADE. IF ANY CHANGES ARE
+NECESSARY, YOU WILL BE IMMEDIATELY ADVISED.
+
+
+BEDOLLA, SAIC.
+STEDMAN
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ03003
+
+- **Date:** May 09, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** DRUG CONTROL, PERSONNEL TRAINING, VISITS, PERSONNEL TRAVEL

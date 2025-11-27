@@ -1,0 +1,45 @@
+---
+title: "Trade Opportunity: Hotel Development In Cochabamba"
+author: "Stedman"
+date: "March 29, 1974"
+editor: visual
+cable-date: "March 29, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2690"
+cable-info: "Oct-01 Ara-16 Iso-00 Eb-11 Rsc-01 Drc-01 /030 W --------------------- 017649 R 291924z Mar 74"
+cable-subject: "Trade Opportunity: Hotel Development In Cochabamba"
+cable-tags: "BEXP, ETRD, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01970"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "FOREIGN INVESTMENTS, HOTELS, INVESTMENT OPPORTUNITY REPORTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+E.O. 11652: N/A
+TAGS: BEXP, ETRD, BL
+Subject: Trade opportunity: Hotel development in Cochabamba
+Ref: State 51445
+
+Interested firms should contact Secretario General de la Presidencia, Edwin Tapia (Secretary General of the Presidency), Palacio del Gobierno, La Paz, Bolivia.
+Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01970
+
+- **Date:** March 29, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** FOREIGN INVESTMENTS, HOTELS, INVESTMENT OPPORTUNITY REPORTS

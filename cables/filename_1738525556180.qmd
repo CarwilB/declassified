@@ -1,0 +1,65 @@
+---
+title: "Gob Discussions With Imf"
+author: "In Financing"
+date: "August 31, 1979"
+editor: visual
+cable-date: "August 31, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 7995"
+cable-info: "Oct-01 Ads-00 Sso-00 /026 W ------------------033178 011304z /53 P 312205z Aug 79"
+cable-subject: "Gob Discussions With Imf"
+cable-tags: "EFIN, ECON, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ07471"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "20 Mar 2014"
+cable-concepts: "MEETINGS, ECONOMIC PROGRAMS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. (Text Removed)
+
+2. **Summary:** Convinced by the August 22-25 visit of the IMF's Marcelo Caiola, President Walter Guevara and the GOB's economic leadership now support negotiations with the IMF and realize that economic measures must be taken. The IMF and the GOB agreed that the package of economic measures must include an immediate increase in the domestic price of petroleum products and some form of devaluation. The IMF has stated that it can send a mission to Bolivia within a few days of receipt of the GOB's invitation. Possible obstacles are the GOB's insistence that it needs about $US 50 million prior to the negotiations, so it will not be negotiating under the gun of imminent reserve exhaustion, and the risk that wage pressures will surge beyond what the GOB can offer in the context of a coherent program. End summary.
+
+3. At his own initiative, returning from Uruguay, Marcelo Caiola of the Western Hemisphere Division of the IMF, arrived in La Paz August 22 and spent three days discreetly visiting with GOB officials. Caiola held the following meetings:
+
+A. Enrique Garcia, President of the Central Bank;
+
+B. Guido Hinojosa, Minister of Finance and Carlos Miranda, Minister of Planning and Coordination;
+
+C. The President's economic cabinet--Carlos Miranda, Guido Hinojosa, Tommas Guillermo Elio (Minister of Industry and Commerce), Gustavo Fernandez (Minister of Foreign Relations).
+
+D. President Walter Guevara. The President, who would normally have attended the economic cabinet meeting, was sick so Caiola and Jorge Sol Perez, the resident IMF representative, visited him at his home.
+
+4. According to Sol Perez, the meetings were most productive but were characterized by a degree of ignorance of international finance on the part of the GOB officials. The economic leadership is made up of people well experienced in rural development, project financing, and integration but not international finance. After the candid discussion, the GOB decided in favor of economic measures and negotiations with the IMF. President Guevara Arze, in consonance with what he termed his implicit mandate from Congress to address the economic situation, followed the discussions closely and ultimately agreed that the GOB must negotiate with the IMF.
+
+5. **Current Situation:** Bolivia's financial situation grows more serious each day. On August 29, the Central Bank's net reserves totaled $US 49 million. Apparently, this included about $US 10 million in German credits for the Karachipampa Lead and Silver Smelter Project. In addition, the Central Bank has about $US 100 million in the "Depositos Al Terceros," which are foreign exchange deposits of the state enterprises and commercial banks held in the Central Bank. Normally, with good monetary management, the Central Bank would not use these deposits, but recently the Bolivian Central Bank has dipped into them to meet their foreign exchange demands. The Central Bank also has about $US 50 million in credit lines with New York banks which have not been used. If necessary, both the "Depositos Al Terceros" and the bank credit lines could be drawn down.
+
+A. Presently, Bolivia's average daily foreign exchange transaction loss is running about $US 2 million. Some days' losses have been much higher. On Monday, August 27, triggered by an interview with Central Bank President Enrique Garcia published in Saturday's newspapers, losses approached $US 8 million. Even assuming minimum reserve losses of $US 2 million daily, the Central Bank's net reserve position would turn negative before the end of September.
+
+B. From now through the end of the year, Bolivia must pay about $US 244 million in debt service, according to Sol Perez. This includes $US 100 million in amortization and interest for various loans to the GOB and $US 144 million to repay the Central Bank swaps obtained by the GOB in June.
+
+C. Gross Central Bank reserves totaled $US 236.7 million on August 20 as compared with $US 215.2 million on June 30. Net reserves on June 30 were $US 82.04 million. Net domestic credit expanded from $US 440.86 million on June 30 to $US 509.3 million on August 20. The money supply increased by 7 percent to $US 321.3 million from June 30 to August 20. Through July, imports were increasing at a rate almost 40 percent over that of last year.
+
+D. Sol Perez states that Bolivia's consolidated public sector deficit is enormous and without any measures will approach $US 580 million by the end of the year. Even if public sector revenues were increased via tax increases, better customs enforcement, and price increases of state enterprise produced goods, the fiscal gap could not be closed. The GOB currently finances about one-half of this deficit with short-term credits.
+
+6. **Measures:** After talking with IMF officials, the GOB opted for the Extended Fund Facility (EFF) instead of a one year standby agreement, which would provide less than $US 100 million in financing.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ07471
+
+- **Date:** August 31, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 20 Mar 2014
+
+- **Concepts:** MEETINGS, ECONOMIC PROGRAMS

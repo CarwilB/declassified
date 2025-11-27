@@ -1,0 +1,40 @@
+---
+title: "Request For Expedited Action--Map Equipment"
+author: "Stedman"
+date: "March 01, 1974"
+editor: visual
+cable-date: "March 01, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2399"
+cable-info: "Oct-01 Iso-00 Pm-07 L-03 Aid-20 Mc-02 Iga-02 Ciae-00 Inr-10 Nsae-00 Rsc-01 Omb-01 Come-00 Trse-00 Dode-00 Drc-01 /068 W --------------------- 096304 R 012109z Mar 74"
+cable-subject: "Request For Expedited Action--Map Equipment"
+cable-tags: "MASS BL"
+cable-ref: "(A) STATE 026354; (B) LA PAZ 0608; DEPARTMENT PASS DOD/ISA"
+cable-doc-number: "1974LAPAZ01291"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PROCUREMENT, MILITARY EQUIPMENT, MILITARY ASSISTANCE"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. The Embassy appreciates the careful review made by the Department of the Army of the delivery status of already funded MAP items destined for Bolivian Army Tipo regiments. We are particularly pleased that the M-113A1 armored personnel carriers (14) and the 4.2 in. mortars (11) and the AN/VRC 18 radios (4) are scheduled for delivery not later than June 30 of this year. We are mindful of the difficulties inherent in the delivery schedules for AN/GRC and AN/PRC radios and for the 81 mm mortars, but hope that something can be done to accelerate delivery of at least a few of these items ahead of the dates as given in Reftel A. As indicated in Reftel B, even token deliveries of these items would assist us in dealing with recurrent GOB complaints that we are falling behind in our commitments under our Military Assistance Program to Bolivia.
+2. In view of the reasons given for the inability to forecast deliveries for the 81 mm mortars and the radios, we do not feel it would be particularly useful for DOD to send an officer to Bolivia unless he would have authority to advance delivery dates ahead of the schedules given in Reftel A.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01291
+
+- **Date:** March 01, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PROCUREMENT, MILITARY EQUIPMENT, MILITARY ASSISTANCE

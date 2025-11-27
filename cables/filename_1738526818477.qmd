@@ -1,0 +1,39 @@
+---
+title: "Sugar Legislation"
+author: "An"
+date: "March 04, 1974"
+editor: visual
+cable-date: "March 04, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2410"
+cable-info: "Oct-01 Iso-00 Eb-11 Agr-20 Come-00 H-03 L-03 Ciae-00 Inr-10 Nsae-00 Rsc-01 Omb-01 Trse-00 Drc-01 /071 W --------------------- 111347 P 041910z Mar 74"
+cable-subject: "Sugar Legislation"
+cable-tags: "EAGR, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01316"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "SUGAR, AGRICULTURAL PRODUCTION, AGRICULTURAL LAW, COMMITTEE MEETINGS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+According Dr. Tapia of Sugar Institute letter to Congressional Committee sent through Ministry Foreign Relations about one week ago. Letter clearly states Bolivia will meet 1974 sugar allocation. In parallel approach to Min Foreign Relations, Embassy emphasized necessity for such a letter to be submitted to House Committee NLT March 9. Under Secretary of Fonmin states to Emboff that he would insure that such a letter would go forward.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01316
+
+- **Date:** March 04, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** SUGAR, AGRICULTURAL PRODUCTION, AGRICULTURAL LAW, COMMITTEE MEETINGS

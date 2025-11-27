@@ -1,0 +1,47 @@
+---
+title: "[subject not available]"
+author: "Morton"
+date: "January 09, 1974"
+editor: visual
+cable-date: "January 09, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Usia WashDC"
+cable-info: "Oct-01 Ara-10 Iso-00 /015 W --------------------- 055340 R 091744z Jan 74"
+cable-subject: "[subject not available]"
+cable-tags: "OEXC, SNAR, EC"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00162"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PERSONNEL TRAINING, DRUG CONTROL, MEETINGS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. **La Paz agrees completely with Quito 0059.** After considerable consultation with appropriate country team members we do not feel that having a seminar in Lima would benefit mission objectives in La Paz. Our representative to Andean PAO meeting did not understand simultaneous seminars to mean sending participants to other country.
+
+2. **Normal spin-off benefits from seminars include:**
+A. Strengthening contacts with key individual through close proximity over a period of time.
+B. Being able to present points to further local CASP and CPM courses of action.
+C. Using local media to convey to a larger audience the key points brought out during the discussions.
+D. Using the STAG's as entre to groups with whom one would not ordinarily have easy access.
+
+3. **None of these benefits would accrue to Bolivia if we participated in Peru's seminar.** Under the circumstances we prefer not to participate in the proposed Vogel, Pollack, Turpin seminar. Like Quito we feel our money could be better spect in a locally produced seminar later in the fiscal year. Are consulting WPTH Economic/Commercial Section on practical aspects to be covered and will submit details and STAG requests later.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00162
+
+- **Date:** January 09, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PERSONNEL TRAINING, DRUG CONTROL, MEETINGS

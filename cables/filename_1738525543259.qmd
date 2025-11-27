@@ -1,0 +1,43 @@
+---
+title: "Diplomatic Immunity"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "March 22, 1979"
+editor: visual
+cable-date: "March 22, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 5356"
+cable-info: "Oct-01 Ara-11 Iso-00 /015 W ------------------046117 241655z /41 R 221140z Mar 79"
+cable-subject: "Diplomatic Immunity"
+cable-tags: "PDIP, ASEC"
+cable-ref: "(A) LA PAZ 2172, (B) SHAMWELL/GEIGER TELCON 3/14/79"
+cable-doc-number: "1979LAPAZ02492"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "DIPLOMATIC PRIVILEGES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. For: L: On March 20, 1979 embassy administrative officer, Gerald E. Snyder, in his official capacity appeared before the judge of the Fifth Court in La Paz and, under oath, ratified that the information contained in the "denuncia" of January 15, 1979 was true and correct to the best of his knowledge. (See security case SY6-15237.)
+
+2. The above action was taken based upon telcon, Ref B. Before the ratification the embassy sent a formal note to the Bolivian Foreign Ministry as recommended in Ref B. Text of said note follows: "79/028 The Embassy of the United States of America presents its compliments to the Ministry of Foreign Affairs of the Republic of Bolivia and wishes to inform the Ministry that Gerald E. Snyder, First Secretary of the Embassy, has been authorized to waive his diplomatic immunity solely to the extent necessary in order to present an instructive declaration, in accord with Bolivian law, ratifying the complaint presented to the District Attorney on January 15, 1979 complaining of the acts committed by Rolf Silberstein, Kinjo Shimbaujuro and Shi Yu Cheng De Chang. This matter is now pending before the Fifth Court in La Paz. Other than permitting the execution of the above mentioned ratification, this waiver does not impair or restrict in any manner the diplomatic immunities enjoyed by Mr. Snyder under the provisions of the Vienna Convention and international law. The Embassy avails itself of this opportunity to renew to the Ministry the assurances of its highest consideration. La Paz, March 15, 1979 (Seal with Ambassador's initials)."
+
+3. An informal copy of the above note was given to the judge to be made part of the judicial record.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ02492
+
+- **Date:** March 22, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** DIPLOMATIC PRIVILEGES

@@ -1,0 +1,108 @@
+---
+title: "Consular Package - 1981"
+author: ""
+date: "February 26, 1979"
+editor: visual
+cable-date: "February 26, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 4959"
+cable-info: "Oct-01 Ara-15 Iso-00 Voe-00 Ocs-06 Ppt-01 Inse-00 Mmo-01 Abf-01 Per-05 Ss-15 Sp-02 Nsc-05 Omb-01 /054 W ------------------046980 262041z /21 R 261717z Feb 79"
+cable-subject: "Consular Package - 1981"
+cable-tags: "CGEN"
+cable-ref: "STATE 26626"
+cable-doc-number: "1979LAPAZ01684"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+**1. Schedule I - Immigrant Visas**
+
+1.  IV's issued 670 600 625 650
+2.  IV's refused 31 40 45 50
+3.  Total IV cases 701 640 670 700
+
+Man-hours utilized:
+American officers:
+4.  Full time permanent 662 787 787 840
+5.  Temporary detail 404 0 0 0
+6.  PIT (locally hired) 437 0 0 0
+7.  Sub-total American man-hours 1504 787 787 840
+
+FSNE:
+8.  Full time permanent 2467 2330 2205 2205
+9.  Temporary detail 113 0 0 0
+10. PIT 168 0 0 0
+11. Sub-total FSNE man-hours 2748 2330 2205 2205
+12. Total IV man-hours 4251 3117 2992 3045
+
+PCT of total IV cases requiring:
+13. Use of interpreter .5 O/O .5 O/O .5 O/O .5 O/O
+14. Third country check 20 O/O 20 O/O 20 O/O 20 O/O
+
+**2. Schedule II - Non-immigrant Visas**
+
+15. NIV's issued 12,321 18,500 22,200 26,640
+16. NIV's refused 984 1,500 1,800 2,160
+17. Total NIV cases 13,305 20,000 24,000 28,800
+
+Man-hours utilized:
+American officers:
+18. Full time permanent 1,625 2,363 2,625 4,200
+19. Temporary detail 408 212 0 0
+20. PIT (locally hired) 0 0 875 0
+21. Sub-total American man-hours 2,033 2,575 3,500 4,200
+
+FSNE:
+22. Full time permanent 2,418 2,800 5,513 5,513
+23. Temporary detail 141 48 0 0
+24. PIT 812 1,626 0 0
+25. Sub-total FSNE man-hours 3,371 4,474 5,513 5,513
+26. Total NIV man-hours 5,404 7,049 9,013 9,713
+27. NIV fees collected $98 $120 $150 $150
+28. Border crossing cards FY-78 0 0 0 0
+29. Crew list visas FY-78 0 0 0 0
+30. Names on crew list visas FY-78 0 0 0 0
+
+PCT total NIV cases requiring:
+31. Interviews 18 O/O 25 O/O 30 O/O 40 O/O
+32. Use of interpreter (of total NIV cases interviewed) .5 O/O .5 O/O .5 O/O .5 O/O
+33. Third country check 2 O/O 2 O/O 2 O/O 2 O/O
+
+**3. Schedule III - Special Consular Services**
+
+34. American citizens deaths 5 8 10 10
+35. Estate: Property claims 2 6 8 8
+36. Notarials 2843 3000 3200 3300
+37. Welfare/whereabouts 209 230 250 250
+38. Seaman services 0 0 0 0
+39. Arrests 28 30 30 30
+40. Other agency services 34 40 45 45
+41. Total SCS cases 3121 3314 3543 3643
+
+Man-hours utilized:
+American officers:
+42. Full time permanent 2907 1675 1313 1400
+43. Temporary detail 28 0 0 0
+44. PIT (locally hired) 0 0 0 0
+45. Sub-total American man-hours 2935 1675 1313 1400
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ01684
+
+- **Date:** February 26, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

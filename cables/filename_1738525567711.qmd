@@ -1,0 +1,48 @@
+---
+title: "Investment Dispute - Proposed Gob Takeover Of Us Company"
+author: "Raul Garzon."
+date: "October 17, 1979"
+editor: visual
+cable-date: "October 17, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 8687"
+cable-info: "Oct-01 Ara-11 Ads-00 Eb-08 Ciae-00 Inr-10 Nsae-00 L-03 /037 W ------------------005630 210901z /12 R 172150z Oct 79"
+cable-subject: "Investment Dispute - Proposed Gob Takeover Of Us Company"
+cable-tags: "EINV, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ08835"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "NATIONALIZATION, COMPENSATION, CENTRAL LEGISLATURE, RESOLUTIONS, PUBLIC UTILITIES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. **Summary:** The Bolivian Congress recently passed a resolution seeking confiscation or nationalization of the Bolivian Power Company, a Canadian (Nova Scotia) registered company whose major shareholders are US citizens or corporations, including Baldwin United of Cincinnati, Ohio which owns 49 percent of Bolivian Power's common stock. The resolution resulted in the appointment of a special technical committee of the Lower House, consisting of lawyers, engineers and other experts to study the issue and make recommendations. Bolivian Power responded with its own initiative, i.e., a lease-sale arrangement with fees to be paid over twenty years after which the Bolivian Government would receive title to the company's assets for no additional costs and with no interest payments. In a conversation with the Ambassador on October 16, Energy Minister O'Connor stated that Bolivian Power's proposal was an acceptable basis for negotiation, but that a number of specific elements of the proposal were unacceptable to the GOB.
+
+2. The company.
+(A) Compania Boliviana de Energia Electrica, S.A.--Bolivian Power Company Limited, produces and supplies hydro-electric energy to the cities of La Paz and Oruro, Bolivia, the adjoining areas, and nearby tin mines. Bolivian offices are located in La Paz and the company's head office is in St. John's, Antigua, West Indies. In 1978, the company sold 415.3 million kilowatt hours generating gross revenue of $US 11.3 million with net income of $US 3.4 million.
+(B) Bolivian Power is incorporated in Nova Scotia, Canada, and until October 1977 was owned by Canadian International Power Company, Ltd. On June 30, 1978 Bolivian Power formed a partnership, Hemisphere Leasing Associates, with Baldwin United Corporation of Cincinnati, Ohio, which holds 49.8 percent of Bolivian Power's common stock. In September 1978 Dayton Hydraulics Company became a general partner and October 1978 the partnership was reorganized as an Antiguan partnership.
+(C) In January 1979 the shareholders approved the contribution of Bolivian Power's beneficial interest in substantially all of its electric utility property, plant and equipment which had a recorded book value of about $US 40 million to its partnership, Hemisphere Leasing, in exchange for 50 percent partnership interest. Bolivian Power retains legal title to the assets. The other partners contributed $US 10 million to be used for purchasing property or equipment to be leased to or financed for third parties primarily in the US. Bolivian Power then entered into a ten-year lease with Hemisphere Associates for rental of all assets; the lease can be renewed through September 30, 1999 when Bolivian Power's franchise to operate in Bolivia expires.
+
+3. Background.
+(A) According to a July 24, 1964 agreement with the GOB, Bolivian Power is entitled to earn an annual return of nine percent on its asset base and in any period that it does not earn nine percent, it is entitled to recoup the deficiencies. In 1977 and 1978 Bolivian Power's rate of return was 7.7 and 6.5 percent respectively. As of December 21, 1978 the accumulated deficit totaled $US 18.3 million. To increase the rate of return, to cover past deficits, and to cover increasing costs, Bolivian Power asked for rate increases of 27.32 percent on December 13, 1977, 72.51 percent on December 12, 1978, and most recently a modified request of 64.03 percent in January 1979. These rate increases were not granted. The latest one is being studied by the GOB and has generated a great deal of publicity.
+(B) Sparked by the publicity from the rate increase request, a resolution seeking confiscation or nationalization of Bolivian Power was submitted in the new Congress. The resolution was modified creating a special Technical Commission of the Chamber of Deputies to prepare recommendations and report back to the Congress. The commission is composed of the following members: Jorge O'Connor, Ministry of Energy; Engineer Oscar Morales; Dr. Hugo Urquieta (lawyer); and Jose Raul Garzon.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ08835
+
+- **Date:** October 17, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** NATIONALIZATION, COMPENSATION, CENTRAL LEGISLATURE, RESOLUTIONS, PUBLIC UTILITIES

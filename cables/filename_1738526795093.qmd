@@ -1,0 +1,39 @@
+---
+title: "Gob Entering Commercial Wheat Market. Bolivia Will Soon Enter Commercial Wheat Market To Meet At Least"
+author: "Stedman"
+date: "January 24, 1974"
+editor: visual
+cable-date: "January 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "AmEmbassy Lima"
+cable-info: "Oct-01 Ara-16 Iso-00 Aid-20 Eb-11 Come-00 Trse-00 Omb-01 Ciae-00 Inr-10 Nsae-00 Rsc-01 Drc-01 /081 W --------------------- 078398 R 241747z Jan 74"
+cable-subject: "Gob Entering Commercial Wheat Market. Bolivia Will Soon Enter Commercial Wheat Market To Meet At Least"
+cable-tags: "EAGR, ETRD, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00497"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "WHEAT, SALES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Bolivia will soon enter commercial wheat market to meet at least April to July 1974 requirements estimated at about 40,000 M.T. As only two commercial wheat brokerage firms represented in La Paz, AGATT may wish inform brokerage firms with reps in Lima of opportunity for sales in Bolivia. Reps would do well contact Subsecretary Rolando Pereira, MININD/COM as initial step.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00497
+
+- **Date:** January 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** WHEAT, SALES

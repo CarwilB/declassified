@@ -1,0 +1,40 @@
+---
+title: "Vip Travel: Plans Of Minister Of Labor: New Arrival Time"
+author: "Stedman"
+date: "March 14, 1974"
+editor: visual
+cable-date: "March 14, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 2538"
+cable-info: "Oct-01 Iso-00 Ciae-00 Come-00 Eb-11 Inr-10 Lab-06 Nsae-00 Rsc-01 Sil-01 Prs-01 Pa-04 Usie-00 Cu-04 Aid-20 Io-14 Eur-25 Voe-00 Cpr-02 Drc-01 Sso-00 Inre-00 /121 W --------------------- 098773 O 141958z Mar 74"
+cable-subject: "Vip Travel: Plans Of Minister Of Labor: New Arrival Time"
+cable-tags: "OVIP"
+cable-ref: "LA PAZ 1550"
+cable-doc-number: "1974LAPAZ01581"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Dr. Franco will be arriving Baltimore (Friendship Airport) March 15 at 4:30 p.m. on Allegheny Flight 545.
+2. Latest telegram from minister requested programming specifically as follows: Department of Labor, AFLO-CIO, Bolivia Desk in State Department, and the OAS. One part of the telegram was garbled and may have contained other programming ideas. Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01581
+
+- **Date:** March 14, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

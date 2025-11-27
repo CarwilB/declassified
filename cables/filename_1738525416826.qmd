@@ -1,0 +1,49 @@
+---
+title: "Bolivia's Return To Constitutional Rule Via Indirect Election Of President-Elect Walter Guevara Arze"
+author: ""
+date: "August 07, 1979"
+editor: visual
+cable-date: "August 07, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState Immediate 7626"
+cable-info: "Oct-01 Ads-00 Ciae-00 Pm-05 H-01 Inr-10 L-03 Nsae-00 Pa-01 Sp-02 Ss-15 Nsce-00 Sso-00 Icae-00 Inre-00 Ha-05 /058 W ------------------110034 070502z /21"
+cable-subject: "Bolivia's Return To Constitutional Rule Via Indirect Election Of President-Elect Walter Guevara Arze"
+cable-tags: "PINT, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ06712"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "CONSTITUTIONAL LAW, INTERIM GOVERNMENT, PRESIDENTIAL ELECTIONS, DISPUTED ELECTIONS, PERSONNEL"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+2. **Summary:** On August 8 Bolivia will install Walter Guevara Arze as the country's first constitutionally-elected president in 13 years. Under Bolivia's current election laws (which virtually everyone wants to change before the next election in May 1980) this election took place in the new Bolivian Congress, since neither of the major candidates, Victor Paz and Hernan Siles, received a majority of the first-round popular vote. After five congressional ballots and a deadlock in which neither Paz nor Siles could achieve the required majority in the indirect election in the Congress, that body, under a provision of the Constitution, chose Senate President Walter Guevara Arze as president for a period of one year pending new elections under a revised electoral law.
+
+3. From the standpoint of the US objective of successful transition to constitutional, civilian rule, how should we evaluate the second-round election in the Congress of Senate President Walter Guevara Arze rather than either of the major candidates in the popular vote? On first blush, one might judge this indirect result of Bolivia's already indirect election to be a flawed one with less than clear legitimacy. Our judgment is the opposite: that a Guevara transitional government, given the indecisive result of the popular vote, is probably the best outcome possible. End summary.
+
+4. The indecisive popular vote and the current Constitution's provision for subsequent indirect election in the new Congress sent both Paz and Siles into that Congress with bitterly competing and in the end irreconcilable claims to the presidency. Paz' claim was based on his larger congressional delegation, resulting from the present law's over-representation of regional units. Siles' claim was based on his narrow margin in the popular vote and the possibility that this margin might have been larger if the National Electoral Court had done its job better. These disparate claims and the unexpectedly strong party discipline in upholding them raised the prospect of Paz (or remotely Siles) eeking out the presidency without a congressional majority or, perhaps more important, without a modicum of opposition tolerance for his government. The stark regional split of the popular vote, La Paz rejecting Victor Paz Estensoro and the eastern lowlands Siles, could have meant bitter regional resistance in either case. In these circumstances, the risk of fratricidal opposition clouded the prospects for survival of that government and of the democratization process. A Victor Paz government based only on his own MNR-Historico could have faced early-on the bitter choice of collapse or repression as its means of survival. To some extent it was a sincere fear of the latter possibility that kept any of the small political groups that could have made a Victor Paz government from doing so.
+
+5. Ironically, a Guevara government may be stronger and more durable. A Guevara government, emerging from a congressional consensus and with broad commitment to completion of its transitional task, has a fighting chance of surviving and meeting its recognized priorities of economic stabilization and preparation of a better political and legal base for the next election. The Guevara government could also form a bridge over Bolivia's stark generation gap in civilian political leadership. Paz and Siles are both aged and divisive figures from Bolivia's colorful but bitter past. Neither has inspired a broad following among the generation that now dominates the electorate, as the voting result clearly showed. While in 1978 and 1979 these two warhorses necessarily filled the void in political leadership caused by the rapid collapse of military rule, the recent campaign may have been the last for both (although in the case of Siles this depends more on his frail health than his choice). The dispersion of the popular vote and the congressional stand-off can be read as a low-confidence vote in all three ex-presidents (Paz, Siles and Banzer) and a desire for new faces from a new generation. In a transitional governing period some of these new faces will have a chance to show.
+
+6. Guevara the man is an excellent choice for the job handed him, as the Senate undoubtedly had in mind when electing him President of the Senate, since the possibility of his assumption of the presidency was recognized at that time. He is an intelligent politician and serene, dignified statesman. His impressive and even-handed chairmanship of the first two days of the combined Senate/Chamber body, carried on national television, set him a good cut above his fellow politicians. He is more rational and pragmatic than the emotional, intransigent character that has set the tone of Bolivian politics up to now. While he was Interior Minister under Siles, Guevara was associated with part of Bolivia's violent past, but he has somehow managed to maintain an aura of the non-divisive father figure. He and his PRA party were coldly cut down to size by Victor Paz in the last 9 months. In general Guevara is not a strong political infighter, but he could be a good healer. He was picked for this role, probably with some sense that his small party base, together with his personality and skills, while impressive, do not readily lend themselves to his catching the bug of power to the extent of mounting a successful effort to succeed himself in 1980.
+
+7. There are weaknesses in the Guevara solution as well. The badly-drafted Bolivian Constitution, which simply does not foresee the possibility of deadlock in which the Congress found itself, can be interpreted otherwise than it was in the resolution electing Guevara president. Opponents could challenge the legal basis for Guevara's interim presidency. Also, the UDP, while supporting Guevara's election has left itself free to assume the role of full opposition to his governing program, including economic stabilization measures.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ06712
+
+- **Date:** August 07, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** CONSTITUTIONAL LAW, INTERIM GOVERNMENT, PRESIDENTIAL ELECTIONS, DISPUTED ELECTIONS, PERSONNEL

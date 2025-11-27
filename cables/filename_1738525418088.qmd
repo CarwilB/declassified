@@ -1,0 +1,41 @@
+---
+title: "Death Of U.s. Citizen Frances Christian Ring To: Pearson Funeral Home 905 South Commerce Street Overton, Texas Tel (214) 834-3111"
+author: ""
+date: "December 06, 1979"
+editor: visual
+cable-date: "December 06, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Niact Immediate 9641"
+cable-info: "Oct-01 Ads-00 Cco-00 Paso-00 Sso-00 /007 W ------------------091390 062121z /64 O 062110z Dec 79 Zff4"
+cable-subject: "Death Of U.s. Citizen Frances Christian Ring To: Pearson Funeral Home 905 South Commerce Street Overton, Texas Tel (214) 834-3111"
+cable-tags: "CDES, BL (RING, FRANCES CHRISTIAN)"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ10440"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Remains of Frances Christian Ring being shipped from La Paz December 6 at 1910 hours via LAB Flight 861 to Miami for connection with Braniff Flight 140 due to arrive at Dallas, Texas 1430 hours on December 7, 1979. Request that you meet flight upon arrival at Dallas.
+
+2. We wish to point out that preparation and shipment of remains is carried out in accordance with the laws of and facilities available in Bolivia and in most cases the services fall short of those expected in the United States. It is requested that your director determine the advisability of viewing the remains.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ10440
+
+- **Date:** December 06, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

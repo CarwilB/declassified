@@ -1,0 +1,46 @@
+---
+title: "Conversation Between Walter Guevara Arze And Assistant Secretary Vaky"
+author: "Christopher"
+date: "December 14, 1979"
+editor: visual
+cable-date: "December 14, 1979"
+cable-from: "SecState WashDC"
+cable-to: "AmEmbassy La Paz Priority"
+cable-info: "Oct-00 Ads-00 Ciae-00 Dode-00 Pm-05 H-01 Inr-10 L-03 Nsae-00 Nsc-05 Pa-01 Sp-02 Ss-15 Ica-11 Aid-05 Pc-01 Eb-08 Come-00 Trse-00 /082 R"
+cable-subject: "Conversation Between Walter Guevara Arze And Assistant Secretary Vaky"
+cable-tags: "PINT, BL"
+cable-ref: ""
+cable-doc-number: "1979STATE322132"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "DIPLOMATIC DISCUSSIONS, POLITICAL SITUATION, TRENDS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+2. Walter Guevara Arze, accompanied by his son and Bolivian Ambassador Roberto Arce, called on Assistant Secretary Vaky and ARA/And Director Barnebey on December 11.
+
+3. Guevara offered his observations on the following items:
+A. Stabilization Measures -- There has been a strong reaction to the measures as they were originally announced. Paz has the votes necessary to avoid a congressional censure of the government, and Gueiler's personal relationship with Juan Lechin will help in overcoming resistance to the decrees. There was greater opposition, however, on the part of the peasants and transport workers because food prices had remained frozen and gasoline was much more expensive. Guevara thought Gueiler would agree to some adjustment of food prices which would satisfy the peasants.
+B. The military, the real power in Bolivia, remain in their headquarters in Miraflores. The same people who supported Natusch are still in command and believe the real enemy of Bolivia is the Bolivian people. Democracy and the current military structure in Bolivia are incompatible because too many officers see themselves as having to guide the country ("tutelar de la patria"). Guevara also said that President Gueiler will have no influence over the December promotion, retirement and transfer list.
+C. Elections -- It would have been better to tackle only economic problems during 1980, and leave elections for 1981. There is a danger that Paz will attempt to take advantage of his influence over the government for electoral purposes. Assuming Siles and Banzer will both be candidates, the 1980 elections will be a replay of those of 1979. The fact that the elections will not be general poses a problem because the terms of office for the president and vice president will no longer coincide with that of the Congress.
+
+4. Assistant Secretary Vaky observed that the failure of the Natusch coup will have a beneficial effect internationally, including on the Peruvians. He also said that what is happening in Bolivia is of great interest to the international community, especially with regard to the stabilization measures. He hoped this point could be conveyed to political party figures in La Paz.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979STATE322132
+
+- **Date:** December 14, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** DIPLOMATIC DISCUSSIONS, POLITICAL SITUATION, TRENDS

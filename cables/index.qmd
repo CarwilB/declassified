@@ -1,0 +1,8 @@
+---
+title: Cables
+listing:
+  contents:
+    - "*.qmd"
+  sort: "date asc"
+  type: "table"
+---

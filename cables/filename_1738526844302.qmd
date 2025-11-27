@@ -1,0 +1,43 @@
+---
+title: "Pl 480 - Title I Wheat"
+author: "Stedman"
+date: "April 30, 1974"
+editor: visual
+cable-date: "April 30, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2960"
+cable-info: "Oct-01 Ara-16 Iso-00 Aid-20 Eb-11 L-03 Iga-02 Rsc-01 Drc-01 /075 W --------------------- 116200 R 301450z Apr 74"
+cable-subject: "Pl 480 - Title I Wheat"
+cable-tags: "EAID, BL"
+cable-ref: "(A) STATE 20276 (B) STATE 081990"
+cable-doc-number: "1974LAPAZ02742"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "WHEAT, PL 480 TITLE 1"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Since receiving REFTEL A, Embassy has been making more than weekly checks with Ministry IND/COM re promised report on Arequipa milling operation and documentation for it. During this period there has been complete turn-over of officials involved.
+
+2. In presence of new Minister several weeks ago new Sub-Secretary of Commerce promised early report. He has since repeatedly stated that Ministry will either provide documentation justifying operation or will arrange cash dollar payment for quantity milled.
+
+3. Ministry's Director of Supply told EMBOFF April 29 that Bolivia Embassy Lima has now promised to send Ministry documentation which it lacks FYI. We are told that Ministry's records now consist of one brief memorandum on subject. Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02742
+
+- **Date:** April 30, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** WHEAT, PL 480 TITLE 1

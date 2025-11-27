@@ -1,0 +1,45 @@
+---
+title: "Fcia Credit Insurance For Sale Of Cotton Ginning Machinery To Cooperation Agricola Warnes, Ltda."
+author: "Stedman"
+date: "February 23, 1974"
+editor: visual
+cable-date: "February 23, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2356"
+cable-info: "Oct-01 Ara-16 Iso-00 Aid-20 Ciae-00 Come-00 Eb-11 Frb-02 Inr-10 Nsae-00 Rsc-01 Trse-00 Opic-12 Spc-03 Ciep-02 Lab-06 Sil-01 Omb-01 Drc-01 /094 W --------------------- 020934 R 231311z Feb 74"
+cable-subject: "Fcia Credit Insurance For Sale Of Cotton Ginning Machinery To Cooperation Agricola Warnes, Ltda."
+cable-tags: "BPRO, BL"
+cable-ref: "STATE 33637"
+cable-doc-number: "1974LAPAZ01184"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. FNCB manager La Paz states FNCB considered direct dollar financing as well as guarantee for subject sale. Decided against any participation in financing because study prepared by Asociacion de Consultores, LTA. of Santa Cruz for Cooperacion Agricola Warnes showed barely sufficient cash flow would not begin until 1975 crop (harvested in May, 1975). Warnes study showed total investment of US$ 568,000 including for working capital (US$361,000 for gin F.A.S. Southern U.S. port). Cotton supply estimated at 87,000 quintales annually from 6,000 hectares or 14.5 quintales per hectare which higher than average yield in Santa Cruz. Warnes planned charge US$ 3 per quintal generating US$261,000. After deduction costs including interest (calculated at 11 percent by FNCB) about US$79,000 in first year and US$104,000 in fourth year remain in net profit and depreciation allowance to cover roughly US$99,000 per year loan amortization.
+
+2. Financing might be more acceptable if cooperative could give "second pledge" on its total income.
+
+3. According Wenhpslao Alba, president of Union de Bancos de Bolivia (a new association of Bolivian-owned banks) states that other members have joined in project and that a corporation will be formed with US$100,000 capital. The new members will increase cotton land supplying gin to 8,000 hectares and cash flow should improve accordingly. According Alba, Banco Industrial, Banco Mercantil, Banco Hipotecario, Banco Boliviano-Americano and Banco de Santa Cruz will take participation in a US$360,000 guarantee on credit.
+
+4. Will attempt provide more data, if requested, on February 27.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01184
+
+- **Date:** February 23, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

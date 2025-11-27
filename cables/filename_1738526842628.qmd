@@ -1,0 +1,47 @@
+---
+title: "Fiat Concord Tractor Monopoly; Violation Of U.s.- Bolivian Commercial Treaty"
+author: "Stedman"
+date: "April 24, 1974"
+editor: visual
+cable-date: "April 24, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2924"
+cable-info: "Oct-01 Ara-16 Iso-00 L-03 Come-00 Trse-00 Tar-02 Aid-20 Iga-02 Agr-20 Xmb-07 Opic-12 Drc-01 Rsc-01 /096 W --------------------- 062379 R 242055z Apr 74"
+cable-subject: "Fiat Concord Tractor Monopoly; Violation Of U.s.- Bolivian Commercial Treaty"
+cable-tags: "ETRD, BL"
+cable-ref: "STATE 44074 (NOTAL)"
+cable-doc-number: "1974LAPAZ02611"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "TREATY VIOLATION, FARM EQUIPMENT, TRADE AGREEMENTS, TRACTORS, IMPORT CONTROLS, MONOPOLIES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Trade sources handling U.S. made tractor sales to Bolivia estimate that impact on their sales of the Fiat monopoly will be small. (In terms of total U.S. tractor exports, impact would be negligible.) They are not inclined to protest to GOB. Most believe that greatest gains in tractor sales will be above 112 h.p. maximum reserved for Fiat. We concur large farmers with good credit standing are now looking for bigger tractors.
+
+2. We agree with Reftel assessment of applicability of treaty provisions. We also believe that Fiat arrangement can set precedent for further monopoly arrangements. U.S. firm, Dresser, may be next firm to receive such monopoly. We understand Dresser investment contract has been signed but decree similar to one issued in Fiat case has not been issued thus far to cover Dresser investment.
+
+3. Similar cases may have arisen possibly on basis of GATT obligation if not FCN treaties in other Andean Pact or still other countries on de facto basis if not de jure. Department in best position to judge importance of this case as precedent.
+
+4. We believe approach probably advisable on grounds this case may set significant new precedent in Bolivia at least. Following factors, however, should be taken into consideration: (a) If similar cases have occurred in other countries, multilateral approach should be considered. (b) Must be borne in mind that GOB may simply respond that U.S. firm, Dresser, will be favored in same degree as Fiat. (c) GOB may refer to exception USG requested in 1946 to reciprocal MFN for U.S. - Philippine trade which GOB readily granted. Thus, GOB could ask for exchange of notes waiving MFN for six year period provided for in Fiat arrangement.
+
+5. If Department believes an approach advisable, we would propose an initial approach to Subsecretary for Industry Pereira who at right level and most knowledgeable GOB official on Andean Pact ramifications. Fiat investment made in hopes of obtaining Andean Pact programmed industrial sector assignment and Dresser investment being made in subsector already assigned to Bolivia under Andean Pact.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02611
+
+- **Date:** April 24, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** TREATY VIOLATION, FARM EQUIPMENT, TRADE AGREEMENTS, TRACTORS, IMPORT CONTROLS, MONOPOLIES

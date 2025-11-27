@@ -1,0 +1,177 @@
+---
+title: "Paho-Bolivian Position On Election Of Director"
+author: "Stedman"
+date: "July 08, 1974"
+editor: visual
+cable-date: "July 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3582"
+cable-info: "Oct-01 Iso-00 Io-14 Hew-08 Sci-06 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Sp-03 Ss-20 Usia-15 Aid-20 Drc-01 /144 W --------------------- 041532 R 081443z Jul 74"
+cable-subject: "Paho-Bolivian Position On Election Of Director"
+cable-tags: "SWEL PAHO BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ04372"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "HEALTH, VOTING, ELECTION CANDIDATES, INTERNATIONAL ORGANIZATIONS, FOREIGN POLICY POSITION"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 081510Z
+
+
+64
+ACTION ARA-20
+
+
+INFO OCT-01 ISO-00 IO-14 HEW-08 SCI-06 CIAE-00 DODE-00
+
+
+   PM-07 H-03 INR-10 L-03 NSAE-00 NSC-07 PA-04 RSC-01
+
+
+   PRS-01 SP-03 SS-20 USIA-15 AID-20 DRC-01 /144 W
+            --------------------- 041532
+R 081443Z JUL 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC 3582
+INFO AMEMBASSY SANTIAGO
+AMEMBASSY MEXICO CITY
+
+
+C O N F I D E N T I A L LA PAZ 4372
+
+
+E.O. 11652: GDS
+TAGS: SWEL PAHO BL
+SUBJ: PAHO-BOLIVIAN POSITION ON ELECTION OF DIRECTOR
+
+
+REF: STATE 144367
+
+
+MOISES FUENTES, DIRECTOR GENERAL OF INTERNATIONAL ORGANZIATIONS OF
+THE MINISTRY OF FOREIGN AFFAIRS AND WORSHIP, REPORTS THAT BOLIVIA
+HAS ALREADY COMMITTED ITESELF TO VOTE FOR CHILE'S HORWITZ FOR
+THE POST OF DIRECTOR OF PAHO. FUENTES ADDED THAT, IN VIEW OF
+STRONG PRESSURE FROM MEXICO, THE GOB HAS INDICATED THAT IT WOULD
+VOTE FOR ACUNA MONTEVERDE IF IT IS APPARENT FROM FIRST ROUND OF
+VOTING THAT HORWITZ HAS NO CHANCE.
+STEDMAN
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                      
+
+                     
+
+
+                                                       Message Attributes
+Automatic Decaptioning: X
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: HEALTH, VOTING, ELECTION CANDIDATES, INTERNATIONAL ORGANIZATIONS, FOREIGN POLICY POSITION
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 08 JUL 1974
+Decaption Date: 01 JAN 1960
+Decaption Note:
+Disposition Action: RELEASED
+Disposition Approved on Date:
+Disposition Authority: martinml
+Disposition Case Number: n/a
+Disposition Comment: 25 YEAR REVIEW
+Disposition Date: 28 MAY 2004
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ04372
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: GS
+Errors: N/A
+Film Number: D740181-0095
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740769/aaaacgxf.tel
+Line Count: 44
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION ARA
+Original Classification: 
+Original Handling Restrictions: n/a
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 1
+Previous Channel Indicators: n/a
+Previous Classification: 
+Previous Handling Restrictions: n/a
+Reference: STATE 144367
+Review Action: RELEASED, APPROVED
+Review Authority: martinml
+Review Comment: n/a
+Review Content Flags:
+Review Date: 09 SEP 2002
+Review Event:
+Review Exemptions: n/a
+Review History: RELEASED <09 SEP 2002 by kelleyw0>; APPROVED <19 FEB 2003 by martinml>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: PAHO-BOLIVIAN POSITION ON ELECTION OF DIRECTOR
+TAGS: SWEL, BL, PAHO, (FUENTES, MOISES), (HORWITZ), (MONTEVERDE, ACUNA)
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ04372
+
+- **Date:** July 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** HEALTH, VOTING, ELECTION CANDIDATES, INTERNATIONAL ORGANIZATIONS, FOREIGN POLICY POSITION

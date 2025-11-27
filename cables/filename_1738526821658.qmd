@@ -1,0 +1,42 @@
+---
+title: "Travel In Bolivia Of Rearadmiral Earl F Rectanus, Usn Director Of Naval Intelligence. From: Ambassador For Director Of Naval Intelligence"
+author: "Stedman"
+date: "March 07, 1974"
+editor: visual
+cable-date: "March 07, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 2468"
+cable-info: "Oct-01 Iso-00 Pm-07 Sso-00 Inr-10 Ciae-00 Inre-00 Drc-01 Rsc-01 /040 W --------------------- 025949"
+cable-subject: "Travel In Bolivia Of Rearadmiral Earl F Rectanus, Usn Director Of Naval Intelligence. From: Ambassador For Director Of Naval Intelligence"
+cable-tags: "MILI, BL, (RECTANUS, EARL F)"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01416"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "MILITARY PERSONNEL, MILITARY VISITS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. My attention has just been drawn to traffic in the DEFATT channel concerning your travel to Bolivia. I certainly have no objections to your travel in Bolivia. I wish to point out, however, that Lloyd Aero Boliviano's 727 Boeing, which will be used on its Flight 915 on March 15 from La Paz to Lima, has been judged not, repeat, not to be airworthy on the basis of advice from the FAA representative in Lima. I have had no alternative but to prohibit travel of US Mission personnel on this aircraft so long as the plane continues in service beyond its normal maintenance and overhaul deadline.
+
+2. I strongly urge that you rework your itinerary so as to avoid travelling on this aircraft.
+Stedman
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01416
+
+- **Date:** March 07, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** MILITARY PERSONNEL, MILITARY VISITS

@@ -1,0 +1,41 @@
+---
+title: "Sale Of Two Patrol Craft To Bolivia"
+author: "Stedman"
+date: "March 22, 1974"
+editor: visual
+cable-date: "March 22, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "Uscincso"
+cable-info: "Oct-01 Ara-16 Iso-00 Nsc-07 Spc-03 Ss-20 Rsc-01 Ciae-00 Inr-10 Nsae-00 Dode-00 Mc-02 Eb-11 Aid-20 Trse-00 Omb-01 Drc-01 /100 W --------------------- 056079 R 221404z Mar 74"
+cable-subject: "Sale Of Two Patrol Craft To Bolivia"
+cable-tags: "MASS, PINT, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01760"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PROCUREMENT, MILITARY TRAINING, MILITARY SALES, NAVAL SHIPS, TRAINING SHIPS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+For the record, I would like to reiterate my concurrence in the sale of two river boats to Bolivia.
+
+STEDMAN
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01760
+
+- **Date:** March 22, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PROCUREMENT, MILITARY TRAINING, MILITARY SALES, NAVAL SHIPS, TRAINING SHIPS

@@ -1,0 +1,211 @@
+---
+title: "Fy 75 Iv Nominations"
+author: "Stedman"
+date: "September 05, 1974"
+editor: visual
+cable-date: "September 05, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 4132"
+cable-info: "Oct-01 Ara-10 Iso-00 Usia-12 /028 W --------------------- 039005 R 051915z Sep 74"
+cable-subject: "Fy 75 Iv Nominations"
+cable-tags: "OEXC (JORGE GALINDO CUETO AND GUILLERMO FORTUN SANGINES)"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ05767"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 051941Z
+
+
+70
+ACTION CU-05
+
+
+INFO OCT-01 ARA-10 ISO-00 USIA-12 /028 W
+            --------------------- 039005
+R 051915Z SEP 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC 4132
+
+
+UNCLAS LA PAZ 5767
+
+
+E.O. 11652: N/A
+TAGS: OEXC (JORGE GALINDO CUETO AND GUILLERMO FORTUN SANGINES)
+SUBJECT: FY 75 IV NOMINATIONS
+
+
+FOR: CU/ARA
+
+
+REFERENCE: STATE 158384
+
+
+GALINDO ARRIVING WASHINGTON OCTOBER 8 BRANIFF (DULLES)
+AT 10:45
+US INTERESTS SUGGESTED: WASHDC - BID, OAS, STATE AND AID
+BOLIVIAN DESK OFFICERS, KENNEDY CENTER. NYC-BANKS AND
+FINANCIAL INSTITUTIONS, LINCOLN CENTER, WORLD TRADE CENTER,
+UN, PORT OF NY AUTHORITY. DETROIT - AUTO FACTORIES AND ASSEMBLY
+PLANTS, VISIT TO DETROIT CITY GOVERNMENT. CALIFORNIA - SAN
+FRANCISCO-LOS ANGELES: SHOULD RENT A CAR FROM SAN FRANCISCO
+TO LOS ANGELES TO DRIVE THROUGH THE AGRICULTURAL CENTERS OF
+CALIFORNIA. LOS ANGELES - UCLA. SAN FRANCISCO - BANK OF
+AMERICA HEADQUARTERS. TEXAS - OIL COMPANIES OPERATING IN
+BOLIVIA: TEXACO, UNION, SUN, PHILLIPS. FLORIDA - CITURS
+INDUSTRY.
+GRANTEE REQUESTS TWO FREE DAYS DURING WASHINGTON PROGRAM
+TO ATTEND OFFICIAL BOLIVIAN GOVERNMENT BUSINESS.
+GALINDO DEPARTING FOR PARAGUAY SEPTEMBER 25 AND PROCEED-
+ING DIRECTLY TO WASHINGTON. POST REQUESTS FISCAL DATA
+TO ISSUE TICKET BEFORE THAT DATE.
+FORTUN ARRIVING MIAMI OCTOBER 12 AT 1515 BRANIFF 906;
+CONTINUING WASHINGTON SAME DAY ARRIVING 2045 EA 198.
+PROPOSED ACTIVITIES IN US: VISITS TO CONGRESS, POLITICAL
+PARTIES AT THE NATIONAL AND LOCAL LEVELS, STATE AND CITY
+
+
+
+
+
+
+ 051941Z
+
+
+GOVERNMENTS. MEETINGS WITH INFLUENTIAL LEADERS IN BUSINESS
+
+
+
+
+                     
+
+                  
+
+AND BANKING CIRCLES, INCLUDING FIRMS HAVING A CURRENT TRADE
+OR INVESTMENT RELATIONSHIP WITH BOLIVIA. VISITS TO
+TENNESSEE VALLEY AUTHORITY, AGRICULTURAL EXTENSION
+SERVICES, DIFFERENT FARMING REGIONS OF THE US. WILL ADVISE IF
+SPECIFIC REQUIREMENTS REQUESTED.
+FISCAL DATA NEEDED TO ISSUE TICKET.
+STEDMAN
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                  
+
+                     
+
+
+                                                       Message Attributes
+Automatic Decaptioning: X
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: n/a
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 05 SEP 1974
+Decaption Date: 01 JAN 1960
+Decaption Note:
+Disposition Action: n/a
+Disposition Approved on Date:
+Disposition Authority: n/a
+Disposition Case Number: n/a
+Disposition Comment:
+Disposition Date: 01 JAN 1960
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ05767
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: N/A
+Errors: N/A
+Film Number: D740247-0059
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740973/aaaacjrd.tel
+Line Count: 68
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION CU
+Original Classification: 
+Original Handling Restrictions: n/a
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 2
+Previous Channel Indicators:
+Previous Classification: n/a
+Previous Handling Restrictions: n/a
+Reference: STATE 158384
+Review Action: RELEASED, APPROVED
+Review Authority: martinjw
+Review Comment: n/a
+Review Content Flags:
+Review Date: 30 MAY 2002
+Review Event:
+Review Exemptions: n/a
+Review History: RELEASED <30 MAY 2002 by maustmc>; APPROVED <28 JAN 2003 by martinjw>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: FY 75 IV NOMINATIONS FOR: CU/ARA
+TAGS: OEXC, BL, (GALINDO CUETO, JORGE), (FORTUN SANGINES, GUILLERMO)
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ05767
+
+- **Date:** September 05, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

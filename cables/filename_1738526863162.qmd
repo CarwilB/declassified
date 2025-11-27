@@ -1,0 +1,172 @@
+---
+title: "Letter From President Nixon"
+author: "Stedman"
+date: "June 20, 1974"
+editor: visual
+cable-date: "June 20, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3464"
+cable-info: "Oct-01 Iso-00 /031 W --------------------- 101896 R 201925z Jun 74"
+cable-subject: "Letter From President Nixon"
+cable-tags: "PFOR BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ04031"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "28 MAY 2004"
+cable-concepts: "DIPLOMATIC COMMUNICATIONS, ACCESS TO PORTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 210317Z
+
+
+71
+ACTION SS-30
+
+
+INFO OCT-01 ISO-00 /031 W
+            --------------------- 101896
+R 201925Z JUN 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC 3464
+
+
+
+ LA PAZ 4031
+
+
+EXDIS
+
+
+E.O. 11652: N/A
+TAGS: PFOR BL
+SUBJECT: LETTER FROM PRESIDENT NIXON
+
+
+PASS WHITE HOUSE
+
+
+I DELIVERED PERSONALLY JUNE 20 TO PRESIDENT BANZER LETTER DATED
+MAY 29 FROM PRESIDENT NIXON. WHILE PRESIDENT BANZER DID NOT
+OPEN LETTER IN MY PRESENCE, HE SAID HE WAS PLEASED TO HAVE
+CORRESPONDENCE WHICH HE ASSUMED WAS IN REPLY TO HIS RECENT
+COMMUNICATION ABOUT BOLIVIA'S INTEREST IN AN OUTLET TO THE
+SEA.
+STEDMAN
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                        
+
+                     
+
+
+                                                       Message Attributes
+Automatic Decaptioning: Z
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: DIPLOMATIC COMMUNICATIONS, ACCESS TO PORTS
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 20 JUN 1974
+Decaption Date: 28 MAY 2004
+Decaption Note: 25 YEAR REVIEW
+Disposition Action: RELEASED
+Disposition Approved on Date:
+Disposition Authority: WorrelSW
+Disposition Case Number: n/a
+Disposition Comment: 25 YEAR REVIEW
+Disposition Date: 28 MAY 2004
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ04031
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: N/A
+Errors: N/A
+Film Number: D740162-0588
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740629/aaaaayln.tel
+Line Count: 40
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION SS
+Original Classification: 
+Original Handling Restrictions: EXDIS
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 1
+Previous Channel Indicators: n/a
+Previous Classification: 
+Previous Handling Restrictions: EXDIS
+Reference: n/a
+Review Action: RELEASED, APPROVED
+Review Authority: WorrelSW
+Review Comment: n/a
+Review Content Flags:
+Review Date: 09 SEP 2002
+Review Event:
+Review Exemptions: n/a
+Review History: RELEASED <09 SEP 2002 by cunninfx>; APPROVED <19 FEB 2003 by WorrelSW>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: LETTER FROM PRESIDENT NIXON PASS WHITE HOUSE
+TAGS: PFOR, BL, US, (NIXON, RICHARD M)
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ04031
+
+- **Date:** June 20, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 28 MAY 2004
+
+- **Concepts:** DIPLOMATIC COMMUNICATIONS, ACCESS TO PORTS

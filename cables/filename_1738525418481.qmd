@@ -1,0 +1,40 @@
+---
+title: "Necessary Documentation For Ford Bronco Purchased By Carlos Lopez To: Ford Motor Co 815 Connecticut Ave, Nw Washington Dc 20006"
+author: ""
+date: "April 17, 1979"
+editor: visual
+cable-date: "April 17, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 5585"
+cable-info: "Oct-01 Ads-00 Cco-00 Paso-00 Inm-05 Std-01 Ste-00 /022 W ------------------096882 180530z /21 R 172058z Apr 79"
+cable-subject: "Necessary Documentation For Ford Bronco Purchased By Carlos Lopez To: Ford Motor Co 815 Connecticut Ave, Nw Washington Dc 20006"
+cable-tags: "SNAR"
+cable-ref: "LETTER OF APRIL 5, 1979 REMINDER - MISSION REQUIRES THE FOLLOWING DOCUMENTS:"
+cable-doc-number: "1979LAPAZ03326"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Commercial invoice signed by Bolivian Consul.
+2. Government bill of lading. Lopez would appreciate a copy of final purchase order.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ03326
+
+- **Date:** April 17, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

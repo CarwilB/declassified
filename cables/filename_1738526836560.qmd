@@ -1,0 +1,53 @@
+---
+title: "Cerp 0008 - Evaluation Of Un Assistance Programs"
+author: ""
+date: "April 05, 1974"
+editor: visual
+cable-date: "April 05, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2164"
+cable-info: "Oct-01 Ara-16 Eur-25 Iso-00 Aid-20 Ciae-00 Come-00 Eb-11 Frb-02 Inr-10 Nsae-00 Rsc-01 Trse-00 Xmb-07 Opic-12 Sp-03 Ciep-02 Lab-06 Sil-01 Omb-01 Agr-20 Int-08 Drc-01 /161 W --------------------- 003570 R 052032z Apr 74"
+cable-subject: "Cerp 0008 - Evaluation Of Un Assistance Programs"
+cable-tags: "EAID, UNDP, ECRP, BL"
+cable-ref: "STATE 042239 SUMMARY: THIS MESSAGE IS MISSION'S RESPONSE TO QUESTIONS IN PARAGRAPH 5 OF REFTEL IN SAME LETTERED SEQUENCE. END SUMMARY."
+cable-doc-number: "1974LAPAZ02148"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "TECHNICAL ASSISTANCE, CERP 0008, DEVELOPMENT PROGRAMS, US CONGRESSIONAL PRESENTATIONS, FOREIGN"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Role of UNDP, UN development system (Subpara A).** The ResRep in Bolivia is a career UN civil servant who has served here for several years. He is knowledgeable and energetic. He strikes us as a forceful manager of NDP activities and as an effective coordinator of all other UN system technical assistance. He has a reputation for expressing quite frank opinions to GOB officials and to be willing to accelerate the termination of projects which are not being well supported. His relationship with his home office appears to be good.
+
+2.  **The ResRep's programming or coordinating role is much less significant vis-a-vis IBRD and IMF activities.** Indeed, he has complained that visiting IBRD teams do not really seek to utilize UNDP's resident capability. However, he has demonstrated certain creativity in developing projects and programs which combine technical and capital assistance efforts both within the UN system (e.g., a rural development project identification program involving the UNDP, FAO, IBRD) and between UN agencies and IDB (e.g. UNDP-financed telecommunications training geared to an IDB loan, and a UNDP/FAO/IDB project identification program).
+
+3.  **UNICEF did not participate in UNDP country programming exercise.** However, ResRep states that UNICEF supports UNDP projects whenever possible. Furthermore, in addition to its traditional activities in cooperation with ministries of health and education, UNICEF has been developing interesting sectoral and regional approaches to development problems in which UNDP has been active, such as a combined UNICEF/UNDP rural development program in two departments of Bolivia and assistance to GOB's Planning Ministry on development of National Nutrition Plan.
+
+4.  **Coordination of all external technical assistance (Subpara B).** GOB has established three different points of coordination within host government (i.e. Ministry of Planning, Ministry of Coordination and soon-to-be established Institute of External Financing, in or under the Ministry of Finance) to which external donors can go as a group or individually on a range of programming or implementational issues. System is not yet working very well. Meanwhile, field representatives of external donors are now meeting monthly, rotating chairmanship. In addition, each donor is assigned leadership role for conducting inter-agency working level reviews of specific development sectors. UNDP ResRep, in this setting, is a creative member of external donor group; and, at times, has taken lead: (A) in stimulating the GOB to take a more active stance in established mechanism for coordinating external assistance, and (B) in seeking out opportunities for building upon the work of one external agency with complementary or follow-on assistance from other (e.g., UN support of a GOB training institute established with AID assistance).
+
+5.  **Country program reviews (Subpara C).** Over the past few months the UNDP and the Ministry of Planning have conducted a quick, rather superficial review of the ongoing UNDP support projects. Neither the Minister nor ResRep participated actively. Review was at initiative of Ministry of Planning. No significant actions were taken as result of review. ResRep states that, now that UNDP office is fully staffed (his deputy has arrived) and Ministry of Planning is settling down after two changes of ministers last fall, UNDP will undertake formal annual review of UNDP support projects.
+
+6.  **Appraisal of proposed projects (Subpara D).** USAID/UNDP liaison procedures have been strengthened in recent months. ResRep is sending us, for comment, proposed projects for UNDP funding. However, given established five-year UNDP program, there does not appear to be much scope in near-term for influencing significant resource allocations within UNDP program. On our side, USAID is providing ResRep with copies of draft project agreements, PROPs, IRRs and CAPs to assure fullest opportunity for detailed project-by-project consultations on timely basis. We also consulted, relative to summary of DAP, which consultation, together with similar consultations on sector assessments, provide a means to reach overall agreement on strategy for major sectors. (Also see Part B above).
+
+7.  **Project implementation (Subpara E).** In general, GOB financial and personnel contributions appear satisfactory for projects involving decentralized agencies or public enterprises (e.g., ENFE, Telecommunications Training Institute, Mining and Metallurgical Research Institute); but problems arise when: (A) project is dependent upon central administration (e.g., animal health in the Oriente); (B) project is located in outlying regions of country where living conditions make it extremely difficult to attract and retain qualified Bolivian technical personnel (e.g. in UNDP/FAO ABAPO-IZOZAG project in which in 1973 alone there was a 33 percent turnover of such personnel and in which UN fears that virtually all those returning from scholarship study abroad, who would be expected to implement the developmental phase of project, will resign on completion of their contractual obligation).
+
+8.  **Example of particularly successful project is Railways Organization and Administration, which laid basis for IBRD loan to National Railway System (ENFE) and remains integral element in loan implementation through provision of contract services to ENFE on reorganization, rationalization, and rehabilitation of system.** Particularly weak project is Improvement and Development of Hydrological and Meteorological Services which was scheduled for period 1972-1976; but, as presently constituted, is now planned for termination mid-
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02148
+
+- **Date:** April 05, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** TECHNICAL ASSISTANCE, CERP 0008, DEVELOPMENT PROGRAMS, US CONGRESSIONAL PRESENTATIONS, FOREIGN

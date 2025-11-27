@@ -1,0 +1,61 @@
+---
+title: "Visit Of The Chase Manhattan Bank, Na To: Patrick B. Blake Vice President"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "January 05, 1979"
+editor: visual
+cable-date: "January 05, 1979"
+cable-from: "Ammembassy La Paz"
+cable-to: "AmEmbassy Bogota"
+cable-info: "Oct-01 Ara-15 Iso-00 Trse-00 Com-04 /028 W ------------------088249 061048z /23/12 R 051730z Jan 79"
+cable-subject: "Visit Of The Chase Manhattan Bank, Na To: Patrick B. Blake Vice President"
+cable-tags: "OTRA, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ00129"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+UNCLAS LA PAZ 0129
+
+Corrected copy delete footonote
+
+EO 12065; NA
+TAGS: OTRA, BL
+SUBJ: Visit of The Chase Manhattan Bank, NA
+
+TO:
+Patrick B. Blake
+Vice President
+The Chase Manhattan Bank, NA
+TELEX: No 044-572
+Bogota, Colombia
+
+I would be pleased to meet with you and with two more officers of the bank on February 7, 1979. You can reach me at the following embassy's telephone number: 321554.
+
+Regards,
+Ralph R. Johnson
+Commercial Attache
+American Embassy
+La Paz, Bolivia.
+Boeker
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ00129
+
+- **Date:** January 05, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

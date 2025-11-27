@@ -1,0 +1,43 @@
+---
+title: "Gob Requests For Additional Loan Assistance"
+author: "Stedman"
+date: "March 11, 1974"
+editor: visual
+cable-date: "March 11, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2503"
+cable-info: "Oct-01 Iso-00 Aid-20 Trse-00 Omb-01 Eb-11 Iga-02 Agr-20 Xmb-07 Come-00 Fea-02 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Io-14 Str-08 Frb-02 Drc-01 /183 W --------------------- 061641 P 112027z Mar 74"
+cable-subject: "Gob Requests For Additional Loan Assistance"
+cable-tags: "EAID SNAR BL"
+cable-ref: "STATE 048030"
+cable-doc-number: "1974LAPAZ01485"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "DISASTER RELIEF, AGREEMENT DRAFT, PETROLEUM, LOAN AGREEMENTS, FLOODS, PRICES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Would appreciate prompt clarification USG response to request by GOB for $50 million AID loan for flood reconstruction. First, would you be kind enough to inform us what is meant by "We are willing to collaborate with the GOB in assessing flood damage and reconstruction requirements." Next, would appreciate clarification whether statement in para 3 that we would support reasonable request to IDB and IBRD means that we would not be willing to entertain request to AID. Note that para 2 speaks of "limited development loan resources" but does not preclude receipt for consideration of reconstruction loan request. Finally, I would prefer not to use "Bolivia's windfall petroleum earnings" in discussing reconstruction assistance with Foreign Minister. While prices for Bolivia's petroleum exports have risen considerably, there is as yet no guarantee that current prices will hold during the year nor that proceeds from taxation on petroleum will not be required to cover budgetary expenditures and investment needs. I would also like to note that Declaration of Tlatelolco in section 4, para 7 states "The Foreign Ministers agree that one of the principal objectives is the accelerated development of the countries of the Americas and the promotion of the welfare of all their peoples. In this regard, the U.S. accepts a special responsibility; and the more developed countries of the Americas recognize that special attention should be paid to the needs of the lesser developed." As Bolivia has the lowest GNP per capita of any country on the continent of Latin America, it is viewing with special interest this particular section of the Mexico City Declaration.
+
+2. I would prefer to be able to state specifically that US will collaborate in assessing flood damage and reconstruction requirements together with IDB and IBRD that assessment could be used as basis for GOB request to IDB and also to IBRD and also to AID. It would also seem logical to me that we suggest to the Foreign Minister that Bolivia make use of the forthcoming CIAP country review to articulate its reconstruction requirements. Min-Coordination told USAID Director he is considering this approach.
+
+3. Regarding assistance for Coca crop substitution, we have enough to go on in view of Ambassador Handley's Feb. 25 letter, the recent visit by ARA Narcotics Advisor Shankle, and para 4 of reftel. We are planning to initial an initial analysis through AID funding apart from sector analysis.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01485
+
+- **Date:** March 11, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** DISASTER RELIEF, AGREEMENT DRAFT, PETROLEUM, LOAN AGREEMENTS, FLOODS, PRICES

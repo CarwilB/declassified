@@ -1,0 +1,121 @@
+---
+title: "[subject not available]"
+author: ""
+date: "January 29, 1974"
+editor: visual
+cable-date: "January 29, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2085"
+cable-info: "Oct-01 Iso-00 /011 W --------------------- 005084 R 291920z Jan 74"
+cable-subject: "[subject not available]"
+cable-tags: "CVIS, BL"
+cable-ref: "STATE 117711 TITLE: CONSOLIDATED CONSULAR WORKLOAD AND MANPOWER REQUIREMENTS ESTIMATES FY 1973, 1974 AND 1975 POST: AMERICAN EMBASSY, LA PAZ, BOLIVIA JAN 28, 1974 FY 73 FY 74 *6 75 (ACTUAL (PROJ. (PROJ. WKLD) WKLD) WKLD) PART I - IMMIGRANT VISAS"
+cable-doc-number: "1974LAPAZ00601"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+PART I - IMMIGRANT VISAS
+1. Immigrant visas issued 424 500 550
+2. Immigrant visas refused 2 8 10
+3. Immigrant visas repl. 0 4 4
+4. Total cases 426 512 564
+5. Manhours utilized
+    A. American 468 485 490
+    B. Local 930 960 980
+
+PART II - NONIMMIGRANT VISAS
+1. NIV's issues (excluded BCC's & crewlists) 8,899 10,000 11,000
+    A. NIV's refused OEP 1,700 1,800
+    B. Revl./transferred 186 200 250
+    C. Total NIV cases 10,015 12,000 13,250
+2. BCC's issued 0 0 0
+3. Crewlists visas 0 0 0
+    A. Crewlists processed 0 0 0
+    B. Individual names included 16 17 17
+4. Cong. correspondence 18 30 35
+5. Manhours utilized
+    A. Americans 800 820 840
+    B. Local 2,540 2,600 2,700
+
+PART III - SPECIAL CONSULAR SERVICES
+1. Deaths of Amer. citizens 5 7 8
+2. Estates and property claims 11 11 11
+3. Notarials 2,507 2,600 2,600
+4. Welfare/whereabouts 72 70 70
+5. Arrests 35 35 35
+6. Seamen and shipping 0 0 0
+7. Treasure checks distributed total 889 870 870
+    A. Social Security Admin. 713 700 700
+    B. Veterans Administration 96 100 100
+    C. All others 80 70 70
+8. Services for all other federal or state agencies (total) 109 82 109
+    A. Social Security Admin 37 32 37
+    B. Veterans Admin. 38 30 38
+    C. All others 34 20 34
+9. Congressional correspondence 4 8 6
+10. Manhours utilized
+    A. Americans 80 90 90
+    B. Local 340 350 350
+
+PART IV - CITIZENSHIP & PASSPORT SERVICES
+1. Ppt. applications executed 288 290 295
+2. Ppt applications examined 81 90 90
+3. Fee ppt issued 369 380 385
+4. Cert or cards of ident issued 0 0 0
+5. No fee ppts issues
+    A. US employees & their families 0 4 4
+    B. Seamen employed on American vessels 0 0 0
+    C. Immediate family members of deceased military on cemetery visits 0 0 0
+6. Ppt amended 193 195 195
+7. Ppt verified 66 60 60
+8. Registration
+    A. Application for registration 249 260 260
+    B. Number registered 715 720 720
+    C. Estimated number of US national civilian residents
+        US officials (govt personnel 150 plus relatives) 550 550 550
+        US non officials 1,460 1,500 1,500
+9. Affidavit of Maer birth 0 0 0
+10. Administer oath of allegiance 0 0 0
+11. Cert copy of exec form
+    A. Oath of repatriation 0 0 0
+    B. 0 0 0
+12. Compl. of birth reports
+    A. Registration of births 33 40 50
+    B. Copies of cons. reports 33 40 50
+13. Certificate of witness to marriage 2 4 6
+14. Ppt waivers 0 0 0
+15. Congress correspondence 1 2 2
+16. Manhours utilized
+    A. American 90 90 90
+    B. Local 190 225 230
+
+PART V - FULL TIME PERMANENT CONSULAR POSITIONS
+Filled Required Required
+6/30/73 FY 74 FY 75
+1. Ppt and citizenship (if any) (see 4 below)
+2. Special consular services (if any) (see 4 below)
+3. Visas (if any (see 4 below))
+4. General consular (not included in 1, 2, or 3 above)
+    A. American
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00601
+
+- **Date:** January 29, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

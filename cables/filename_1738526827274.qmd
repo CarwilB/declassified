@@ -1,0 +1,47 @@
+---
+title: "Effects Of Energy Crisis On Bolivia Refs: (A) State A-1520: (B) La Paz A-23: (C) La Paz 1108 Summary: We Believe Ref A Distorts And Overstates Bolivia's Petroleum Export Earnings Prospects By Construction Of Text And By Calculation That Bolivia Will Earn Us$ 200 Million More In 1974 Than In 1973 From Petroleum Exports. While Report Mentions In Passing Some Rising Payments For Net Oil Exporting Countries, Believe Inadequate Attention Given To Impact On Bolivia. Petroleum Export Earning Increase Likely Be Closer To Us$ 100 Million And Balance Of Payments Likely Be Just Barely In Surplus Although Better Outcome Possible If Export Prices Remain Near Recent Highs. End Summary."
+author: "Stedman"
+date: "March 08, 1974"
+editor: visual
+cable-date: "March 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2456"
+cable-info: "Oct-01 Iso-00 Aec-11 Aid-20 Cea-02 Ciae-00 Ciep-02 Come-00 Dode-00 Eb-11 Fea-02 Fpc-01 H-03 Inr-10 Int-08 L-03 Nsae-00 Nsc-07 Omb-01 Pm-07 Rsc-01 Sam-01 Sci-06 Spc-03 Ss-20 Str-08 Trse-00 Drc-01 /149 W --------------------- 022694 R 081603z Mar 74"
+cable-subject: "Effects Of Energy Crisis On Bolivia Refs: (A) State A-1520: (B) La Paz A-23: (C) La Paz 1108 Summary: We Believe Ref A Distorts And Overstates Bolivia's Petroleum Export Earnings Prospects By Construction Of Text And By Calculation That Bolivia Will Earn Us$ 200 Million More In 1974 Than In 1973 From Petroleum Exports. While Report Mentions In Passing Some Rising Payments For Net Oil Exporting Countries, Believe Inadequate Attention Given To Impact On Bolivia. Petroleum Export Earning Increase Likely Be Closer To Us$ 100 Million And Balance Of Payments Likely Be Just Barely In Surplus Although Better Outcome Possible If Export Prices Remain Near Recent Highs. End Summary."
+cable-tags: "EFIN, EMIN, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01390"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PETROLEUM, NATIONAL INCOME, EXPORT PRICES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Lumping Bolivia together with other oil exporters such as Venezuela in one sentence in the summary as standing to increase oil earnings by US$ 7 billion is very misleading as it gives the impression that Bolivia has a significant share in the US$ 7 billion, whereas actually Venezuela accounts for about US$ 6 billion and Bolivia only about US$ 100 million.
+
+2. Table on page 8 shows Bolivia's petroleum export earnings increasing by US$ 200 million in 1974. It is extremely unlikely that Bolivia's total petroleum export earnings will reach that amount. As laid out in La Paz A-23, Bolivian petroleum exports totalled only about 11,840,000 barrels in 1973 and earnings were only about US$ 48.0 million. We do not believe petroleum export volume can expand very much as proven reserves are quite limited. We estimate volume will increase by only about 7 percent to 12,700,000 barrels in 1974. At a price of US$ 12.10 per barrel, this volume would generate US$ 153.7 million in earnings and at US$ 15.50 per barrel US$ 196.9 million. The latter average price looks increasingly unlikely for 1974.
+
+3. Table I of Ref A shows Bolivia producing about 16 million barrels and consuming five million barrels in 1972. This agrees with our data for 1972.
+
+4. We believe increased prices for imports including freight and handling will reduce gain to Bolivia considerably, not slightly. Moreover, net gain to Bolivia is diminished because of the Gulf Settlement which requires that 25 percent of export volume from former Gulf properties will be used to pay off indemnity. We estimate this payment will be at least US$ 20 million in 1974.
+
+5. Our Balance of Payments best estimate (La Paz A-23) may be somewhat optimistic as we had estimated the payment to Gulf at only US$ 14 million. Thus, a US$ 11.4 million surplus may be only about US$ 5 million and even this may be too optimistic if some of the financing contained in the loan disbursement table is not realized. Only if oil prices remain close to US$ 15 per barrel and if mineral prices remain near recent highs will a more favorable outcome of a strong surplus be realized.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01390
+
+- **Date:** March 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PETROLEUM, NATIONAL INCOME, EXPORT PRICES

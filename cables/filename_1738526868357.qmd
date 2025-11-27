@@ -1,0 +1,176 @@
+---
+title: "Working Group On Transnational Corporations"
+author: "Stedman"
+date: "July 02, 1974"
+editor: visual
+cable-date: "July 02, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3551"
+cable-info: "Oct-01 Iso-00 Io-14 L-03 Aid-20 Ciae-00 Come-00 Eb-11 Frb-02 Inr-10 Nsae-00 Rsc-01 Trse-00 Xmb-07 Opic-12 Sp-03 Ciep-02 Lab-06 Sil-01 Omb-01 Pa-04 Prs-01 Usia-15 Drc-01 Oic-04 /139 W --------------------- 112277 R 021848z Jul 74"
+cable-subject: "Working Group On Transnational Corporations"
+cable-tags: "EGEN, PFOR, MFM, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ04291"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "FOREIGN MINISTERS MEETINGS, COMMITTEE MEETINGS, BUSINESS FIRMS, AIDE MEMOIRE, REPRESENTATIONAL ACTIVITIES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 022003Z
+
+
+20
+ACTION ARA-20
+
+
+INFO OCT-01 ISO-00 IO-14 L-03 AID-20 CIAE-00 COME-00 EB-11
+
+
+   FRB-02 INR-10 NSAE-00 RSC-01 TRSE-00 XMB-07 OPIC-12
+
+
+   SP-03 CIEP-02 LAB-06 SIL-01 OMB-01 PA-04 PRS-01
+
+
+   USIA-15 DRC-01 OIC-04 /139 W
+            --------------------- 112277
+R 021848Z JUL 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC 3551
+
+
+UNCLAS LA PAZ 4291
+
+
+E.O. 11652: N/A
+TAGS: EGEN, PFOR, MFM, BL
+SUBJ: WORKING GROUP ON TRANSNATIONAL CORPORATIONS
+
+
+REF: STATE 134734
+
+
+EMBOFF DELIVERED AIDE MEMOIRE BASED ON REFTEL TO MOISES FUENTES,
+DIRECTOR OF INTERNATIONAL RELATIONS FOREIGN OFFICE, WHO EMBASSY
+TOLD IS GOB ACTION OFFICER FOR MFM MATTERS. FUENTES STATED THAT
+BOLIVIA WILL BE REPRESENTED AT WORKING GROUP MEETING BY OFFICIAL
+FROM EMBASSY IN WASHINGTON.
+STEDMAN
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                        
+
+                     
+
+
+                                                       Message Attributes
+Automatic Decaptioning: X
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: FOREIGN MINISTERS MEETINGS, COMMITTEE MEETINGS, BUSINESS FIRMS, AIDE MEMOIRE, REPRESENTATIONAL ACTIVITIES
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 02 JUL 1974
+Decaption Date: 01 JAN 1960
+Decaption Note:
+Disposition Action: n/a
+Disposition Approved on Date:
+Disposition Authority: n/a
+Disposition Case Number: n/a
+Disposition Comment:
+Disposition Date: 01 JAN 1960
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ04291
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: N/A
+Errors: N/A
+Film Number: D740176-0032
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740781/aaaacrpz.tel
+Line Count: 42
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION ARA
+Original Classification: 
+Original Handling Restrictions: n/a
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 1
+Previous Channel Indicators: n/a
+Previous Classification: n/a
+Previous Handling Restrictions: n/a
+Reference: STATE 134734
+Review Action: RELEASED, APPROVED
+Review Authority: cunninfx
+Review Comment: n/a
+Review Content Flags:
+Review Date: 17 OCT 2002
+Review Event:
+Review Exemptions: n/a
+Review History: RELEASED <17 OCT 2002 by maustmc>; APPROVED <16 JAN 2003 by cunninfx>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: WORKING GROUP ON TRANSNATIONAL CORPORATIONS
+TAGS: EGEN, PFOR, BL, US, (FUENTES, MOISES)
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ04291
+
+- **Date:** July 02, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** FOREIGN MINISTERS MEETINGS, COMMITTEE MEETINGS, BUSINESS FIRMS, AIDE MEMOIRE, REPRESENTATIONAL ACTIVITIES

@@ -1,0 +1,47 @@
+---
+title: "W/W Frank Albert Leavens"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "August 01, 1979"
+editor: visual
+cable-date: "August 01, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 7531"
+cable-info: "Oct-01 Ads-00 /007 W ------------------084986 031914z /50 R 011516z Aug 79"
+cable-subject: "W/W Frank Albert Leavens"
+cable-tags: "CASC, BL (LEAVENS, FRANK ALBERT)"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ06554"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+UNCLAS LA PAZ 6554
+E.O. 12065: N/A
+TAGS: CASC, BL (LEAVENS, FRANK ALBERT)
+SUBJECT: W/W FRANK ALBERT LEAVENS
+REF: STATE 194486 AND PREVIOUS
+
+Embassy has again contacted Mr. Delozier of Oklahoma Ltd. and learned that Mr. Leavens left Bolivia around January 7, 1979 via Panama en route to U.S. After that date no news from him had been received by Mr. Delozier, William Siegal, or Eric Lind (close friend of Mr. Leavens).
+Embassy has sent an official note to the Police Department requesting any available information. Immigration has been asked to furnish arrival/departure information. Efforts are being made to contact head of Agricola Bank in Caranavi. Embassy will advise the Department of developments.
+BOEKER
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ06554
+
+- **Date:** August 01, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** n/a

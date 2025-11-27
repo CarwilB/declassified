@@ -1,0 +1,39 @@
+---
+title: "[subject not available]"
+author: "Stedman"
+date: "February 13, 1974"
+editor: visual
+cable-date: "February 13, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2268"
+cable-info: "Oct-01 Scse-00 Sca-01 Iso-00 /012 W --------------------- 020522 P 132117z Feb 74"
+cable-subject: "[subject not available]"
+cable-tags: "CASC (KISH PITA)"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00971"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Embassy contacted Kish family by telephone. Wife and children all perfectly well and have had no problems. They plan to depart Bolivia February 21, via Lufthansa.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00971
+
+- **Date:** February 13, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

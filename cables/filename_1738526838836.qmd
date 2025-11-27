@@ -1,0 +1,76 @@
+---
+title: "[subject not available]"
+author: "Stedman"
+date: "April 09, 1974"
+editor: visual
+cable-date: "April 09, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2795"
+cable-info: "Oct-01 Iso-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Sp-03 Ss-20 Usia-15 Io-14 Drc-01 /110 W --------------------- 031732 R 092057z Apr 74"
+cable-subject: "[subject not available]"
+cable-tags: "n/a"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ02238"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "28 MAY 2004"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+15. As a soldier formed in discipline and daily sacrifice, I shall call everything by its proper name. I come to tell you that in history and in international affairs, there are no miracles. If we do not face up to this harsh reality with discipline and energy implicit in great historic enterprises, we risk the indefinite continuation of that painful frustration which weighs on our conscience.
+
+16. Here, before the portrait of the great Andes de Santa Cruz and before the tender but energetic eyes of the Madre Patria, having as a witness the flag which flew over our sea coast, I have come to consult with you about the effort and the sacrifices that the Bolivian people must make, with the dignity which is part of our nature, in order to regain the sea which belonged to Bolivia, and that by the force of logic and justice will definitely be Bolivian again.
+
+17. I have come to consult with you about the possibility of uniting all Bolivians about the armed forces of the nation in order to attain the historic goal of returning to the sea. Unity within a framework of shared rights and obligations, with strong ties of solidarity and mutual respect, in the common hope of having a prosperous country which enjoys dignity and a connection to the rest of the world.
+
+18. I have come to consult with you about the general effort which has to be made to attain the development that will permit us to "return to the sea". Development which includes all aspects of our society, that will be a permanent process to improve and change the economy, culture and politics of the country. But above all, development to give all Bolivians what has been denied for so long: the means by which they can live happily, with faith in the future.
+
+19. For my government, mere economic growth has little meaning; the greater volume of investments we receive, the use of advanced technology, the use of our natural resources, acquire historic value only insofar as they respond to the needs of the Bolivian people.
+
+20. I have come to consult with you about the creation of new mechanisms of political participation which will permit us to strengthen the structures of the state for a "return to the sea".
+
+21. (I ask for) participation of the broadest sectors of the people in the awareness of discussion about national problems.
+
+22. For my government, participation is a right but it is also a serious responsibility.
+
+23. It is not just the use of the advantages and benefits deriving from power, nor the obtaining of positions to satisfy personal interest. Participation is a service to the country which requires discipline, honesty, sacrifice and creative passion.
+
+24. I have come to consult with you about the possibility of establishing a government of national participation in order to "return to the sea".
+
+25. I respect the political parties; there exist organizations with tradition and long years of struggle which form a part of our history. I have witnessed the loyal and consistent manner in which the political parties forming the Nationalist Popular Front have acted. From this supra-party institution I have received sincere and devoted cooperation. But the tasks of development, and the subsequent return to the sea, require a general action, a full mobilization of all the people.
+
+26. None of the political parties alone, no one institution acting separately from other structures, is in a position to be the protagonist in the creative adventure of development.
+
+27. The return to the sea requires the conscientious and willing unity of all Bolivians.
+
+28. A society such as the one we are seeking must widen participation, but at the same time define the norms of social conduct so that such participation will be useful and not disruptive.
+
+29. Considering that the best of the Bolivian people and a small but worthy representation of Bolivian women is represented here, I have come to talk to you with the responsibilities of a governor who is concerned about the future, with the clarity and sincerity of a man who loves his country with a hard and demanding love, with the modesty of a soldier formed for duty and sacrifice, and with the hope of being understood in the exact meaning of my ideas and concerns.
+
+30. I ask you for the first time to put aside personal or group interests and to consider the interests of the country, let us make here, at this place, before the Madre Patria and the memory of those who have given their lives fighting against injustice, the decision we are bound to make as men and as Bolivians.
+
+31. What I ask for is unity, development and national participation, based upon the responsibility we have toward future generations.
+
+32. In the awareness of the challenge that this consultation implies, I am prepared for any sacrifice that may be necessary, including my withdrawal from the high mission that has been bestowed upon me.
+
+33. Gentlemen: Our land-locked situation is old, but the conscience of this land-locked situation and the decision to return to the sea is ours today. Let us do everything possible so that later we shall not share the bitter frustration of those who do not wish to work for the fatherland.
+STEDMAN
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02238
+
+- **Date:** April 09, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 28 MAY 2004
+
+- **Concepts:** n/a

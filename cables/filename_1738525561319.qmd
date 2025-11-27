@@ -1,0 +1,57 @@
+---
+title: "Gob Economic Measures"
+author: ""
+date: "December 07, 1979"
+editor: visual
+cable-date: "December 07, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 9657"
+cable-info: "Oct-01 Ads-00 Aid-05 Ciae-00 Com-02 Eb-08 Frb-03 Inr-10 Nsae-00 Ica-11 Trse-00 Xmb-02 Opic-07 Sp-02 Lab-04 H-01 Sil-01 Omb-01 Nsc-05 Ss-15 Str-08 Cea-01 Pa-01 /103 W ------------------099503 072247z /66 P 072005z Dec 79"
+cable-subject: "Gob Economic Measures"
+cable-tags: "ECON, BL"
+cable-ref: "LA PAZ 10309"
+cable-doc-number: "1979LAPAZ10472"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "ECONOMIC CONDITIONS, ECONOMIC PROGRAMS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. **Summary:** The Nov 30 economic package announced by the GOB addresses many immediate problems which the GOB is facing. The measures include a 25 percent devaluation, changes in the interest rates for time deposits and bank loans, changes in commercial bank reserve requirements, wage adjustments, hydrocarbon price increases, creation of a Monetary Stabilization Council, and limitations on GOB public sector expenditures. Much to the dissatisfaction of the commercial bankers, the Central Bank has not completed regulations for the implementation of the new measures. End summary.
+
+2. Decree 17123. This decree authorizes the Central Bank to make future exchange rate adjustments while maintaining a two percent difference between the buy and sell rate to cover transaction costs. The decree does not mention the new exchange rate; Minister of Finance Augusto Cuadros Sanchez announced that the GOB had devalued the peso 25 percent setting the new buying rate at 24.51 pesos to the dollar. This decree clearly facilitates future exchange rate adjustments which bankers and the local IMF representative Jorge Sol Perez consider inevitable. The procedure--whether mini-devaluations or infrequent movements of some magnitude--will be the decision of the GOB and will certainly take into account political considerations and the social impact. Until it becomes clear to what extent the Central Bank will honor foreign exchange obligations of the commercial banks and money exchange houses, these institutions are limiting sales of foreign exchange. Although there is no "run" on the financial institutions, the demand exceeds previous normal levels; only a relatively small percentage of customers are being turned away. So far exchange rate expectations of larger firms in the private sector appear mixed. One of the larger customers of one US bank, converted about $US 600,000 to pesos on Dec 3. National banks report, however, that speculation continues; larger firms have not brought back all of the large amounts of dollars converted from pesos before the devaluation.
+
+3. The Decree 17123 requires all exporters from the private and public sector to deliver 100 percent of their export earnings to the Central Bank. Only transactions fees and royalties paid in foreign exchange need not be turned over. The decree also stipulates that public sector agencies and the state enterprises cannot maintain foreign exchange accounts either in Bolivia or outside; any such funds must be delivered to the Central Bank by Dec 10, 1979. All foreign exchange transactions must pass through the Central Bank, which must be informed of the agencies' monthly foreign exchange requirements. One banker indicated that these restrictions on the public sector agencies were to avoid a recurrence of the large purchases (estimated to be up to $US 60 million) of foreign exchange for speculative purposes which took place the last days of the Natusch regime.
+
+4. Decree 17123 forbids banks and money exchange houses from maintaining accounts outside of Bolivia. It also sets the following new limits on total commercial bank short and medium term foreign credits replacing those established by Decree 15719 based on total credits in June 1978:
+
+(Millions of $US)
+
+|          | Up to One Year | One to Five Years | Total |
+|:---------|---------------:|------------------:|------:|
+| Private Banks | 75             | 70                | 145   |
+| State Banks  | 25             | 45                | 70    |
+| Total      | 100            | 115               | 215   |
+
+Banks surpassing their limits will have their reserve requirement in foreign exchange increased by 100 percent of the excess. It is expected that the Central Bank will allocate individual bank credit ceilings based on their Oct 1979 foreign lines of credit. One banker pointed out that these ceilings will harm the big banks with large existing lines and will be to the advantage of the new, small Bolivian banks. One US banker said the ceilings would have almost no effect on his operations since the local branch acts as an agent between his bank's branches outside of Bolivia and local firms seeking direct lines of credit. The availability of foreign exchange for payment of foreign debt obligations is of greatest concern to both US and foreign bankers. Most believe that, recognizing the importance of maintaining good relations with foreign commercial banks, the Central Bank will not be too stringent, but will examine each loan on an individual basis for proper registration with the Central Bank. One banker noted that Central Bank record keeping is so poor that he doubts that many loans which his bank took care to register properly will be located on Central Bank records; thus he feels the verification process could be long and involved. According to a US banker, the Central Bank, which did not require registration of direct credit lines to Bolivian firms, may now restrict sales of foreign exchange to firms to preclude any new lines of credit or even a drawing down of existing lines.
+
+5. Decree 17123 discontinues, as of Nov 30, 1979, the maintenance of value clause for peso savings accounts and peso certificates of deposit. During the first 15 days of March 1980 and perhaps sooner, account holders qualifying for maintenance of value guarantees, will be paid the difference in pesos at the Nov 30 exchange rate. Pesos presently in their account may be withdrawn at any time but the increment will still be paid. By Dec 30, 1979 banks must deliver to the Central Bank the excess
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ10472
+
+- **Date:** December 07, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** ECONOMIC CONDITIONS, ECONOMIC PROGRAMS

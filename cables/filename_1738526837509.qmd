@@ -1,0 +1,53 @@
+---
+title: "President Banzer Announces New Concept Of Government"
+author: "Stedman"
+date: "April 08, 1974"
+editor: visual
+cable-date: "April 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Priority 2781"
+cable-info: "Oct-01 Iso-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Sp-03 Ss-20 Usia-15 Aid-20 Come-00 Eb-11 Lab-06 Sil-01 Drc-01 /134 W --------------------- 008365 P 082150z Apr 74"
+cable-subject: "President Banzer Announces New Concept Of Government"
+cable-tags: "PINT, PFOR, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ02200"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PRESIDENT, CABINET, REORGANIZATIONS, POLITICAL SITUATION, POLITICAL PARTIES"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Since at least November 1973, when President Banzer decided to ignore the desires of Dr. Paz Estenssoro and appoint MNR cabinet members of Banzer's own choosing, the President has been engaged in a deliberate policy of weakening the voice and influence of the two major political parties (FSB and MNR) making up the so-called Nationalist Popular Front (FPN).
+
+2. The FPN has not been an effective governing mechanism. On the contrary, the allocation of fixed numbers of government ministries to the FSB and the MNR and the need to give priority to political patronage in making all appointments to government office (national and local) had created an unwieldy, largely ineffectual bureaucracy. In turn, the two parties -- entrenched in their ministries, with their smaller bureaucratic followings -- hampered the implementation of development programs and contributed to a generalized discontent in the body politic, including within the military establishment.
+
+3. The President has now taken the opportunity to at last disengage from the FPN scheme of government by seizing upon the national concern for an outlet to the sea, making this issue the vehicle for a campaign to achieve national political unity and the end of political partisanship. By one major initiative: the Gran Consulta Nacional in Cochabamba, the President wrested approval from most of the political personages assembled (including representatives of the FSB and the MNR) for a free hand in reorganizing the government without regard to political party concerns. In addition, he orchestrated -- by prior arrangement -- the presentation of a document by the Armed Forces which called for the very program of action eventually adopted by the meeting. The rationale behind giving the President a free hand to reorganize the government along non-partisan, technical lines is that Bolivia must be economically strong and politically stable if it is to succeed in the eventual negotiations for a sea outlet.
+
+4. To help the Executive in its development tasks, a National Consultative Council will be nominated, consisting of approximately fifty persons of national stature, to draw up policy papers recommending approaches to a broad spectrum of political, economic, and social problem areas. On the political side, this Council will devise a formula to encourage the formation of a single party of National Reconciliation, which will gather together all those elements who are neither of the extreme left nor extreme right. The model is likely to be that of the PRI in Mexico. In any case, direct popular elections are not likely to be held in the foreseeable future; rather, some method of indirect election or referendum may be devised to effect a succession in the office of President sometime in 1975.
+
+5. There will be a number of cabinet changes in the next week or two which will see some MNR and FSB ministers depart the scene. The caliber of the new cabinet appointments, as well as the representative character of the appointments to the National Council, will be important in assessing the degree of support the President can expect in the future from the Armed Forces and key civilian opinion-makers.
+
+In any event, however, we may expect that elements in both the MNR and the FSB -- who recently argued in favor of their parties' withdrawal from the dying FPN -- will now advocate the political advantage of distancing themselves from a government in which the two parties no longer have a significant role to play.
+
+The PDC-PRA did not sign the so-called "Declaration of Cochabamba." Guevara Arze's comments decrying the lack of meaningful debate or dialogue at the Cochabamba meeting have put him at the head of the dissenting faction in the new political scheme of things. If, in spite of this dissent, he is still appointed to the National Council (as an expert in foreign relations), the prospects of eventually organizing single political force would be improved.
+
+Although we have not received any news of organized opposition or protest over these political developments, the GOB evidently decided to take no chances and proceeded to arrest about 15 labor leaders as a preventive measure.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02200
+
+- **Date:** April 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PRESIDENT, CABINET, REORGANIZATIONS, POLITICAL SITUATION, POLITICAL PARTIES

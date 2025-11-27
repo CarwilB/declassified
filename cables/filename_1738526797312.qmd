@@ -1,0 +1,53 @@
+---
+title: "President Banzer's Speech Announcing State Of Siege"
+author: ""
+date: "January 30, 1974"
+editor: visual
+cable-date: "January 30, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState Wshdc 2099"
+cable-info: "Oct-01 Iso-00 Omb-01 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-10 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Sam-01 Aid-20 Pc-10 Come-00 Eb-11 Lab-06 Sil-01 Drc-01 /149 W --------------------- 006487 R 301855z Jan 74"
+cable-subject: "President Banzer's Speech Announcing State Of Siege"
+cable-tags: "PINT, PGON, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00627"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "PRESIDENT, MARTIAL LAW, GOVERNMENT OVERTHROW, FOOD SHORTAGE, SPEECHES, ECONOMIC CONTROLS, CIVIL"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Following is text of President Banzer's speech of January 28 announcing institution of state of siege throughout Bolivia.**
+
+    "Fellow Bolivians:
+
+    I must denounce before the country an international conspiracy, to which I have referred several times in the past.
+
+    This activity, whose details I have made known to the directors of the press and radio in a manner, and which was originally planned for a later date, has suddenly commenced in the belief, that -- with the new economic measures -- its time has come. The plan has begun with the destruction of bridges, blockage of roads, interruption of railroad lines and explosion of grenades in urban centers, concluding with the criminal sabotage of our petroleum production, all of which is aimed at creating a state of confusion and chaos wherein the cities would suffer shortages of goods, provoking the people's anger; at this moment when the conditions were ripe, the extremists would call for an armed uprising, converting our country, as it is easy to imagine, into a battlefield of ideological and armed struggle in South America.
+
+    It is not, hence, a plan which seeks a new type of government appropriate for our nation's problems, but rather one which seeks to establish in our country, aside from a puppet government, a new center of continental extremist activities; it is a conspiracy which intends to regain for extremism the positions recently lost in America, and, this action, as we have previously pointed out, is being carried out in our country because of its special political and geographic situation. The plan is not new or original; we have suffered before from the same type of attempts. The popular armed rejection of extremist aggression is still fresh in our memory.
+
+    The solid integration of the Armed Forces, the Nationalist Revolutionary Movement, Bolivian Socialist Falange, the Farrientist Forces and the citizens of the countryside and of the cities does not reflect the mere permanence in power of interests or partisan groups but rather the deep ideological, nationalist conviction which unites them together in order to keep Bolivia from any international dependency, within the framework of Christian moral and spiritual principles, with full awareness of the responsibilities the workers and employers share in the common enterprise which their work involves. Some narrow-minded persons who do not understand this scheme try to channel their personal ambitions through a dozen "displaced" persons and want to surprise us with ingenious commando-style coup attempts. Those who consciously or unconsciously are engaged in this new adventure, which ultimately favors the international conspiracy, are hereby warned that my government will be inflexible in imposing the existing legal sanctions.
+
+    In the same manner that in August 1971 the Armed Forces supported the popular effort to guard our national integrity and call a halt to the excessive acts of anarchy, today in the presence of these serious acts I take my place to fight this new battle for our nation.
+
+    To the farmers, to the workers in the cities, to the miners, to all those who are deceived in their good faith, whom the extremists are trying to induce to act against the forces of public order, converting them into cannon fodder, I make a call so that they will become aware of the seriousness of this situation, realizing that the solution to the problem of supply and salaries can not come via an armed confrontation or the blocking of roads, but only by cooperating with Government's effort to obtain more resources in order to face the world food shortage. It is necessary to establish clearly that the line of the Government is firmly outlined and explained in my New Year's Message, an"
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00627
+
+- **Date:** January 30, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** PRESIDENT, MARTIAL LAW, GOVERNMENT OVERTHROW, FOOD SHORTAGE, SPEECHES, ECONOMIC CONTROLS, CIVIL

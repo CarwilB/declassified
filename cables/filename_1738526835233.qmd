@@ -1,0 +1,49 @@
+---
+title: "Bolivian Views On Proposed Panama Canal Toll Increase"
+author: "Stedman"
+date: "April 02, 1974"
+editor: visual
+cable-date: "April 02, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2719"
+cable-info: "Oct-01 Iso-00 Sab-01 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Sp-03 Ss-20 Usia-15 Aid-20 Eb-11 Ciep-02 Trse-00 Str-08 Omb-01 Cea-02 Come-00 Frb-02 Xmb-07 Opic-12 Lab-06 Sil-01 Agr-20 Swf-02 Tar-02 Io-14 Cg-00 Dote-00 Drc-01 /207 W --------------------- 068220 R 022111z Apr 74"
+cable-subject: "Bolivian Views On Proposed Panama Canal Toll Increase"
+cable-tags: "PFOR, PN, BL"
+cable-ref: "LA PAZ 1831, STATE 58007"
+cable-doc-number: "1974LAPAZ02035"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "INTERNATIONAL CANALS, TOLLS, FOREIGN POLICY POSITION"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. The Foreign Ministry has now responded to the Embassy's note of March 25, concerning a proposal by the Panama Canal Company to increase tolls by twenty percent. Following is the text of the Foreign Ministry's comments on the proposed toll increase.
+
+2. Quote: The Government of Bolivia would view with concern any increase in canal tolls and is opposed to any new charge for the following reasons:
+    1) Bolivia, because of its land-locked situation, bears the burden of a surcharge of more than ten percent on its foreign trade. This fact diminishes the competitiveness of its exports.
+    2) Likewise, should the proposed toll increase take place, Bolivia would have to support an increase in the prices of its mineral and agricultural exports, the latter of which are at present starting to diversify Bolivia's export situation. In the same manner, it would suffer damage to its import capability, in such areas as mining machinery, smelting equipment, agricultural and industrial machinery, etc. Therefore, in case an increase takes place, it is undeniable that Bolivia would suffer severely from both the direct and indirect effects of this measure. It should be emphasized that most of Bolivian foreign trade passes through the Panama Canal.
+
+3. Past experience teaches us that additional transportation charges give rise to adverse cumulative effects influencing the general level of internal prices for commodities and services.
+
+4. Likewise, it should be taken into account that Bolivia has been classified with the group of nations of least economic development, and for this reason, as well as because of its transitory land-locked status, it should receive preferential treatment.
+
+5. Consequently, the Government of Bolivia supports fully the resolution approved by the Special Committee for Consultation and Negotiation (CECON) which states that an increase in canal tolls would adversely affect "some import sectors" of the economies of the developing countries in Latin America, especially those which, because of their geographic situation, are users of the Canal. End quote.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02035
+
+- **Date:** April 02, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** INTERNATIONAL CANALS, TOLLS, FOREIGN POLICY POSITION

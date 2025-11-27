@@ -1,0 +1,40 @@
+---
+title: "Bolivian Views On Proposed Panama Canal Toll Increase Reference: State 58007"
+author: "Stedman"
+date: "March 25, 1974"
+editor: visual
+cable-date: "March 25, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2640"
+cable-info: "Oct-01 Iso-00 Sab-01 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Come-00 Dote-00 Eb-11 Fmc-04 Cg-00 Coa-02 Dlos-06 Swf-02 Drc-01 /122 W --------------------- 090102 R 252040z Mar 74"
+cable-subject: "Bolivian Views On Proposed Panama Canal Toll Increase Reference: State 58007"
+cable-tags: "PFOR, PN, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01831"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "INTERNATIONAL CANALS, TOLLS, FOREIGN POLICY POSITION"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. EmbOff presented diplomatic note March 25 to Foreign Ministry's Director of North American Affairs, regarding subject matter reftel. Initial reaction to proposed toll increase strongly negative, in view of impact this measure would have on cost of shipping Bolivia's mineral exports through Panama Canal. GOB is already seriously concerned over impact recently over US strategic stockpile disposals, addition of toll increase issue at this time would revive old charges of "economic aggression" as a political issue in bilateral US-Bolivian relations.
+2. Foreign Ministry official promised to pass substance our note to economic ministries of GOB for further assessment of potential impact on Bolivian economy. Foreign Ministry will inform Embassy of results of these consultations, which we will in turn transmit to Department.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01831
+
+- **Date:** March 25, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** INTERNATIONAL CANALS, TOLLS, FOREIGN POLICY POSITION

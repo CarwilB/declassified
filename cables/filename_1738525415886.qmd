@@ -1,0 +1,41 @@
+---
+title: "Intelligence Report For Sec Of State's Visit To La Paz,"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "October 17, 1979"
+editor: visual
+cable-date: "October 17, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 8690"
+cable-info: "Oct-01 Ads-00 Sye-00 /006 W ------------------111997 172221z /34 O 172214z Oct 79"
+cable-subject: "Intelligence Report For Sec Of State's Visit To La Paz,"
+cable-tags: "ASEC, OVIP (VANCE, CYRUS)"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ08837"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "INTELLIGENCE ASSESSMENTS, MINISTERIAL VISITS, ANTIDUMPING LAW (TRADE)"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1.  **Summary:** On October 16, 1979, the US Senate passed a bill which will permit the U.S. government to dispose of 35,000 tons of tin. The Bolivian economy is based on tin, as Bolivia is the world's second largest producer of tin. Therefore, the selling of stockpiles of tin by the U.S. is perceived by Bolivians as being anti-Bolivian. The potential exists for demonstrations and rallies to occur during the stay of the Secretary to express their displeasure with the congressional procedure. Intelligence information from Embassy intelligence sources along with information obtained from GOB police officials does not indicate any projected violence to the Secretary of State or OAS members. The tin issue is a very volatile situation in Bolivia; however, the OAS conference is widely viewed by Bolivians as contributing to their international prestige and enhancing their reputation. For these reasons, neither the left nor right-wing parties desire any type of action that would cause disgrace or harm to Bolivian pride and national goals. In summary, while the tin issue remains antagonistic, there appears to be negative information directly related against the Secretary of State, and no hard intelligence to warrant any assassination attempts.
+
+Boeker
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ08837
+
+- **Date:** October 17, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** INTELLIGENCE ASSESSMENTS, MINISTERIAL VISITS, ANTIDUMPING LAW (TRADE)

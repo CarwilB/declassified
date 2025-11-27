@@ -1,0 +1,47 @@
+---
+title: "Jubilation Marks Bolivia's Return To Democracy"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "November 19, 1979"
+editor: visual
+cable-date: "November 19, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Niact Immediate 9346"
+cable-info: "Oct-01 Ads-00 Ciae-00 Pm-06 H-01 Inr-10 L-03 Nsae-00 Pa-01 Sp-02 Ss-15 Nsce-00 Sso-00 Icae-00 Inre-00 Ha-05 Aid-05 Eb-08 Omb-01 Trse-00 /073 W ------------------084194 190221z /64"
+cable-subject: "Jubilation Marks Bolivia's Return To Democracy"
+cable-tags: "PINS, PINT, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ09950"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "DEMOCRACY, POPULAR SUPPORT, CENTRAL LEGISLATURE, ELECTIONS, FORM OF GOVERNMENT"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. The parliamentary election of Deputy Lidia Gueiler Tejada on November 16, 1979, as President of Bolivia set two precedents: the first lady president in the nation's history, and apparently the first time a military overthrow has ever been reversed through democratic processes. These rather extraordinary events were acclaimed by a rather extraordinary reaction in La Paz on Friday evening as a cheering crowd jammed the Plaza Murillo in front of the Congressional and government palaces while elsewhere citizens' shouting and honking of automobile horns--as if Bolivia had won the American Cup Soccer Competition-- signaled their jubilation over this remarkable return to constitutionalism after two weeks of grim, suppressive military government. Indeed, the change was akin to the sudden abrupt termination of a protracted nightmare.
+
+2. According to press reports, the Cabinet--expected to be announced Monday Nov 19--will be one of "National Unity," which can be interpreted to signify participation by some of the major political groups, particularly Victor Paz' MNR Alliance. We are already reliably informed that Augusto Cuadros Sanchez, Minister of Economy in one of the Paz administrations, will be the new Finance Minister. Cuadros Sanchez is described as a conservative economist and one who can be expected to take a firm hand in confronting Bolivia's critical economic situation.
+
+3. On the international front, President Gueiler reiterated Bolivia's close adherence to the Andean Pact and called for all democracies to support the new Bolivian return to constitutionalism, particularly in confronting Bolivia's economic problems. Front page press treatment was given the Department's description of events here as a "dramatic victory for the Bolivian people," with the expectation of a normalization of diplomatic relations. We might add that we have already received several calls from various sectors, including Bolivian deputies and public servants, expressing appreciation and gratitude for U.S. policy not to do business with Natusch.
+
+4. In the meantime, the Parliament's unanimous choice of Lidia Gueiler is reflected in a similar closing of ranks among other sectors. Former President Walter Guevara Arze announced the end of his "clandestine government," noting that it had effectively accomplished its purpose in contributing in no small measure to Bolivia's return to democracy. Labor leaders described the events as a triumph for the workers, and Bolivia's National Labor Federation (COB) in a message to workers hailed their contribution and called for continued unity and vigilance. These reactions are typical elsewhere in Bolivia as press reports indicate jubilation and a relaxation of the tense atmosphere in Bolivia's major urban centers.
+
+5. With the exception of an announcement that Bolivia's banks are closed until further notice--a continuation of the banking holiday declared last week after the Central Bank closed its foreign exchange window--La Paz is expected to return to normal very quickly. The new government has officially lifted the state of siege, which in a sense had already become an unobserved anachronism by the weekend.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09950
+
+- **Date:** November 19, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** DEMOCRACY, POPULAR SUPPORT, CENTRAL LEGISLATURE, ELECTIONS, FORM OF GOVERNMENT

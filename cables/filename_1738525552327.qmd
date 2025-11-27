@@ -1,0 +1,45 @@
+---
+title: "Tripartite Negotiations Continue"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "November 13, 1979"
+editor: visual
+cable-date: "November 13, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Niact Immediate 9233"
+cable-info: "Oct-01 Ads-00 Ciae-00 Pm-06 H-01 Inr-10 L-03 Nsae-00 Pa-01 Sp-02 Ss-15 Sph-01 Eb-08 Aid-05 Trse-00 Nsce-00 Sso-00 Icae-00 Inre-00 /068 W ------------------043116 130444z /73 O 130325z Nov 79 Zff4"
+cable-subject: "Tripartite Negotiations Continue"
+cable-tags: "PINS, PINT, BL"
+cable-ref: ""
+cable-doc-number: "1979LAPAZ09725"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "ARMED FORCES, LABOR, LEGISLATORS, POLITICAL SETTLEMENT, NEGOTIATIONS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Since approximately 5:30 p.m. November 12, tripartite negotiations have been in process in the Bolivian Senate between the Armed Forces, the Bolivian Labor Federation (COB) and representatives of the Congress in search of a political solution to the current crisis. Gen Eden Castillo, Armed Forces Commander, is heading that delegation. COB Secretary General Juan Lechin along with his Deputy Oscar Sanjines, Congressman Simon Reyes and other Executive Committee members represent labor, and the Congress is represented by each chamber's officers as well as the parties' respective floor leaders. The current focus appears to remain on the idea of a governing triumvirate whereby a member of Congress, labor, and the Armed Forces would form Bolivia's executive. Thus far the COB and the Congress have resoundingly rejected Col. Natusch as the Armed Forces' representative in such an arrangement, which in turn has caused the military to take the position that if the COB and the Congress can elect their own to the triumvirate, then the Armed Forces should be no less entitled to do the same. The impasse, then, is over Natusch. According to one MNR source, a sounding of the Armed Forces garrisons in La Paz and the interior reveals an overwhelming sentiment that Natusch continue. This appears borne out by Alfredo Arce, close Banzer advisor, who informs us that events are moving closer to a purely military (castrense) solution. Arce -- who earlier in the day (November 12) noted that Banzer is in town -- also mentioned "consultations" with the garrisons, which he characterized more as briefing sessions than soundings, but with the same result, i.e., total support for Natusch. Hence, Arce noted, if the Congress and the COB continue to hold out against Natusch in the current negotiations over the triumvirate, then the Armed Forces will simply end the discussion and effectively suspend the Congress. This would not preclude civilians in the cabinet and other positions, he suggested, but the conclusion is that civilian participants would come largely from Banzer's and coalition which Arce confirmed is now supporting the regime.
+
+2. In the meantime, the Natusch government has embarked on a rather tortured campaign to put the best face on the November 1 takeover. Natusch himself took pains to explain on television and in the press that the putsch was not just a military movement but one that was civic and political in character as well. He reiterated previous promises to readjust salaries without devaluation; to incorporate workers in the management of state enterprises; to seek an equilibrium between capital and labor; and to consolidate the process of democratization. With respect to the United States, Natusch noted his government's "respect and admiration for the people of the United States," but referring to the U.S. decision to "freeze" economic aid to Bolivia, Natusch expressed doubts this would be carried out, since "it would constitute an outrage (atentado) against the Bolivian people rather than the present government."
+
+3. Along the same vein, Foreign Minister Guillermo Bedregal -- also on television and in the press -- emphasized that "the revolutionary movement of November 1 1979 from the very initial gestation period counted upon the knowledge, acquiescence, and support "of" Victor Paz. According to Bedregal, the MNR and MNRI were "united in this struggle together with the Armed Forces; Paz Estenssoro was in agreement with this solution...."
+
+4. Finally, a mass was held Monday morning in the San Francisco Church facing one of La Paz' main squares for the dead of last weeks' conflagration. Former Presidents Walter Guevara Arze and Hernan Siles were among those attending.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09725
+
+- **Date:** November 13, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** ARMED FORCES, LABOR, LEGISLATORS, POLITICAL SETTLEMENT, NEGOTIATIONS

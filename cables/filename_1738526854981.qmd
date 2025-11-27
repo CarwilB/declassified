@@ -1,0 +1,56 @@
+---
+title: "Paz, Lourdes For: Wfc The Following Telegram Received This Station And Repated For Your Info: Quote "R 242331z May 74 Fm Uscincso Quarry Hts Cz//Sc-Fc// To Ruexlz/Comusmilgp La Paz Bolivia Info Rueslz/Amzmbassy La Paz Bolivia//B/Mo// Ruedbga/Comusarso Ft Amador Cz//Scargg/Scarfa// Unclas Subj: Severance Pay Miss L Paz A. Fonecon 21 May 74, Maj Negroni & Mr Mcnamara B. Notification Of Personnel Action, 8 May 74, Separating Miss Lourdes Paz"
+author: "Page 02 La Paz 03446 152018z"
+date: "May 29, 1974"
+editor: visual
+cable-date: "May 29, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3224"
+cable-info: "Oct-01 Iso-00 /001 W --------------------- 124453 R 291318z May 74"
+cable-subject: "Paz, Lourdes For: Wfc The Following Telegram Received This Station And Repated For Your Info: Quote "R 242331z May 74 Fm Uscincso Quarry Hts Cz//Sc-Fc// To Ruexlz/Comusmilgp La Paz Bolivia Info Rueslz/Amzmbassy La Paz Bolivia//B/Mo// Ruedbga/Comusarso Ft Amador Cz//Scargg/Scarfa// Unclas Subj: Severance Pay Miss L Paz A. Fonecon 21 May 74, Maj Negroni & Mr Mcnamara B. Notification Of Personnel Action, 8 May 74, Separating Miss Lourdes Paz"
+cable-tags: "AFIN: SEPARATION"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ03446"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. SUBJECT PAY, AS DISCUSSED IN REF A AND BASED ON INFO SHOWN IN
+REF B, SHOULD BE APPORTIONED AS FOLLOWS:
+ACCOUNTING CLASSIFICATPON
+2122020 92-1017 P000000-1321 S96519 $234.64
+2132020 92-1017 P000000-1321 S96519 $312.59
+2142020 92-1017 P000000-1321 S96519 (001006.2233B) (G012) $260.50
+            TOTAL $807.53
+2. REQUEST PARTICULARS CONCERNING REDUCTION IN FORCE ACTION CITED
+IN REF B SINCE NO RECENT REDUCTION IN LWR PERSONNEL AUTHORIZATION
+HAS BEEN ISSUED BY THIS HQS
+ END, UNQUOTE
+
+
+
+
+
+
+ 152018Z
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ03446
+
+- **Date:** May 29, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

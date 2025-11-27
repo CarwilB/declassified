@@ -1,0 +1,41 @@
+---
+title: "Imf Mission To Bolivia Refs: (A) State 31086: (B) La Paz 594"
+author: "Stedman"
+date: "March 08, 1974"
+editor: visual
+cable-date: "March 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2454"
+cable-info: "Oct-01 Iso-00 Eb-11 Trse-00 Aid-20 Ciae-00 Come-00 Frb-02 Inr-10 Nsae-00 Rsc-01 Xmb-07 Opic-12 Spc-03 Ciep-02 Lab-06 Sil-01 Omb-01 Agr-20 Drc-01 /118 W --------------------- 022742 R 081603z Mar 74"
+cable-subject: "Imf Mission To Bolivia Refs: (A) State 31086: (B) La Paz 594"
+cable-tags: "EFIN, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01388"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "ECONOMIC CONDITIONS, ECONOMIC GROWTH, GDP, GOVERNMENT BUDGET, WAGES, VISITS, ECONOMIC ESTIMATES,"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. In response to paragraph 2 reference A, Embassy assumes growth over the last two years has absorbed a good portion of unutilized industrial and mining capacity and land easily put under cultivation without irrigation or costly clearing. Therefore, it also assumes an Incremental Capital Output Ratio (ICOR) of at least three would be required to assure long-term growth at recent rates. Such an ICOR means investment would have to rise to about 16 percent of GDP. If additional investment is not well placed in productive sectors or efficiently managed, the ICOR is likely to be even higher. Note that we stated in paragraph 3D reference B that we believed investment would have to exceed 15 percent of GDP to assure continuation of current growth rates. We estimate that investment would have to reach about 19 percent to reach "self-sustaining" growth rates of 8 percent to 9 percent. This will be discussed with the IMF mission when it arrives.
+
+2. We believe estimates of the subsidy paid in 1973, and what probably would have been paid in 1974, in comparison to the estimated wage increase cost in 1974, provide a better basis for seeing how the budget might worsen (paragraph 3 reference A). MinFin's original budget (never released) did not allow for any 1974 wage increase. An IMF representative, on the basis of discussions with MinFin officials, estimates the total cost to the Treasury of wage increases granted thus far in 1974 at about $B 897 million, partly under the personal services line and partly under the current transfers to public sector line. On the other hand, we estimate the flour subsidy in 1973 was no more than $B 200 million. Without the increase in flour price in January from $B 177 per quintal to $B 300 per quintal, the subsidy in 1974 is likely to have been as much as $B 500 million.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01388
+
+- **Date:** March 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** ECONOMIC CONDITIONS, ECONOMIC GROWTH, GDP, GOVERNMENT BUDGET, WAGES, VISITS, ECONOMIC ESTIMATES,

@@ -1,0 +1,41 @@
+---
+title: "Sidersa Seeks Embassy Help To Hire Consultants"
+author: "Stedman"
+date: "September 06, 1974"
+editor: visual
+cable-date: "September 06, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 4150"
+cable-info: "Oct-01 Ara-16 Iso-00 Drc-01 Rsc-01 /030 W --------------------- 054101 R 061930z Sep 74"
+cable-subject: "Sidersa Seeks Embassy Help To Hire Consultants"
+cable-tags: "EMIN, BEXP, BL"
+cable-ref: "CAP, LA PAZ A-150"
+cable-doc-number: "1974LAPAZ05801"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "IRON, DATA, MINING, STEELS, INDUSTRIAL PLANTS, MANAGERS, CONSULTANTS, METALLURGY, PROGRAMS (PROJECTS)"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. EmbOff received written request from Javier Salinas R., technical manager SIDERSA, to help find three American experts, one each for following fields: (1) Iron-steel metallurgy, (2) Open cut mining on Mutun hematite deposit, and (3) Evaluator of iron-steel metallurgical project with experience in marketing iron-steel products. Contracts to start November, 1974, scheduled for three months but could be extended to five months. No salaries or fees mentioned. USDOC action request: Advertise SIDERSA's request in Commerce Today and in any other appropriate manner.
+
+2. Replies by interested experts should be addressed to Ing. Javier Salinas R., Gerente Tecnico, Empresa Siderurgica Boliviana S.A., Avenida 16 de Julio 1769, La Paz, Bolivia: Telegraph address-SIDERSA, Casilla 7082, La Paz, Bolivia.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ05801
+
+- **Date:** September 06, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** IRON, DATA, MINING, STEELS, INDUSTRIAL PLANTS, MANAGERS, CONSULTANTS, METALLURGY, PROGRAMS (PROJECTS)

@@ -1,0 +1,40 @@
+---
+title: "Visit Of Los Team To Latin America"
+author: "Stedman"
+date: "March 22, 1974"
+editor: visual
+cable-date: "March 22, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2620"
+cable-info: "Oct-01 Ara-16 Iso-00 Ciae-00 Come-00 Dode-00 Dote-00 Eb-11 Fmc-04 Inr-10 Nsae-00 Rsc-01 Cg-00 Coa-02 Ceq-02 Epa-04 Io-14 L-03 Nsf-04 Nsc-07 Pm-07 Sci-06 Ss-20 Spc-03 Fea-02 Acda-19 H-03 Pa-04 Prs-01 Usia-15 Int-08 Omb-01 Aec-11 Juse-00 Trse-00 Oic-04 Agr-20 Drc-01 /210 W --------------------- 070232 R 222145z Mar 74"
+cable-subject: "Visit Of Los Team To Latin America"
+cable-tags: "PBOR, BL"
+cable-ref: "(A) STATE 53203; (B) LA PAZ 1617"
+cable-doc-number: "1974LAPAZ01791"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "LAW OF THE SEA, MEETINGS, MEETING DELEGATIONS, PERSONNEL TRAVEL, REORGANIZATIONS, MINISTERIAL VISITS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Bolivian Foreign Ministry is currently undergoing one of its periodic reorganizations, which also affects staff of Ministry's Law of Sea Department. Foreign Ministry's leading expert on LOS matters: aging Director of Law of Sea Department Dr. Humberto Palza Soliz, is expected to retire from diplomatic service this month or in April. Several sources in Ministry have further indicated that name of new LOS Department Chief and composition of delegation to Caracas conference may not be known until early May. However, none of Foreign Ministry officials presently involved in LOS matters is expected to attend April Foreign Ministers and OAS meetings.
+2. In view of foregoing considerations, Embassy recommends that Department's LOS team postpone visit to Bolivia until mid-May, in order to ensure that team meets with full Bolivian delegation to Caracas LOS Conference.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01791
+
+- **Date:** March 22, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** LAW OF THE SEA, MEETINGS, MEETING DELEGATIONS, PERSONNEL TRAVEL, REORGANIZATIONS, MINISTERIAL VISITS

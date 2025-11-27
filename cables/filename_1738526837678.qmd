@@ -1,0 +1,41 @@
+---
+title: "Ecla Population Meeting San Jose"
+author: "Stedman"
+date: "April 08, 1974"
+editor: visual
+cable-date: "April 08, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2774"
+cable-info: "Oct-01 Ara-16 Iso-00 Io-14 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Sp-03 Ss-20 Usia-15 Oic-04 Come-00 Swf-02 Hew-08 Aid-20 Drc-01 /141 W --------------------- 004616 R 081538z Apr 74"
+cable-subject: "Ecla Population Meeting San Jose"
+cable-tags: "EGEN, BL"
+cable-ref: "STATE 065938"
+cable-doc-number: "1974LAPAZ02176"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "POPULATION, MEETING AGENDA, MEETINGS, MEETING DELEGATIONS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Embassy informed that Dr. Jerjes Vaca Diez, Bolivian Ambassador in Guatemala, will lead GOB delegation to subject meeting. Dr. Manuel Paz Soruco, Director of Social Planning of National Council of Planning and Economy (CONEPLAN), Dr. Juan Rivero Lazcano, Director of Social Welfare of Ministry of Health and Lic. Luis Llano Saavedra, Director of Ministry's Population Studies Division, are likely to make up rest of delegation. Llano is key Bolivian population export and will be most infuelential in formulating GOB position.
+2. USAID is reviewing talking points with probable Bolivian delegation (BOLDEL), especially with Llano. BOLDEL likely to adopt position that does not RPT not seek to set targets for reducing birth rates as in U.S. position. They are also likely not to support Argentine/Brazilian pro-natalist position although they have already received cables from Brazilians seeking support. Rather, Bolivian position will stress need for "Responsible Parenthood" programs to improve maternal child health, by providing family planning services with the additional objective of reducing abortions in Bolivia.
+3. Mission understands UN will provide travel/per diem for Paz and GOB will finance Rivero travel directly. USAID will authorize CENAFA use its funds (provided by mission to project) for Llano trip.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02176
+
+- **Date:** April 08, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** POPULATION, MEETING AGENDA, MEETINGS, MEETING DELEGATIONS

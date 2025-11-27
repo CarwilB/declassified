@@ -1,0 +1,174 @@
+---
+title: "W/W Dr Fred A Schiff For: Manager"
+author: ""
+date: "August 02, 1974"
+editor: visual
+cable-date: "August 02, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3831"
+cable-info: "Oct-01 Iso-00 As-01 /002 W --------------------- 100917 R 022121z Aug 74"
+cable-subject: "W/W Dr Fred A Schiff For: Manager"
+cable-tags: "CASC"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ05034"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 051604Z
+
+
+53
+ACTION SCSE-00
+
+
+INFO OCT-01 ISO-00 AS-01 /002 W
+           --------------------- 100917
+R 022121Z AUG 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC 3831
+
+
+UNCLAS LA PAZ 5034
+
+
+E.O. 11652: N/A
+TAGS: CASC
+SUBJ: W/W DR FRED A SCHIFF
+
+
+FOR: MANAGER
+MASTERCHARGE INC
+ST LOUIS MISSOURI
+USA
+
+
+PLEASE CASH ADVANCE FROM MC ACCOUNT NO 515 12603 001 547
+$450 TO FIRST NATIONAL CITY BANK, LA PAZ, BY WIRE(NOT
+MAIL. ADVISE IF PROBLEMS, ALSO CASH ADVANCE $350 MY
+ACCOUNT, COMMERCE BANK, UNIVERSITY CITY, MISSOURI.
+DR FRED A SCHIFF, AMERICAN EXPRESS, LA PAZ BOLIVIA.
+STEDMAN
+
+
+NOTE BY OCT: NOT PASSED ABOVE ADDRESSEE.
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                       
+
+                     
+
+
+                                                       Message Attributes
+Automatic Decaptioning: X
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: n/a
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 02 AUG 1974
+Decaption Date: 01 JAN 1960
+Decaption Note:
+Disposition Action: n/a
+Disposition Approved on Date:
+Disposition Authority: n/a
+Disposition Case Number: n/a
+Disposition Comment:
+Disposition Date: 01 JAN 1960
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ05034
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: N/A
+Errors: N/A
+Film Number: D740213-0275
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740879/aaaacqbt.tel
+Line Count: 41
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION SCSE
+Original Classification: 
+Original Handling Restrictions: n/a
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 1
+Previous Channel Indicators:
+Previous Classification: n/a
+Previous Handling Restrictions: n/a
+Reference: n/a
+Review Action: RELEASED, APPROVED
+Review Authority: shawdg
+Review Comment: n/a
+Review Content Flags:
+Review Date: 28 JAN 2003
+Review Event:
+Review Exemptions: n/a
+Review History: WITHDRAWN <19 APR 2002 by reddocgw, PRIVACY>; RELEASED <28 JAN 2003 by shawdg>; APPROVED <28 JAN 2003 by
+shawdg>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: W/W DR FRED A SCHIFF FOR: MANAGER
+TAGS: CASC
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ05034
+
+- **Date:** August 02, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

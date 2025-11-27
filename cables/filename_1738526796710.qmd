@@ -1,0 +1,39 @@
+---
+title: "U.s. Exports To Bolivia"
+author: "Stedman"
+date: "January 29, 1974"
+editor: visual
+cable-date: "January 29, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2088"
+cable-info: "Oct-01 Ara-10 Iso-00 Eb-05 Drc-01 Rsc-01 Sam-01 /019 W --------------------- 040139 R 291927z Jan 74"
+cable-subject: "U.s. Exports To Bolivia"
+cable-tags: "BEXP, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ00604"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Request whatever U.S. export data on a by country by commodity basis USDOC computer can provide for Bolivia. Can print outs be sent US on a quarterly or semi-annual basis? Need here is great as Bolivian National Statistics Office has only now begun to process 1971 trade data.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ00604
+
+- **Date:** January 29, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

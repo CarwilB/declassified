@@ -1,0 +1,51 @@
+---
+title: "Pereda's Plans"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "August 01, 1978"
+editor: visual
+cable-date: "August 01, 1978"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC Immediate 1935"
+cable-info: "Oct-01 Iso-00 /001 W ------------------039362 020104z /64 O 011710z Aug 78"
+cable-subject: "Pereda's Plans"
+cable-tags: "PINT, BL"
+cable-ref: "STATE 193264"
+cable-doc-number: "1978LAPAZ06107"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "GOVERNMENT REFORM, POLICIES, MEETINGS, NATIONAL ELECTIONS, MEETING REPORTS, CAT-B"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. I met with Pereda for one hour at Colonel Natusch Busch's home and with Natusch for another hour. (The role of Natusch, one of the few charismatic figures in the military, is not clear. A Banzer loyalist but personal friend of Pereda, Natusch berated Pereda on coup day for his disloyalty to the military and his damaging of Bolivia's international image through an ill-conceived coup. Subsequently, however, Natusch has been helping Pereda pick up the pieces and urging him to save the situation by new elections in 1979.)
+
+2. Pereda's main message was that he needed to change his tactics to get military support but that the basic plan was to proceed with announcement of a new election plan, on August 6, if at all possible (although this date is no longer firm). Pereda said that there was opposition to elections, even plotting among some of the "generational" officers. He had decided that a meeting of unit commanders in La Paz was not the way to win over these officers--especially since all of them would not be represented. He had decided, therefore, to cancel the meeting and instead to make a personal whirlwind trip around the country to talk to all of the officers of each of the major units. He said he would meet today (August 1) with La Paz units (mostly Banzer loyalists) and leave tonight on a four-day trip around the country, returning Saturday, August 5. If all went well, we would still go ahead with his speech on August 6.
+
+3. Pereda described his main problem among some younger officers as exaggerated fear of the left and concern that early elections meant turning over the country to Hernan Siles and his, inter alia, communist supporters. If that was the problem, I said, it ought to be possible to make the point that nothing would strengthen the position of the left more than a protracted period of de facto government and continuing growth of anti-military sentiment which the left was obviously better at exploiting than anyone else. Both Pereda and Natusch said they agreed with this and thought the points could be made, but more effectively in a series of unit meetings than in a large meeting of commanders.
+
+5. Pereda wanted me to review the US position, stressing that soon US support was going to be needed to consolidate support behind a political plan to avoid chaos. I reviewed our interest in a) early elections and b) internal peace and stability in Bolivia so its people could progress. I said we saw these two as related since a credible plan for return to democratic rule was the best means to gain the needed cooperation of all political elements in the transition process. Pereda said he agreed and that he needed not only cooperation in a political plan, but also tolerance for tough economic measures. He mused that he still faced a difficult time between now and announcement of a new election plan.
+
+6. I once again raised the question of whether elections in 1979 would not be the best rallying point for national unity. Natusch opined that he thought 12-18 months from now was the right time for elections. Pereda was noncommittal, pointing out that the military hurdle was now the critical one to get over.
+
+7. Pereda asked several questions on US "recognition" and aid. I reviewed our position on affirmation of relations as previously presented to Tapia. I also told him that we had not made final decisions on FY78 aid, but that if all went well it would still be possible to sign some aid assistance in August, if this would be helpful in consolidating a good democratization plan.
+
+9. Comment. Pereda obviously does not have all his ducks lined up yet for any election plan. He is working hard on this, but his own weak position and the bitter legacy of the coup are serious disadvantages. Boeker
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1978LAPAZ06107
+
+- **Date:** August 01, 1978
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** GOVERNMENT REFORM, POLICIES, MEETINGS, NATIONAL ELECTIONS, MEETING REPORTS, CAT-B

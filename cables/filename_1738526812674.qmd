@@ -1,0 +1,41 @@
+---
+title: "Travel Of President Banzer"
+author: "Stedman"
+date: "March 01, 1974"
+editor: visual
+cable-date: "March 01, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2387"
+cable-info: "Oct-01 Iso-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-10 Pa-04 Rsc-01 Prs-01 Spc-03 Ss-20 Usia-15 Sam-01 Drc-01 /100 W --------------------- 083693 R 011451z Mar 74"
+cable-subject: "Travel Of President Banzer"
+cable-tags: "OVIP, BL"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ01259"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. Acting Foreign Minister Cespedes told Ambassador that President Banzer will depart March 12 or 13 to attend President-elect Geisel's inauguration in Brasilia on March 15. Banzer to be accompanied by Roberto Capriles, Minister Coordinator of Government, an expert on fuels and energy matters and probably the most professional and influential cabinet member in Bolivia.
+
+2. Banzer and Capriles expect to spend seven days in Brazil, presumably visiting Rio and Sao Paulo as well as Brasilia, although we do not have an itinerary as yet.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ01259
+
+- **Date:** March 01, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

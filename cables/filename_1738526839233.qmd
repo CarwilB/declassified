@@ -1,0 +1,46 @@
+---
+title: "Comment On Applications For Opic Insurance"
+author: "Stedman"
+date: "April 10, 1974"
+editor: visual
+cable-date: "April 10, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 2812"
+cable-info: "Oct-01 Ara-16 Iso-00 L-03 Come-00 Ftc-01 Sp-03 Aid-20 Eb-11 Nsc-07 Ciep-02 Trse-00 Ss-20 Str-08 Omb-01 Cea-02 Int-08 Agr-20 Ciae-00 Inr-10 Nsae-00 /145 W --------------------- 045875 R 102110z Apr 74"
+cable-subject: "Comment On Applications For Opic Insurance"
+cable-tags: "EFIN, EMIN, ENRG, BL"
+cable-ref: "(A) LA PAZ 435; (B) LA PAZ 1115; (C) LA PAZ 3126 SUMMARY: EMBASSY RECOMMENDS AGAINST OPIC INSURANCE FOR LONE STAR BOLIVIA GROUP FOR SAME REASONS AS IN UNION OIL CASE, MAINLY THAT OPIC INSURANCE NOT INSTRUMENTAL FOR FIRM'S DECISION AND, ON BALANCE, STILL NOT ADVISABLE DUE TO SENSITIVITY OF SECTOR FROM OVERALL USG POLICY STANDPOINT. EMBASSY MAY RECOMMEND AGAINST INSURANCE FOR NEW JERSEY ZINC ON SIMILAR GROUNDS, BUT LACKS SUFFICIENT INFORMATION. END SUMMARY."
+cable-doc-number: "1974LAPAZ02284"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "INSURANCE, BUSINESS FIRMS, MINING INDUSTRY, LOANS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. On basis of info available to it, Embassy recommends against OPIC insurance for Lone Star Bolivia Group (registration No. 511-74-232) on same grounds on which it based its recommendation against OPIC insurance for Union Oil Co. Embassy's reasoning is presented in Refs A and B and still appear to be valid. As in case of Union, Lone Star appears quite willing enter into contract in Bolivia without insurance and that it not essential in company's decision to commit resources over time.
+2. Also on basis limited info now available to it, Embassy may recommend against OPIC insurance for New Jersey Zinc (registration No. 511-74-339). As stated Ref C, para 2, we believe USG now well out or almost out (OPIC still has insurance on SAPI and FNCB interest in COMSUR) of sensitive mining sector, should have bias against insurance for extractive industries and should consider new entries on most carefully selective basis. NJZ appears to have made its decision in advance of assurance that it will have OPIC insurance. It has already paid US$ 240,000 of Tye's debts (in this case to Banco Minero). In these circumstances OPIC insurance does not appear to be necessary. We view any investment in mining sector as highly risky and greatly exposed to vagaries of Bolivian nationalism.
+3. We suspect GOB will oppose OPIC insurance for NJZ on basis of experience in Mina Matilde settlement in which, even with help of OPIC insured medium term loan, price COMIBOL has to pay increased from US$ 13.4 million to over US$ 18 million due necessity borrowing from banks in order to pay U.S. Steel and Engelhard cash on barrel head.
+4. On other hand, NJZ highly competent and financially strong firm (especially as it is subsidiary of Gulf and Western) and, we understand, is considering taking in strong Bolivian firm, COMSUR, as partners. Huari-Huari Mine is rich and probably will be very rewarding mine if properly developed and adequate mill is constructed to separate zinc, tin and silver from its complex ores. Investment will undoubtedly make strong impact on investment climate, economic development and balance of payments, but, we repeat, investment seems already assured.
+5. Appears that portion of insurance sought by NJZ may cover investments in mine development already made by Frank Tye (Gibraltar Huari-Huari Corp.). Tye reportedly developed about one half million tons of ore.
+6. New factors affecting decisions on mining and hydrocarbons sectors are rising prices and shortages these commodities. These factors usually should tend to induce more investment these sectors without need for OPIC insurance. This appears be true with regard both Lone Star and New Jersey Zinc, but USG may find cases where OPIC insurance desired to help solve problems posed by such shortages.
+7. Embassy investigating Verne Hutchinson Cattle Ranch Project (registration No. 511-74-208) and Clair Peterson Cotton Project (registration No. 511-74-170) and will report.
+8. We note OPIC letters refer to Ministry of Economy which has not existed for several years. Ministry now known as Ministry of Industry, Commerce and Tourism.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02284
+
+- **Date:** April 10, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** INSURANCE, BUSINESS FIRMS, MINING INDUSTRY, LOANS

@@ -1,0 +1,170 @@
+---
+title: "W/W Schiff, Frederick"
+author: ""
+date: "August 13, 1974"
+editor: visual
+cable-date: "August 13, 1974"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 3884"
+cable-info: "Oct-01 Iso-00 Pass-00 /001 W --------------------- 054828 R 131330z Aug 74"
+cable-subject: "W/W Schiff, Frederick"
+cable-tags: "CASC"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ05142"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "n/a"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+Message Text
+
+
+
+
+ 131459Z
+
+
+51
+ACTION SCSE-00
+
+
+INFO OCT-01 ISO-00 PASS-00 /001 W
+           --------------------- 054828
+R 131330Z AUG 74
+FM AMEMBASSY LA PAZ
+TO SECSTATE WASHDC 3884
+
+
+UNCLAS LA PAZ 5142
+
+
+E.OM 11652: N/A
+TAGS: CASC
+SUBJECT: W/W SCHIFF, FREDERICK
+
+
+FOR: SAMUEL SCHIFF
+1302 SANTA MONICA BLVD.
+SANTA MONICA, CALIF.
+
+
+SELL BIKE OR ADVISE. DEDUCT $500. WIRE REMAINDER FIRST
+NATIONAL CITY BANK LA PAZ BRANCH. (SIGNED) DR. FREDERICK
+SCHIFF, AMERICAN EXPRESS, LA PAZ, BOLIVIA.
+STEDMAN
+
+
+NOTE BY OC/T: LA PAZ 5142 PASSED ABOVE ADDRESSEE.
+
+
+
+
+
+
+
+
+NNN
+
+
+
+
+                       
+
+                     
+
+
+                                                       Message Attributes
+Automatic Decaptioning: X
+Capture Date: 01 JAN 1994
+Channel Indicators: n/a
+Current Classification: 
+Concepts: n/a
+Control Number: n/a
+Copy: SINGLE
+Draft Date: 13 AUG 1974
+Decaption Date: 01 JAN 1960
+Decaption Note:
+Disposition Action: n/a
+Disposition Approved on Date:
+Disposition Authority: n/a
+Disposition Case Number: n/a
+Disposition Comment:
+Disposition Date: 01 JAN 1960
+Disposition Event:
+Disposition History: n/a
+Disposition Reason:
+Disposition Remarks:
+Document Number: 1974LAPAZ05142
+Document Source: CORE
+Document Unique ID: 00
+Drafter: n/a
+Enclosure: n/a
+Executive Order: N/A
+Errors: N/A
+Film Number: D740221-1139
+From: LA PAZ
+Handling Restrictions: n/a
+Image Path:
+ISecure: 1
+Legacy Key: link1974/newtext/t19740852/aaaabspz.tel
+Line Count: 38
+Locator: TEXT ON-LINE, ON MICROFILM
+Office: ACTION SCSE
+Original Classification: 
+Original Handling Restrictions: n/a
+Original Previous Classification: n/a
+Original Previous Handling Restrictions: n/a
+Page Count: 1
+Previous Channel Indicators:
+Previous Classification: n/a
+Previous Handling Restrictions: n/a
+Reference: n/a
+Review Action: RELEASED, APPROVED
+Review Authority: boyleja
+Review Comment: n/a
+Review Content Flags:
+Review Date: 19 APR 2002
+Review Event:
+Review Exemptions: n/a
+Review History: RELEASED <19 APR 2002 by reddocgw>; APPROVED <22 JAN 2003 by boyleja>
+Review Markings:
+
+
+US Department of State
+
+30 JUN 2005
+
+
+Review Media Identifier:
+Review Referrals: n/a
+Review Release Date: n/a
+Review Release Event: n/a
+Review Transfer Date:
+Review Withdrawn Fields: n/a
+Secure: OPEN
+Status: NATIVE
+Subject: W/W SCHIFF, FREDERICK FOR: SAMUEL SCHIFF
+TAGS: CASC, BL, (SCHIFF, FREDERICK)
+To: STATE
+Type: TE
+Markings:
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ05142
+
+- **Date:** August 13, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** n/a

@@ -1,0 +1,43 @@
+---
+title: "Andean Pact Members Sign Andean Pact Parliament Agreement"
+author: "Paul Boeker, US Ambassador to Bolivia"
+date: "November 01, 1979"
+editor: visual
+cable-date: "November 01, 1979"
+cable-from: "AmEmbassy La Paz"
+cable-to: "SecState WashDC 8975"
+cable-info: "Oct-01 Ads-00 Io-14 Ciae-00 Dode-00 Pm-06 H-01 Inr-10 L-03 Nsae-00 Nsc-05 Pa-01 Sp-02 Ss-15 Ica-11 Acda-12 Aid-05 Omb-01 Trse-00 Ha-05 Sr-04 /111 W ------------------113627 040404z /41 R 011420z Nov 79"
+cable-subject: "Andean Pact Members Sign Andean Pact Parliament Agreement"
+cable-tags: "ECIN, BL"
+cable-ref: "STATE 272944"
+cable-doc-number: "1979LAPAZ09336"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 jan 1960"
+cable-concepts: "TREATY RATIFICATION, COMMON MARKETS, ESTABLISHMENT OF OFFICES, CENTRAL LEGISLATURE"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+1. On October 25 the following representatives of Andean Pact governments signed the treaty (Tratado Constitutivo del Parlamento Andino) forming the Andean Pact Parliament: Foreign ministers of Bolivia, Gustavo Fernandez S.; Colombia, Diego Uribe V.; Peru, Carlos Garcia B.; Venezuela, Jose Alberto Zambrano V.; and Ecuadorian Subsecretaries of Foreign Relations, Mario Aleman S. and Walter Esparza F. The agreement, which dates from the Declaration of Quito, signed on August 11, 1979, establishes a 25-member Parliament which will meet for the first time on December 17, 1980, the 150th anniversary of the death of Simon Bolivar.
+2. For ten years after the treaty enters onto force, the legislative body of each Andean Pact member country will select five Parliament representatives who will serve for a period of two years and who may be reelected. After the ten-year period, each country's representatives will be chosen by universal suffrage. The Andean Parliament will elect a President and Vice President from among its members and will meet once a year with the location and time to be decided the previous year. Special sessions may be held when requested by one-third of the member countries.
+3. According to the agreement, the Parliament was created to reaffirm the principles of liberty, social justice and democracy, to assure a respect for human rights, and to help guarantee international peace and justice. The responsibilities of the Parliament include evaluating the integration process, cooperating with legislative bodies of member and non-member countries, and assisting member countries to implement the integration process.
+4. **Comment:** According to the GOB Secretary of Integration, Fernando Gutierrez, the Andean Pact was "showing off" a bit by signing the Andean Parliament agreement at the same time the OAS annual meeting was being held in La Paz. Gutierrez feels that although the agreement expresses the region's growing democratic convictions and embodies the Pact's new political awareness, the Parliament will be a political body which may make recommendations only. End comment.
+5. Full text of agreement being pouched.
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1979LAPAZ09336
+
+- **Date:** November 01, 1979
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 jan 1960
+
+- **Concepts:** TREATY RATIFICATION, COMMON MARKETS, ESTABLISHMENT OF OFFICES, CENTRAL LEGISLATURE
