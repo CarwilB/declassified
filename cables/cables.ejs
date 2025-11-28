@@ -1,0 +1,29 @@
+<table class="cables-table">
+  <colgroup>
+    <col class="date-col" />
+    <col class="title-col" />
+    <col class="author-col" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th class="date-col">Date</th>
+      <th class="title-col">Title</th>
+      <th class="author-col">Author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% for (const item of items) { %>
+      <tr>
+        <td class="date-col">
+          <%= item.date %>
+        </td>
+        <td class="title-col">
+          <a href="<%- item.path %>"><%= item.title %></a>
+        </td>
+        <td class="author-col">
+          <%= item.author %>
+        </td>
+      </tr>
+    <% } %>
+  </tbody>
+</table>

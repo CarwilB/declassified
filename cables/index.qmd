@@ -1,8 +1,16 @@
 ---
 title: Cables
+format:
+  html:
+    css: styles/cables-table.css
 listing:
-  contents:
-    - "*.qmd"
-  sort: "date asc"
-  type: "table"
+  id: cables-list
+  contents: . # <--- UPDATE THIS to your actual folder name
+  template: cables.ejs
+column: "body-outset"
+sort: "date desc"
+date-format: "MMM D, YYYY"
+page-size: 50
 ---
+
+

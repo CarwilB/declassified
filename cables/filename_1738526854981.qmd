@@ -1,5 +1,5 @@
 ---
-title: "Paz, Lourdes For: Wfc The Following Telegram Received This Station And Repated For Your Info: Quote "R 242331z May 74 Fm Uscincso Quarry Hts Cz//Sc-Fc// To Ruexlz/Comusmilgp La Paz Bolivia Info Rueslz/Amzmbassy La Paz Bolivia//B/Mo// Ruedbga/Comusarso Ft Amador Cz//Scargg/Scarfa// Unclas Subj: Severance Pay Miss L Paz A. Fonecon 21 May 74, Maj Negroni & Mr Mcnamara B. Notification Of Personnel Action, 8 May 74, Separating Miss Lourdes Paz"
+title: "Paz, Lourdes"
 author: "Page 02 La Paz 03446 152018z"
 date: "May 29, 1974"
 editor: visual
@@ -7,7 +7,7 @@ cable-date: "May 29, 1974"
 cable-from: "AmEmbassy La Paz"
 cable-to: "SecState WashDC 3224"
 cable-info: "Oct-01 Iso-00 /001 W --------------------- 124453 R 291318z May 74"
-cable-subject: "Paz, Lourdes For: Wfc The Following Telegram Received This Station And Repated For Your Info: Quote "R 242331z May 74 Fm Uscincso Quarry Hts Cz//Sc-Fc// To Ruexlz/Comusmilgp La Paz Bolivia Info Rueslz/Amzmbassy La Paz Bolivia//B/Mo// Ruedbga/Comusarso Ft Amador Cz//Scargg/Scarfa// Unclas Subj: Severance Pay Miss L Paz A. Fonecon 21 May 74, Maj Negroni & Mr Mcnamara B. Notification Of Personnel Action, 8 May 74, Separating Miss Lourdes Paz"
+cable-subject: "Paz, Lourdes"
 cable-tags: "AFIN: SEPARATION"
 cable-ref: ""
 cable-doc-number: "1974LAPAZ03446"

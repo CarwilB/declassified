@@ -16,42 +16,43 @@ cable-declass-date: "20 Mar 2014"
 cable-concepts: "DEMOCRACY, POLICIES, TIN, DIPLOMATIC COMMUNICATIONS, ELECTIONS, STOCKPILE DISPOSAL, ACCESS TO PORTS"
 ---
 
-::: {.cable-meta}
+::: cable-meta
 :::
 
 # DEPARTMENT OF STATE TELEGRAM
+
 **UNCLASSIFIED**
 
-1. C-Entire text.
+1.  C-Entire text.
 
-2. **Summary:** I recommend that we use the opportunity of Padilla's letter to the President to reply promptly and responsively in a way that would strengthen Padilla's hand in getting his generals to accept the electoral result. Since the mood in the armed forces is somewhat better than we had anticipated, our reply can be less heavy than we earlier considered. The main point should be to indicate to the Bolivian military that democratic government will be a significant boost to Bolivia's chances to realize its economic, political and diplomatic objectives. Padilla wants to see me Tuesday night, but I could probably put this off to Wednesday night. Hopefully by then I would be able personally to deliver the President's reply to Padilla. End summary.
+2.  **Summary:** I recommend that we use the opportunity of Padilla's letter to the President to reply promptly and responsively in a way that would strengthen Padilla's hand in getting his generals to accept the electoral result. Since the mood in the armed forces is somewhat better than we had anticipated, our reply can be less heavy than we earlier considered. The main point should be to indicate to the Bolivian military that democratic government will be a significant boost to Bolivia's chances to realize its economic, political and diplomatic objectives. Padilla wants to see me Tuesday night, but I could probably put this off to Wednesday night. Hopefully by then I would be able personally to deliver the President's reply to Padilla. End summary.
 
-3. My suggested draft reply (in paragraphs 4 to 9 below) presumes decisions and actions on two matters: a successful approach to Senator Hart to get him to delay reporting out a stockpile disposal bill until after the Senate's August recess; and a decision on our delegation to the inauguration, which I hope can be headed by Mrs. Carter, if at all possible. The proposed commitment not to sell tin in 1979 is not really a separate policy decision, since if the Congressional authorization is delayed to September, the normal consultation process will delay sales until 1980 in any event.
+3.  My suggested draft reply (in paragraphs 4 to 9 below) presumes decisions and actions on two matters: a successful approach to Senator Hart to get him to delay reporting out a stockpile disposal bill until after the Senate's August recess; and a decision on our delegation to the inauguration, which I hope can be headed by Mrs. Carter, if at all possible. The proposed commitment not to sell tin in 1979 is not really a separate policy decision, since if the Congressional authorization is delayed to September, the normal consultation process will delay sales until 1980 in any event.
 
-4. Begin suggested draft letter. Dear Mr. President. I have taken to heart your thoughtful letter of July 6, in which you raise your concerns regarding U.S. tin policy and its relationship to Bolivia's return to constitutional, elected government. I appreciate your raising these concerns with me in the cordial and open manner that is a hallmark of U.S. - Bolivian relations.
+4.  Begin suggested draft letter. Dear Mr. President. I have taken to heart your thoughtful letter of July 6, in which you raise your concerns regarding U.S. tin policy and its relationship to Bolivia's return to constitutional, elected government. I appreciate your raising these concerns with me in the cordial and open manner that is a hallmark of U.S. - Bolivian relations.
 
-5. First of all, Mr. President, let me congratulate you and Bolivian armed forces for your stalwart leadership in returning your country to democratic rule--a venture which has captured the imagination and admiration of my country and Bolivia's friends everywhere. The successful completion of this hopeful process with the August 6 inauguration will place Bolivia firmly among the democratic countries of our Hemisphere and enhance Bolivia's international standing and capacity to achieve its economic, political and diplomatic objectives.
+5.  First of all, Mr. President, let me congratulate you and Bolivian armed forces for your stalwart leadership in returning your country to democratic rule--a venture which has captured the imagination and admiration of my country and Bolivia's friends everywhere. The successful completion of this hopeful process with the August 6 inauguration will place Bolivia firmly among the democratic countries of our Hemisphere and enhance Bolivia's international standing and capacity to achieve its economic, political and diplomatic objectives.
 
-6. On the matter of tin, let me assure you that the United States will manage any eventual disposals so as to safeguard against disruption of the tin market and the economic position of producers, including Bolivia. In response to your letter, the White House has contacted Senator Hart who, in recognition of Bolivia's return to constitutional rule, has agreed to postpone Senate action on stockpile legislation until after the Senate's August recess. This should assure that no dramatic news on tin occurs during the final stage of Bolivia's efforts to complete the election process in your Congress. I can also assure you that no tin sales will take place in 1979, when Bolivia's elected government is developing and implementing a program to stabilize the country's economy. Any sales plans in 1980 will be developed on the basis of full consultation with Bolivia's new, elected government, as well as with other producers, and will be designed to the best of our abilities to avoid depressing the export earnings Bolivia's new government will need for its stabilization effort. You can also rest assured that my government will work through the international financial institutions and with Bolivia's new government to help that government raise the financial support necessary to back a sound stabilization program.
+6.  On the matter of tin, let me assure you that the United States will manage any eventual disposals so as to safeguard against disruption of the tin market and the economic position of producers, including Bolivia. In response to your letter, the White House has contacted Senator Hart who, in recognition of Bolivia's return to constitutional rule, has agreed to postpone Senate action on stockpile legislation until after the Senate's August recess. This should assure that no dramatic news on tin occurs during the final stage of Bolivia's efforts to complete the election process in your Congress. I can also assure you that no tin sales will take place in 1979, when Bolivia's elected government is developing and implementing a program to stabilize the country's economy. Any sales plans in 1980 will be developed on the basis of full consultation with Bolivia's new, elected government, as well as with other producers, and will be designed to the best of our abilities to avoid depressing the export earnings Bolivia's new government will need for its stabilization effort. You can also rest assured that my government will work through the international financial institutions and with Bolivia's new government to help that government raise the financial support necessary to back a sound stabilization program.
 
-7. I am aware of your country's plans to raise the issue of Bolivia's aspiration for access to the sea at the OAS General Assembly meeting this October in La Paz. You know from my remarks to the OAS last year of my personal interest in this question. We will now be awaiting Bolivia's definition of an approach to this issue with every desire to be supportive wherever we can.
+7.  I am aware of your country's plans to raise the issue of Bolivia's aspiration for access to the sea at the OAS General Assembly meeting this October in La Paz. You know from my remarks to the OAS last year of my personal interest in this question. We will now be awaiting Bolivia's definition of an approach to this issue with every desire to be supportive wherever we can.
 
-8. To express as clearly as possible to the Bolivian people our goodwill and deep appreciation of the country's orderly return to constitutional rule, I am asking my wife Rosalyn (alternate choice) to represent me at the inauguration of Bolivia's new President on August 6.
+8.  To express as clearly as possible to the Bolivian people our goodwill and deep appreciation of the country's orderly return to constitutional rule, I am asking my wife Rosalyn (alternate choice) to represent me at the inauguration of Bolivia's new President on August 6.
 
-9. As, Mr. President, approach the final stage of Bolivia's return to constitutional rule, a process which you have so steadfastly overseen, let me wish Bolivia full success in this historic venture, and to you personally all the best in the future. End of suggested draft letter.
+9.  As, Mr. President, approach the final stage of Bolivia's return to constitutional rule, a process which you have so steadfastly overseen, let me wish Bolivia full success in this historic venture, and to you personally all the best in the future. End of suggested draft letter.
 
 10. The President's reply to Padilla would be most effective if I could have it in time to deliver personally by P.M. Wednesday July 11.
 
-***
+------------------------------------------------------------------------
 
 #### Message Attributes
 
-- **Document Number:** 1979LAPAZ05838
+-   **Document Number:** 1979LAPAZ05838
 
-- **Date:** July 08, 1979
+-   **Date:** July 08, 1979
 
-- **Classification:** UNCLASSIFIED
+-   **Classification:** UNCLASSIFIED
 
-- **Declassified:** 20 Mar 2014
+-   **Declassified:** 20 Mar 2014
 
-- **Concepts:** DEMOCRACY, POLICIES, TIN, DIPLOMATIC COMMUNICATIONS, ELECTIONS, STOCKPILE DISPOSAL, ACCESS TO PORTS
+-   **Concepts:** DEMOCRACY, POLICIES, TIN, DIPLOMATIC COMMUNICATIONS, ELECTIONS, STOCKPILE DISPOSAL, ACCESS TO PORTS

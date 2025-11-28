@@ -71,20 +71,21 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-cables-list .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      valueNames: ['listing-project','listing-filters','listing-website','listing-collections','listing-language','listing-format','listing-editor','listing-title','listing-author','listing-date','listing-cable-date','listing-cable-from','listing-cable-to','listing-cable-info','listing-cable-subject','listing-cable-tags','listing-cable-ref','listing-cable-doc-number','listing-cable-classification','listing-cable-declass-date','listing-cable-concepts','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-project","listing-filters","listing-website","listing-collections","listing-language","listing-format","listing-editor","listing-title","listing-author","listing-date","listing-cable-date","listing-cable-from","listing-cable-to","listing-cable-info","listing-cable-subject","listing-cable-tags","listing-cable-ref","listing-cable-doc-number","listing-cable-classification","listing-cable-declass-date","listing-cable-concepts","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-cables-list'] = new List('listing-cables-list', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -132,6 +133,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles/cables-table.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -201,111 +203,3956 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
+<div class="quarto-listing quarto-listing-container-custom" id="listing-cables-list">
+<table class="cables-table">
+<colgroup>
+<col class="date-col">
+<col class="title-col">
+<col class="author-col">
+</colgroup>
 <thead>
 <tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+<th class="date-col">
+Date
 </th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+<th class="title-col">
+Title
 </th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+<th class="author-col">
+Author
 </th>
 </tr>
 </thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="126939600000" data-listing-file-modified-sort="1764166327210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207" data-listing-title-sort="[subject not available]" data-listing-filename-sort="filename_1738526785306.qmd">
-<td>
-<span class="listing-date">Jan 9, 1974</span>
+<tbody>
+<tr>
+<td class="date-col">
+Feb 4, 1974
 </td>
-<td>
-<a href="../cables/filename_1738526785306.html" class="title listing-title">[subject not available]</a>
+<td class="title-col">
+<a href="../cables/filename_1738526800228.html">“Early Warning”: Construction Of Zinc Smelter</a>
 </td>
-<td>
-<span class="listing-author">Morton </span>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="147675600000" data-listing-file-modified-sort="1764166327211" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="144" data-listing-title-sort="Sidersa Seeks Embassy Help To Hire Consultants" data-listing-filename-sort="filename_1738526886950.qmd">
-<td>
-<span class="listing-date">Sep 6, 1974</span>
-</td>
-<td>
-<a href="../cables/filename_1738526886950.html" class="title listing-title">Sidersa Seeks Embassy Help To Hire Consultants</a>
-</td>
-<td>
-<span class="listing-author">Stedman </span>
+<td class="author-col">
+Stedman
 </td>
 </tr>
-<tr data-index="2" data-listing-date-sort="293176800000" data-listing-file-modified-sort="1764166327207" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="38" data-listing-title-sort="Necessary Documentation For Ford Bronco Purchased By Carlos Lopez To: Ford Motor Co 815 Connecticut Ave, Nw Washington Dc 20006" data-listing-filename-sort="filename_1738525418481.qmd">
-<td>
-<span class="listing-date">Apr 17, 1979</span>
+<tr>
+<td class="date-col">
+Aug 29, 1974
 </td>
-<td>
-<a href="../cables/filename_1738525418481.html" class="title listing-title">Necessary Documentation For Ford Bronco Purchased By Carlos Lopez To: Ford Motor Co 815 Connecticut Ave, Nw Washington Dc 20006</a>
+<td class="title-col">
+<a href="../cables/filename_1738526884048.html">“Fsi: Commercial Locals Us Training Program”</a>
 </td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="3" data-listing-date-sort="294555600000" data-listing-file-modified-sort="1764166327194" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104" data-listing-title-sort="Cotton - Chinatex Travel" data-listing-filename-sort="filename_1738525414212.qmd">
-<td>
-<span class="listing-date">May 3, 1979</span>
-</td>
-<td>
-<a href="../cables/filename_1738525414212.html" class="title listing-title">Cotton - Chinatex Travel</a>
-</td>
-<td>
-<span class="listing-author">Paul Boeker, US Ambassador to Bolivia</span>
+<td class="author-col">
+Parker
 </td>
 </tr>
-<tr data-index="4" data-listing-date-sort="300258000000" data-listing-file-modified-sort="1764166327183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="782" data-listing-title-sort="Proposed Reply Of President Carter To President Padilla's Letter Of July 6" data-listing-filename-sort="filename_1738525411197.qmd">
-<td>
-<span class="listing-date">Jul 8, 1979</span>
+<tr>
+<td class="date-col">
+Feb 17, 1979
 </td>
-<td>
-<a href="../cables/filename_1738525411197.html" class="title listing-title">Proposed Reply Of President Carter To President Padilla’s Letter Of July 6</a>
+<td class="title-col">
+<a href="../cables/filename_1738525614293.html">(C) Economic Stabilization Measures By Gob Unlikely, But A Financial Crisis Should Be Avoidable</a>
 </td>
-<td>
-<span class="listing-author">Paul Boeker, US Ambassador to Bolivia</span>
+<td class="author-col">
 </td>
 </tr>
-<tr data-index="5" data-listing-date-sort="302245200000" data-listing-file-modified-sort="1764166327182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64" data-listing-title-sort="Peru Coca Survey Team Visit To Bolivia" data-listing-filename-sort="filename_1738525409284.qmd">
-<td>
-<span class="listing-date">Jul 31, 1979</span>
+<tr>
+<td class="date-col">
+Mar 30, 1979
 </td>
-<td>
-<a href="../cables/filename_1738525409284.html" class="title listing-title">Peru Coca Survey Team Visit To Bolivia</a>
+<td class="title-col">
+<a href="../cables/filename_1738525415168.html">(C) Hijack Contingency Planning</a>
 </td>
-<td>
-<span class="listing-author">Paul Boeker, US Ambassador to Bolivia</span>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 19, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525615508.html">(C) Political Trends: First Quarter 1979</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 16, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525552630.html">(C) Prospects For Labor Peace Through The July Elections Remain Good</a>
+</td>
+<td class="author-col">
+Probable.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 15, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525545385.html">(C) The Bolivian Economy On A Tightrope; Cerp 102</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 8, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525551246.html">(S) The Padilla Government - A Balance Sheet Of Negatives</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 28, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525412518.html">(U) Bolivia Commemorates Centennial Of War Of The Pacific</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 15, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525427901.html">(U) Bolivian Bank Holiday</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 8, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525569315.html">(U) Election Year 1979: The View From Santa Cruz</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 19, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525535345.html">18th Ecla Plenary: Inaugural Session</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 26, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525727858.html">1979 Bolivia Human Rights Report</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 12, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525426313.html">1979 Gsp Product Review Hearings</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 28, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525536677.html">1979 Human Rights Report: Bolivia Text Of 1979 Human Rights Report For Bolivia Follows: (Begin Text) Introduction</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 26, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525536510.html">; Oasga 4 - October 25</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526872515.html">A Preliminary Look At The New Gob</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 1, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525426074.html">Action Against Egypt In Fao Conference November 10-30, 1979</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525414897.html">Administrative Visit Of Dr.&nbsp;Hoofnagle To Bolivia Week Of April 16, 1979, And Early Home Leave For Pasa Project Manager Steele</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 7, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526800488.html">Agatt Visit To Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 26, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526843976.html">Agricultural Trade Opportunity</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 13, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526829574.html">Agricultural Trade Opportunity</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526830325.html">Agricultural Trade Opportunity</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526801243.html">Airlift Of Disaster Relief Supplies For Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 11, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526806320.html">Allocation Of Fy 74 Map</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525535455.html">Ambassador’s Comments On Ara/Ecp Paper On Bolivian Economy And Us Lending Options</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526864578.html">Ambassador’s Summary Statement Concerning Security Assistance To Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526852097.html">American Indian Convention</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 18, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526840592.html">Andean Group Junta Meeting</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526841168.html">Andean Meeting And Decision 24</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 1, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525548604.html">Andean Pact Members Sign Andean Pact Parliament Agreement</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 1, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525543978.html">Anglo Bolivian Land And Cattle Co.</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 9, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525560279.html">Annual Integrated Assessment Of Security Assistance</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 4, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525552941.html">Annual Narcotics Status Report</a>
+</td>
+<td class="author-col">
+Programs.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526828285.html">Applegate - Youngquist Land Expropriation Case Reference: 1) State 047381: A) State 46969</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 26, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526844204.html">Applegate-Youngquist Case</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526834955.html">Applegate/Youngquist Case</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526831775.html">Applegate/Youngquist Land Expropriation Case</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 20, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526862272.html">Argentine - Bolivian Negotiations</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526836275.html">Argentine Overture To Bolvian Foreign Ministry On Cuba</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 7, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526859039.html">Armed Forces Dismiss Twenty-Four Officers</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526874036.html">Arrest Of Major Gary Prado</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 20, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525410335.html">Arrival Of Secstate In La Paz Bolivia</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 23, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526873129.html">Availability Of Fy 1975 Fms Credit Funds</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526828945.html">Banzer And Campesinos In Cochabamba Summary: President Banzer Sought During Appearance March 8 In Cochabamba To Reconcile His Government With Campesinos Of Area. Banzer Spoke At Military Airport During Ceremony Marking Government’s Free Gift Of 1,000 Metal Plows And 24 Tractors To Cochabamba’s Farmers And Cooperatives. Estimated 5,000 Campesinos Present. End Summary.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526873783.html">Banzer Announces Election Timetable</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 31, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525616570.html">Banzer Goes On Trial Before Congress</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 30, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525417208.html">Benjamin Mendoz-Flores</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526878082.html">Bid By U S Company For Contract For Aeronautic Exploration For Uranium For: Ara/Bc/B</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525421696.html">Bio Data On Bolivian Ambassador To Madrid</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 10, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526871456.html">Biographic Notes On New Cabinet Members</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 10, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526848329.html">Bolivia Casp</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526829729.html">Bolivia Desire Purchase U.s. Food Products And Ccc Credit</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526791999.html">Bolivia Four Shortages</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526858050.html">Bolivia Invited To Attend June, 1974 Opec Conference</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526829880.html">Bolivia Membership In International Cacao Organization</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526798283.html">Bolivia Situation Report Department Pass All Ara Posts</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 4, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525424411.html">Bolivia’s Foreign Debt</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 10, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525535506.html">Bolivia’s Oil Import Problem-A Brazilian Solution?</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526860119.html">Bolivia’s Petroleum Production - Exports &amp; Gas Exports For First Four Months Of 1974</a>
+</td>
+<td class="author-col">
+Page 02 La Paz 03851 131450z
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 31, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525412326.html">Bolivia’s Projected Non-Petroleum Minerals Production/ Exports For 1979</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 7, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525416826.html">Bolivia’s Return To Constitutional Rule Via Indirect Election Of President-Elect Walter Guevara Arze</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526825666.html">Bolivia’s U.s. Sugar Quota Refs: (Al La Paz A-048; (B) Ara/Bc Memo To Dept Asst Secy Szabo Dated February 28, 1974</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526877361.html">Bolivian Air Force Decision Use Fms Credit For Convair 580 Transport Aircraft</a>
+</td>
+<td class="author-col">
+Page 02 La Paz 05026 022139z
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 28, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526866650.html">Bolivian Aviation Gasoline Shortage Pass Usdoc Washdc Summary. Bolivia’s Aviation Gasoline Requirments Now Exceed Quantity Esso, Bolkvia’s Traditional Supplier, Willing Supply. Minfon Has Approached Ambassador To Seek Help In Convincing Esso It Should Meet Bolivia’s Requirements. Ypfb Appears To Believe Contract It Has With Esso Entitles It To More Than It Now Receiving. Adequate Gas Supply Extremely Important For Bolivia’s Economic And Political Stability. Action Requested: Department Communicate With Esso Head Office In Coral Gables To Suggest It Review Decision Against Increasing Supply To Bolivia Or, At Least, Cooperate By Helping Arrange Purchase And Delivery Additional Supply From Non Esso Source. End Summary.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526855516.html">Bolivian Delegation To Third Un Conference On Law Of The Sea</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 11, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525544639.html">Bolivian Financial Crisis Deepens</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 29, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525542372.html">Bolivian Foreign Exchange Position And Status Of Negotiations With The Imf</a>
+</td>
+<td class="author-col">
+As Recommended By The Fund;
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 15, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526839846.html">Bolivian Foreign Minister Plannig To Deliver Letter From President Banzer To President Nixon</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526813266.html">Bolivian Foreign Minister Releases Secretary Kissinger’s Letter And Announces Request To U.s. For Financial Aid</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 29, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525613702.html">Bolivian Government Signs Imf Letter Of Intent</a>
+</td>
+<td class="author-col">
+On Its External Debt Service.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 10, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526871570.html">Bolivian Minister Of Defense Indicates Little Interest In Soviet Military Equipment</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 19, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525543364.html">Bolivian Negotiations With The Imf</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526858255.html">Bolivian Officials Responsible For Eastern Development Zone And Related Matters</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 21, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526881481.html">Bolivian Postal Debt</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526800821.html">Bolivian Postal Debt Refs: (A) A-199: (B) La Paz 4350 July 1973</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 16, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525418090.html">Bolivian Power Company</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 15, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526830888.html">Bolivian Preparations For Third Un Law Of The Sea Conference</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526886648.html">Bolivian President Banzer Requests Usg Guarantee Of Bolivian Neutrality In Event Peruvian/Chilean Conflict</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 15, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526872208.html">Bolivian Tariff Schedule</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526846318.html">Bolivian Tariff Schedule Refs: (A) State 060395; (B) State 092708</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526846411.html">Bolivian Tariff Schedule Refs: (A) State 060395; (B) State 092708</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 1, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525416224.html">Bolivian Tin And Petroleum: Continued Production Declines Likely</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526847154.html">Bolivian Training School Hqs For Stutman/Tr, Embassy For Dea</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526835233.html">Bolivian Views On Proposed Panama Canal Toll Increase</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526833104.html">Bolivian Views On Proposed Panama Canal Toll Increase Reference: State 58007</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 23, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526853280.html">Brazilian Credit For Highway Construction And Maintenance Equipment Increased</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 20, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526861787.html">C-130 Aircraft For Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526836560.html">Cerp 0008 - Evaluation Of Un Assistance Programs</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526878593.html">Chilean Foreign Investment Statute</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526854639.html">Ciap Meeting Mincoord Capriles Told Charge And Adcm He Would Head Gob</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526874311.html">Civair Andean Airline Association</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526791079.html">Codel Whealen: Meeting With Minister Of Engergy And Hyrocarbons</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 10, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526839233.html">Comment On Applications For Opic Insurance</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526789788.html">Commercial Action Program (Cap) For Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526835365.html">Commercial Action Program Fy 74</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 17, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525539225.html">Congress Chooses Gueiler To Be Interim President Of Bolivia</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 10, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526786979.html">Congressman Whalen’s Conversation With Bolivian Foreign Minister Guzman</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 26, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525569032.html">Consular Package - 1981</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 3, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526884992.html">Consultations Among Policy Planning Staffs</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 14, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525728705.html">Conversation Between Walter Guevara Arze And Assistant Secretary Vaky</a>
+</td>
+<td class="author-col">
+Christopher
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526842360.html">Conversation With Bolivian President Banzer: Economic And Military Assistance And The State Visit</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 3, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525414212.html">Cotton - Chinatex Travel</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 2, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525728687.html">Daily Press Briefing, November 1, 1979</a>
+</td>
+<td class="author-col">
+To That Area. Christopher
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526808857.html">Dea Six-Week International Drug Enforcement Officiers School No.&nbsp;5</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 6, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525537650.html">Death Of U.s. Citizen Frances Christian Ring To: Mr.&nbsp;Clayton Hall 5906 East University Boulevard Apt 201 Dallas, Texas 75206 Tel. (214) 739-2921</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 6, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525418088.html">Death Of U.s. Citizen Frances Christian Ring To: Pearson Funeral Home 905 South Commerce Street Overton, Texas Tel (214) 834-3111</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 13, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525423852.html">Death Of Us Citizen Harold D. Poole To: Rockwell-Draper Division 17 Metro Drive P.o. Box 5047 Spartanburg, South Carolina Tel. 803-585-6411</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526877692.html">Debt Service On Eximbank And Pl-480 Credits</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 23, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525411129.html">Departure Of Secstate From La Paz, Bolivia</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 22, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525543259.html">Diplomatic Immunity</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 10, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526787920.html">Discussion With President Banzer</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526841516.html">Douglas, Robert P S Contract</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 19, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525417228.html">Draft Press Release On The Occasion Of The Secretary’s Visit</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526785214.html">Ec Food Aid To Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526795261.html">Ec Food Aid To Bolivia - Umr</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 11, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525546895.html">Ecla Conference, La Paz, April 18-26, 1979</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 24, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525615457.html">Ecla Plenary Conference: Committee Ii (Institutional Issues/Program Of Work)</a>
+</td>
+<td class="author-col">
+No Consensus By Committee.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526837678.html">Ecla Population Meeting San Jose</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 23, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525569066.html">Ecla Sessional Committee On Water Resources (Committee Iii)</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526887610.html">Economic Reporting: Cerp 5711 - Production, Assembly And Registration Of Motor Vehicles, Cy1973.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526827274.html">Effects Of Energy Crisis On Bolivia Refs: (A) State A-1520: (B) La Paz A-23: (C) La Paz 1108 Summary: We Believe Ref A Distorts And Overstates Bolivia’s Petroleum Export Earnings Prospects By Construction Of Text And By Calculation That Bolivia Will Earn Us$ 200 Million More In 1974 Than In 1973 From Petroleum Exports. While Report Mentions In Passing Some Rising Payments For Net Oil Exporting Countries, Believe Inadequate Attention Given To Impact On Bolivia. Petroleum Export Earning Increase Likely Be Closer To Us$ 100 Million And Balance Of Payments Likely Be Just Barely In Surplus Although Better Outcome Possible If Export Prices Remain Near Recent Highs. End Summary.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 2, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525614334.html">Election Day Impressions</a>
+</td>
+<td class="author-col">
+Popular Vote. Boeker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526797122.html">Empc/Embosa Refs: (A) State 014154; (B) La Paz 0225; (C) State 013783; (D) A-245 November 26, 1973. Summary: Embassy Agrees That There Are Contradictory Assertions As Stated In Ref A. In View Of These And Because We Not Convinced There Still Is Recourse To Arbitration, We Hesitate To Urge Gob To Arbitrate When Matter Has Been Legally Closed. Not Yet Clear Whether Tye’s Lawyer Effectively Requested Arbitration Before Embosa’s Board Resolved To Liquidate Company Or Whether Arbitration Can Be Requested Following Liquidation Period. End Summary.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526876442.html">Energy Consumption In Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526793783.html">Energy: Oil Trade Data From Bolivia For Year 1973</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 3, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525413705.html">Establishing Pasa Position - Narcotics U.s. Customs Advisor For La Paz, Bolivia</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526832964.html">Establishment Of Narcotics Advisor Position In Usaid/Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526799185.html">Establishment Of Narcotics Advisor Position In Usaid/Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526850161.html">Evaluation Of Intal Performance</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 11, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525538572.html">Ex-President Padilla’s Visit To Us For Medical Treatment</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526799697.html">Expedited Munition Requirements, Government Of Bolivia.</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526799435.html">Expedited Munition Requirements, Government Of Bolivia.</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526867735.html">Exploration Projects In National Reserve Areas</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 20, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525409299.html">Export 79, Trade Fair Of The Americas, Coconut Grove Exhibition Center, Miami, Fla. July 21-28, 1979</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 7, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526845282.html">Export Competition: Large Tractors</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526872314.html">Faa Section 32–Political Prisoners</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526885390.html">Falange Thinking On Current Political Situation</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 18, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526831026.html">Farmabol Case</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526795019.html">Farmabol Case</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 28, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526867333.html">Farmabol Case</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526798463.html">Farmabol Case.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 23, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526810469.html">Fcia Credit Insurance For Sale Of Cotton Ginning Machinery To Cooperation Agricola Warnes, Ltda.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526842628.html">Fiat Concord Tractor Monopoly; Violation Of U.s.- Bolivian Commercial Treaty</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525550423.html">First Lady’s Bolivian Schedule</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 3, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525539418.html">First Person Note From Foreign Minister Guillermo</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526875091.html">Foreign Government Tender</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 3, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526784004.html">Foreign Government Tender: Pre-Selection.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526841702.html">Foreign Investment Climate And Data</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526801708.html">Foreign Ministers’ Meeting Mexico</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526876267.html">Formation Of National Council Of Structural Reforms (Conare)</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 28, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526883481.html">Forthcoming Negotiations Between Government Of Bolivia And Dr.&nbsp;Paz Estenssoro</a>
+</td>
+<td class="author-col">
+Parker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 30, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525569209.html">Fortnight Trends Report</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526884171.html">French Bureau Of Geologic And Mining Research Signs Agreement With Ministry Of Mining</a>
+</td>
+<td class="author-col">
+Parker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526842420.html">Fy 1974 Fms Credit - Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526843247.html">Fy 1974 Fms Credit - Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526885589.html">Fy 75 Iv Nominations</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 18, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525416821.html">Fy 82 Goals And Objectives: Ambassador’s Policy Assess- Ment</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 13, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526879530.html">Geometric Bid For Uranium Air Survey Contract</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 30, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525559865.html">Gob Announces Economic Measures</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 31, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525556180.html">Gob Discussions With Imf</a>
+</td>
+<td class="author-col">
+In Financing
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 7, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525561319.html">Gob Economic Measures</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526795093.html">Gob Entering Commercial Wheat Market. Bolivia Will Soon Enter Commercial Wheat Market To Meet At Least</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 21, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526791829.html">Gob Increases Wages And Selected Food Prices. Summary: Gob Announced Monday Morning January 21, 1974 Increases In Prices Of Rice, Sugar, Wheat Flour, Bread, Coffee, Noodles, Amounting To Approximately 100 Percent Over Previous Officially Quoted Prices. However, In Terms Of Effective Market Prices Increases Were Only About 20 Percent Higher, Except For Bread Which Was Subsidized By Gob. Effective Increase For Bread, Including Further Pan De Batalla Weight Decrease, Was Approximately 100 Percent. Wages And Salaries Increased By Up To 47 Percent For Both Private And Public Employees By Monthly Bonus Of 400 Pesos. End Summary.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 28, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526854806.html">Gob Interest In Purchasing Tanks</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526861247.html">Gob Interest In Purchasing Tanks Exdis</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526878425.html">Gob Mission To Argentina</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 15, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525556111.html">Gob Negotiations With Imf</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526831863.html">Gob Request For Reconstruction Financial Assistance</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526797805.html">Gob Request For Small Arms Ammunition</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 11, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526827787.html">Gob Requests For Additional Loan Assistance</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525419695.html">Gorm For Fy 1981 - Consular Workload</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525536591.html">Guest List For Dinner In Honor Of First Lady</a>
+</td>
+<td class="author-col">
+He Speaks Excellent English.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 5, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525560900.html">Guevara Bids To Extend His Term, Amid An Atmosphere Of Military-Civilian Confrontation</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526845593.html">House Subcommittee Decisions</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526818466.html">Ia-Ecosoc Annual Meeting</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 7, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526821682.html">Ia-Ecosoc Annual Meeting</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526840408.html">Icem And Oas Meeting In Atlanta</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 21, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526831954.html">Idb Annual Meeting Refs: (A) State 34868: (B) La Paz 1587</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526827628.html">Imf Mission To Bolivia Refs: (A) State 31086: (B) La Paz 594</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 11, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526788108.html">Impc</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526860892.html">Impc/Embosa</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526858564.html">Impc/Embosa Problem</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 7, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526845332.html">Impc/Embosa Problem</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 5, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525558947.html">Implementation Of Narcotics Program In Fy 80 - Extension Of University Of Florida Contract</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525561842.html">Inaugural: Mrs.&nbsp;Carter’s Visit</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 6, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525548257.html">Initiative To Name Guevara Interim President May Prosper</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 4, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525418499.html">Inm Authorization To Purchase Household Furniture And Applicances, University Of Florida Contract, Agricultural Development In Coca Zones</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 8, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525535391.html">Inopportune Drop In 1979 Bolivian Cotton Production</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526870425.html">Institute Of Geologic, Mining, And Metallurgic Investigations (Geomin) Created By Bolivian Government</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 17, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525415886.html">Intelligence Report For Sec Of State’s Visit To La Paz,</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 19, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525549020.html">Interim President Lidia Gueiler</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526809111.html">International Funding And Insurance Associates</a>
+</td>
+<td class="author-col">
+Page 02 La Paz 01007 142231z
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526877210.html">Inventory Of Bolivia Trade Problems</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 17, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525567711.html">Investment Dispute - Proposed Gob Takeover Of Us Company</a>
+</td>
+<td class="author-col">
+Raul Garzon.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526825528.html">Iv Program</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526825717.html">Jose Kenneth Penaranda (I-73-0042 Jorge Baro, Ect. Al)</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 19, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525413091.html">Jubilation Marks Bolivia’s Return To Democracy</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 21, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525547491.html">Justification For Imet</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 8, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525538736.html">Klockner Lead-Silver Smelter Project</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526847242.html">Lab Buys Jet</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 21, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526810141.html">Law Of War (Low) Conference: Prg Invitation Refs: A. State 27026: B. State 27778: C. State 34265</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 20, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526863162.html">Letter From President Nixon</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 23, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525414259.html">Letter From President Padilla To President Carter</a>
+</td>
+<td class="author-col">
+End Quote.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526811747.html">Letter From Secretary Kissinger To Bolivian Foreign Minister</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 20, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526852192.html">List Of Potential Invitees To World Energy Conference (Wec)</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 6, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525537834.html">Major Project: Lead/Silver Metallurgical Project</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 6, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526858914.html">Message To The Nation Delivered By President Banzer On June 5, 1974. Quote:</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526809140.html">Mexico Meeting Of Foreign Ministers</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 13, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526806897.html">Mexico Meeting Of Foreign Ministers–Delivery Of Secretary Kissinger’s Letter To Bolivan Foreign Minister And General Discussion</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 20, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525412273.html">Mfa Note On Continuation Of Relations</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526880602.html">Mfm Working Group On Transnational Enterprises</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526856770.html">Mfm Working Group On Transnational Enterprises</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 26, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526882895.html">Military Assistance For Bolivia: Fy 1976-1980 A. Jcs Msg 221205 Aug 74 B. Radio Call Between J5 &amp; Cpt Garcia</a>
+</td>
+<td class="author-col">
+Parker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526795964.html">Military Attitudes Toward Banzer</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526864714.html">Military Equipment For Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 26, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526865206.html">Minister Mining Signs Mineral Exploration Agreement With French Company</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 13, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525412568.html">Modern Fighter Aircraft For Bolivia</a>
+</td>
+<td class="author-col">
+Approximately $200 Million).
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 18, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525419976.html">Mutun Iron And Steel</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 13, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526806402.html">Narcotics Control Budget - Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 13, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525423125.html">Narcotics Control: Commodity Requirement</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 23, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525427108.html">Narcotics: Selection Of Consultants For Tropical And Citrus Fruits Feasibility Studies, Rfp No.&nbsp;3104-802525, Bolivia Agricultural Development In Coca Zones, Prow/Ag 104-0-02-02 The Evaluation Panel Selected Included The Following Individuals: Ing. Clovis Villegas, Director Of Marketing, Project For The Development Of The Chapare - Yungas (Prodes); Ing. Francisco Pereira, Acting Director, Bolivian Agricultural Technology Institute (Ibta); Thomas C. James, Gereral Services Officer, Usemb/La Paz; Carlos E. Ferro, Procurement Officer, Office Of Development Resources, Usaid/ Bolivia; Howard L. Steele, Project Manager, Usda/Oinm. The Panel Met In Two Formal Sessions, May 14 And May 17. On May 17 Each Evaluator Submitted A Technical Evaluation Criteria Sheet And His Written Comments About Each Firm’s Technical Proposal. The Results Are As Follows:</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 27, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526866251.html">National Economic-Planning Council (Coneplan) Signs Cooperation And Technical Assistance Project (Ctap) With Japanese Overseas Technical Cooperation Agency (Otca)</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 3, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526868475.html">National Intelligence Assessment: Working Paper On Potential For Conflict Between Chile And Peru</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 17, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525418481.html">Necessary Documentation For Ford Bronco Purchased By Carlos Lopez To: Ford Motor Co 815 Connecticut Ave, Nw Washington Dc 20006</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 18, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526831130.html">New Commander, U.s. Military Group, Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 26, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525425333.html">October 25 “Anti-Imperialist” Demonstrations Draw Large Crods</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 26, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526882370.html">Opic Insurance Application: Charles E. Stokes</a>
+</td>
+<td class="author-col">
+Parker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526844512.html">Opic Insurance Applications: John Lamar Lessor And Charles E. Stokes State Pass Opic Summary. Gob Has Sent Note Indicating Min Ag’s Approval Subject Opic Investment. Telegram Discusses Form Of Note And Comments On Land Investments In Bolivia. End Summary.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 6, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526886716.html">Opic Insurance Operations In Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 8, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525413110.html">Padilla Passes The Baton To Guevara Who Promises Government Of National Conciliation</a>
+</td>
+<td class="author-col">
+And The Future.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526869838.html">Paho-Bolivian Position On Election Of Director</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526784163.html">Patrol Craft For Bolivian Navy; Letter Offer From Adm. Zumwalt To Bolivian Cno.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526854981.html">Paz, Lourdes</a>
+</td>
+<td class="author-col">
+Page 02 La Paz 03446 152018z
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526849836.html">Pdc-Pra And Mnri Form New Opposition Alliance</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 3, 1978
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526026117 Boeker Natusch 3Aug1978.html">Pereda Making Headway On His Election Plan</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 1, 1978
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526026117 Boeker Natusch Aug1978.html">Pereda’s Plans</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 31, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525409284.html">Peru Coca Survey Team Visit To Bolivia</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 27, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525414898.html">Petroleum: Production Declines</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526844302.html">Pl 480 - Title I Wheat</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526788819.html">Pl 480 Title I For Bolivia</a>
+</td>
+<td class="author-col">
+Page 03 La Paz 00246 121338z
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 7, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526859375.html">Pl 480, Title I: Cup Payment</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526849287.html">Pl-480 Title I Lima For Agatt</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 11, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526788026.html">Pl-480 Title I Program Reference: State 5916</a>
+</td>
+<td class="author-col">
+Page 02 La Paz 00244 112110z
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526793247.html">Pl-480 Title I Wheat. Refs: (A) State 244; (B) La Paz 0430; (C) La Paz 0321.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526783197.html">Pl-480 Title I: Agreement For 1974</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526786935.html">Pl-480 Title I: Possible Further Use Of Authority To Exchange Pl 480 Wheat For Peruvian Flour.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526786757.html">Pl-480 Wheat And Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526873866.html">Pl-480, Title I, Cup Payment</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526879050.html">Planned Revisions To Gob Project And Planning Entities</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526851749.html">Political Tensions Rise Over Relations With Brazil</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526881827.html">Porcine Breeders Representation At Santa Cruz Fair</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526887583.html">Port Talks End Summary. Three-Day Meeting Of Port Commissions Of Bolivia And Chile Concluded In La Paz September 4. In Subsequent Days Bolivian Press Has Carried Debate Over Whether Talks Success Or Failure. In Attempt At Last Word Fon Off Issued Statement Published Sept.&nbsp;6 That Chilean Delegations’s Agreement To Consider Bolivian Social And Economic Needs When Setting Port Charges Is Clear Advance For Bolivian Interests. End Summary.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 20, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526881383.html">Possible Appointment Of New Bolivian Ambassador To The United States. Reference: La Paz 4436</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526835897.html">Possible Bolivian Interest In Usg Good Offices To Achieve Outlet To The Sea For Assistant Secretary Kubisch From Ambassador</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526876872.html">Possible Reopening Of Central Obrera Boliviana (Cob)</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 19, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525547943.html">Preliminary Site Survey - La Paz, Bolivia</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526837509.html">President Banzer Announces New Concept Of Government</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526848160.html">President Banzer Comments On Us Economic And Military Assistance In Private Conversation With Ambassador</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 21, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526862990.html">President Banzer Comments To Ambassador On Soviet Offers Of Military Equipment</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526797312.html">President Banzer’s Speech Announcing State Of Siege</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526836192.html">President Convokes “National Assembly” To Discuss Access To The Sea Issue</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 23, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526853739.html">President’s Geisel And Banzer Sign Gas And Industrial Development “Act”</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526789578.html">Principal Bolivian Contacts For Bolivia-Brazil Act Of Cooperation</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526875520.html">Private Trade Opportunity</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526842783.html">Private Voluntary Assistance For Disasters</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 15, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526880590.html">Product Lists For Gsp</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 11, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525416192.html">Projected 1979 Bolivian Tin Production</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525537839.html">Property Matter: Ford Pickup</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 5, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525555948.html">Proposed Fourth Amendment To The Title I/Iii Pl 480 Agreement Of May 31, 1978 Refs: (A) La Paz 6784; (B) La Paz 7870; (C) State 131738 (May 24, 1978); (D) State 109068; (E) La Paz 10034; (F) State 310295 (G) Blohm-Boeker Telcon December 5</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 8, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525411197.html">Proposed Reply Of President Carter To President Padilla’s Letter Of July 6</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 11, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526871905.html">Public Safety Training In Us</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 3, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525536544.html">Q’s And A’s From 11/2/79 Noon Press Briefing</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526794036.html">Reaction To Gob Economic Measures</a>
+</td>
+<td class="author-col">
+Stzeman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 28, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526810876.html">Reaction To Mexico City Foreign Ministers Meeting Reference: La Paz 1177</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526835052.html">Recent Developments In Bolivia’s Quest For An Access To The Sea. Panama For Uscincso</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526861409.html">Rector And Vice-Rector Of Umsa Resign</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526815274.html">Request For Expedited Action–Map Equipment</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 20, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526808959.html">Request For Faa Inspector</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526884014.html">Request For Purchase Of Ammunition</a>
+</td>
+<td class="author-col">
+Parker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Dec 4, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525415099.html">Request For Status On Background Investigation</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 6, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526800336.html">Request For Usia Preparation Comprehensive News Story On Pl 480 Developments.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 13, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525423771.html">Response To Letter From Hugo Banzer To The President</a>
+</td>
+<td class="author-col">
+Cyrus Vance, Secretary of State
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526857381.html">Rising Political Tensions</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526832197.html">Sale Of Two Patrol Craft To Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526875960.html">Secretary’s Initiative On Double Taxation Treaties State 162751</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 13, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526880204.html">Secretary’s Meeting With Latin American Colleagues At Unga</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526857878.html">Short Range Development Plans And Gas Reserves</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 6, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526886950.html">Sidersa Seeks Embassy Help To Hire Consultants</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 15, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525727867.html">Socialist International Statement On Bolivia</a>
+</td>
+<td class="author-col">
+Weissman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526795005.html">South American Placers Inc.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 28, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526833899.html">Spanish Version Of A Speec On The Andes Pact</a>
+</td>
+<td class="author-col">
+Morton
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526785247.html">Special Trade Opportunity: Petroleum Refineries - Follow-Up</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526884920.html">Standardization Of Color Tv Project–Andean Area</a>
+</td>
+<td class="author-col">
+Parker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526796798.html">State Of Siege Decree</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 21, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526881508.html">Status Of Bolivian Zoological Suppliers</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526840627.html">Status Of Caf President Linares</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526818477.html">Sugar Legislation</a>
+</td>
+<td class="author-col">
+An
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526822092.html">Sugar Legislation</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526860553.html">Sugar Sales</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526855475.html">Support For Local Food And Population Crisis Committees</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526834460.html">Technical Assistance Requested From Gob</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526839191.html">Text Of “Declaration Of Cochabamba”</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 31, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525411473.html">Text Of Bolivian Access To Sea (Spanish)</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526845148.html">Textile Trade Mission, Venezuela, Colombia, And Brazil, June, 1974</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525542027.html">The Bolivian Economy Limps Into 1979</a>
+</td>
+<td class="author-col">
+In International Reserves.
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 14, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525411598.html">The Economic Effects Of Bolivia’s Political Crisis - Tin</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526884131.html">The Return Of Ciro Humboldt</a>
+</td>
+<td class="author-col">
+Parker
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526826820.html">Trade Opportunity: Agricultural Commodites</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526834159.html">Trade Opportunity: Hotel Development In Cochabamba</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526834405.html">Trade Promotion: U.s. Exports To Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 7, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526821658.html">Travel In Bolivia Of Rearadmiral Earl F Rectanus, Usn Director Of Naval Intelligence. From: Ambassador For Director Of Naval Intelligence</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 1, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526812674.html">Travel Of President Banzer</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 13, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525552327.html">Tripartite Negotiations Continue</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526849749.html">Two Week Training School In La Paz, Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526796710.html">U.s. Exports To Bolivia</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Oct 24, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525415880.html">Un: Bolivia Protests Sale Of Tin From U.s. Strategic Reserves</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526855710.html">University Political Scene</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526876061.html">Uranium Exploration Contract With Italian Firm</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 28, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526866942.html">Uranium Exploration Contract With Italian Firm</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 16, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525413350.html">Us Response To Economic Plight Of Bolivia’s New Civilian Government</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 21, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525557539.html">Us/Gob Narcotics Program: Proposed Demarche By President Carter’s Representative To Bolivian Inaugural</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 5, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525550181.html">Use Of Grant Funds To Supplement Salary Of Executive Director Of Prodes, Agricultural Development In Coca Zones Project 104-0-02-02-90002.</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526785670.html">Victor Paz Exiled</a>
+</td>
+<td class="author-col">
+Confid*Ntial
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 14, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526830803.html">Vip Travel: Plans Of Minister Of Labor: New Arrival Time</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jun 24, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526863433.html">Visit By National Bank Examiners</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 6, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526821899.html">Visit Of Bolivian Businessman</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526832673.html">Visit Of Los Team To Latin America</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 19, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526880913.html">Visit Of Professor Cochran To Bolivia For: Us Del Los</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526878061.html">Visit Of Professor Cochran To Bolivia Reference: Usna Message 04650 Dtg 081320z Aug 74; Dao Message 021330z Aug 74; Usna Message 04650 Dtg 291901z Jul 74</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 5, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525419997.html">Visit Of The Chase Manhattan Bank, Na To: Patrick B. Blake Vice President</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 25, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526832929.html">Visit To Washington–Dr.&nbsp;Marcos Lezama, Venezuelan Writer</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Nov 5, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525423063.html">W/W Charles And Marie Hale</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526876917.html">W/W Dr Fred A Schiff For: Manager</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 5, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525414031.html">W/W Frank Albert Leavens</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 1, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525419655.html">W/W Frank Albert Leavens</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 3, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525538056.html">W/W Funds: Judith Vicente</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 5, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526837421.html">W/W Harry Goulding For: Harry J &amp; Velma B Goulding</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526792249.html">W/W Mickey Pegues For: Francine Pegues</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 22, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526793804.html">W/W Mickey, Pegues For: Mrs.&nbsp;Charles Pegues</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 13, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526880556.html">W/W Schiff, Frederick</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 7, 1979
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738525428724.html">Walter Guevara Arze, Bolivia’s New Interim President</a>
+</td>
+<td class="author-col">
+Paul Boeker, US Ambassador to Bolivia
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 8, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526846166.html">Welfare &amp; Whereabouts - Congressional Interest</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 16, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526790385.html">Wheat Problem Refs: (A) La Paz 173: (B) State 5614; (C) State 5919</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 2, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526868357.html">Working Group On Transnational Corporations</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Sep 6, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526886681.html">Wtdr - Lloyd Aereo Boliviano</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 4, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526784271.html">Wtdr - Turin Motors Ltda. Refs: Usdoc 18905 And La Paz A-236 Of November 9, 1973.</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526856904.html">Ypfb Signs Eighth Operations Contract</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Mar 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526828483.html">Ypfb–Rescheduling Of Gulf Settlement And Implications For Budget And Balance Of Payments</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 11, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526802199.html">[subject not available]</a>
+</td>
+<td class="author-col">
+French Acting
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526870917.html">[subject not available]</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 23, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526882364.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Apr 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526838836.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 12, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526879103.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Morton
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Aug 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526877563.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 9, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526785306.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Morton
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 29, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526796029.html">[subject not available]</a>
+</td>
+<td class="author-col">
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jul 10, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526871122.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Jan 31, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526798001.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+May 30, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526857043.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Brewin
+</td>
+</tr>
+<tr>
+<td class="date-col">
+Feb 13, 1974
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526807836.html">[subject not available]</a>
+</td>
+<td class="author-col">
+Stedman
+</td>
+</tr>
+<tr>
+<td class="date-col">
+</td>
+<td class="title-col">
+<a href="../cables/filename_1738526838576.html"></a>
+</td>
+<td class="author-col">
 </td>
 </tr>
 </tbody>
@@ -313,6 +4160,9 @@ window.Quarto = {
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="cables-list-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

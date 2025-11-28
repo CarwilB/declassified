@@ -16,25 +16,25 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "OPIUM, SURVEYS"
 ---
 
-::: {.cable-meta}
+::: cable-meta
 :::
 
 # DEPARTMENT OF STATE TELEGRAM
+
 **UNCLASSIFIED**
 
-Mission concurs with Peru Coca Survey Team visit to Bolivia. Team will be met and other details arranged. Confirmation of visiting dates will be made after August 6, 1979 due to the pending change of government.
-Boeker
+Mission concurs with Peru Coca Survey Team visit to Bolivia. Team will be met and other details arranged. Confirmation of visiting dates will be made after August 6, 1979 due to the pending change of government. Boeker
 
-***
+------------------------------------------------------------------------
 
 #### Message Attributes
 
-- **Document Number:** 1979LAPAZ06523
+-   **Document Number:** 1979LAPAZ06523
 
-- **Date:** July 31, 1979
+-   **Date:** July 31, 1979
 
-- **Classification:** UNCLASSIFIED
+-   **Classification:** UNCLASSIFIED
 
-- **Declassified:** 01 jan 1960
+-   **Declassified:** 01 jan 1960
 
-- **Concepts:** OPIUM, SURVEYS
+-   **Concepts:** OPIUM, SURVEYS

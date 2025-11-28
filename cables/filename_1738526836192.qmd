@@ -1,5 +1,5 @@
 ---
-title: "President Convokes "National Assembly" To Discuss Access To The Sea Issue"
+title: "President Convokes \"National Assembly\" To Discuss Access To The Sea Issue"
 author: "Stedman"
 date: "April 04, 1974"
 editor: visual
@@ -7,7 +7,7 @@ cable-date: "April 04, 1974"
 cable-from: "AmEmbassy La Paz"
 cable-to: "SecState WashDC 2729"
 cable-info: "Oct-01 Iso-00 Ciae-00 Dode-00 Pm-07 H-03 Inr-10 L-03 Nsae-00 Nsc-07 Pa-04 Rsc-01 Prs-01 Sp-03 Ss-20 Usia-15 Coa-02 Dlos-06 Io-14 Aid-20 Acda-19 Drc-01 /157 W --------------------- 084058 R 041237z Apr 74"
-cable-subject: "President Convokes "National Assembly" To Discuss Access To The Sea Issue"
+cable-subject: "President Convokes \"National Assembly\" To Discuss Access To The Sea Issue"
 cable-tags: "PINT, PFOR, BL, CI, PE"
 cable-ref: "LA PAZ 2024"
 cable-doc-number: "1974LAPAZ02065"
@@ -16,28 +16,29 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FOREIGN POLICY POSITION, POLITICAL PARTIES, PUBLIC ATTITUDES, MEETINGS, WATERWAY ACCESS"
 ---
 
-::: {.cable-meta}
+::: cable-meta
 :::
 
 # DEPARTMENT OF STATE TELEGRAM
+
 **UNCLASSIFIED**
 
-1. As reported in Reftel, President Banzer announced his decision March 31 to meet with group of distinguished Bolivians (ex-presidents and foreign ministers, political party and labor leaders, etc.) to discuss possible strategies for regaining the country's access to the sea. In subsequent days, response to Banzer's proposal in press and public opinion has been unanimously favorable: In the view of prestigious La Paz daily El Diario, "few political initiatives have been so well received in recent times." Even opposition politicians such as Christian Democratic Party chief Benjamin Miguel and PRA leader Walter Guevara welcomed the President's invitation to attend meeting, although both complained that exiled oppositionists such as ex-presidents Paz Estenssoro, Siles Zuazo, Ovando and Torres should also have been permitted to attend.
+1.  As reported in Reftel, President Banzer announced his decision March 31 to meet with group of distinguished Bolivians (ex-presidents and foreign ministers, political party and labor leaders, etc.) to discuss possible strategies for regaining the country's access to the sea. In subsequent days, response to Banzer's proposal in press and public opinion has been unanimously favorable: In the view of prestigious La Paz daily El Diario, "few political initiatives have been so well received in recent times." Even opposition politicians such as Christian Democratic Party chief Benjamin Miguel and PRA leader Walter Guevara welcomed the President's invitation to attend meeting, although both complained that exiled oppositionists such as ex-presidents Paz Estenssoro, Siles Zuazo, Ovando and Torres should also have been permitted to attend.
 
-2. Sessions of this meeting, called a "National Assembly" by President Banzer, will commence at 10 a.m. on April 5 in Command and General Staff School in Cochabamba. Together with President Banzer, government officials and members of Joint Command of Armed Forces, five former Presidents of Bolivia (David Toro, Mamerto Urriolagoitia, Enrique Hertzog, Hugo Ballivian and Luis Adolfo Siles Salinas) and many former foreign ministers (including Guevara, Alberto Crespo Gutierrez and Mario Gutierrez) will attend meeting, which is expected to conclude on April 6. Banzer will announce results of sessions to nation in a speech to be delivered following closing of conference.
+2.  Sessions of this meeting, called a "National Assembly" by President Banzer, will commence at 10 a.m. on April 5 in Command and General Staff School in Cochabamba. Together with President Banzer, government officials and members of Joint Command of Armed Forces, five former Presidents of Bolivia (David Toro, Mamerto Urriolagoitia, Enrique Hertzog, Hugo Ballivian and Luis Adolfo Siles Salinas) and many former foreign ministers (including Guevara, Alberto Crespo Gutierrez and Mario Gutierrez) will attend meeting, which is expected to conclude on April 6. Banzer will announce results of sessions to nation in a speech to be delivered following closing of conference.
 
-3. **Comment:** Consultative meeting in Cochabamba reemphasizes decision by Banzer government, reported in Reftel, to give renewed policy emphasis to century-old theme of "Return to the Sea." Meeting will also serve government's goal of uniting diverse strands of domestic political opinion behind this foreign policy issue, while distracting public attention from such pressing internal problems as food shortages and inflation. We expect that government will continue to generate high level of official activity and public debate over access to the sea question until either popular interest wanes or new issues arise to take priority over this familiar theme in Bolivian foreign policy.
+3.  **Comment:** Consultative meeting in Cochabamba reemphasizes decision by Banzer government, reported in Reftel, to give renewed policy emphasis to century-old theme of "Return to the Sea." Meeting will also serve government's goal of uniting diverse strands of domestic political opinion behind this foreign policy issue, while distracting public attention from such pressing internal problems as food shortages and inflation. We expect that government will continue to generate high level of official activity and public debate over access to the sea question until either popular interest wanes or new issues arise to take priority over this familiar theme in Bolivian foreign policy.
 
-***
+------------------------------------------------------------------------
 
 #### Message Attributes
 
-- **Document Number:** 1974LAPAZ02065
+-   **Document Number:** 1974LAPAZ02065
 
-- **Date:** April 04, 1974
+-   **Date:** April 04, 1974
 
-- **Classification:** UNCLASSIFIED
+-   **Classification:** UNCLASSIFIED
 
-- **Declassified:** 01 JAN 1960
+-   **Declassified:** 01 JAN 1960
 
-- **Concepts:** FOREIGN POLICY POSITION, POLITICAL PARTIES, PUBLIC ATTITUDES, MEETINGS, WATERWAY ACCESS
+-   **Concepts:** FOREIGN POLICY POSITION, POLITICAL PARTIES, PUBLIC ATTITUDES, MEETINGS, WATERWAY ACCESS
