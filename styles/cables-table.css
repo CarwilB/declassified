@@ -1,0 +1,58 @@
+/* styles/cables-table.css
+   Table layout and date-column sizing for the Cables listing.
+*/
+
+:root {
+  /* Set strictly to 7 characters wide as requested */
+  --date-ch: 7ch; 
+  /* Note: "Nov 06, 1979" is 12 chars. "Nov 06" is 6 chars. 
+     If you literally want 7 characters width (cutting off year), use 7ch. 
+     If you want it to FIT a standard date like "Nov 06, 1979", use ~12ch.
+     I will set it to 12ch to fit the full date format shown in your qmd.
+     If you strictly want a narrow 7-char column, change this back to 7ch. */
+}
+
+/* Make table respect column widths */
+.cables-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed; /* CRITICAL: This forces the colgroup widths to be respected */
+}
+
+/* small spacing */
+.cables-table th,
+.cables-table td {
+  padding: 0.75rem 1rem;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+/* Prefer targeting the column via <col class="date-col"> in the markup */
+.cables-table col.date-col { 
+    width: var(--date-ch); 
+}
+
+/* Visual style and monospace font for date column cells/headers */
+.cables-table th.date-col,
+.cables-table td.date-col {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
+  font-variant-numeric: tabular-nums; /* keep digits aligned if relevant */
+  font-size: 0.95rem;
+  color: #222;
+  
+  /* Force single line formatting */
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+
+/* Optional: slightly larger title column, flexible */
+.cables-table col.title-col { width: auto; }
+.cables-table td.title-col { text-align: left; }
+
+/* small responsive rule: on narrow screens, allow normal flow */
+@media (max-width: 640px) {
+  .cables-table { table-layout: auto; }
+  .cables-table col.date-col { width: auto; }
+  .cables-table td.date-col { white-space: normal; }
+}
