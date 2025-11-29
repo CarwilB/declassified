@@ -1,4 +1,4 @@
-<table class="cables-table">
+<table class="cables-table" class="list">
   <colgroup>
     <col class="date-col" />
     <col class="title-col" />
@@ -13,14 +13,14 @@
   </thead>
   <tbody>
     <% for (const item of items) { %>
-      <tr>
-        <td class="date-col">
+      <tr <%= metadataAttrs(item) %>>
+        <td class="date-col" class="listing-date">
           <%= item.date %>
         </td>
-        <td class="title-col">
+        <td class="title-col" class="listing-title">
           <a href="<%- item.path %>"><%= item.title %></a>
         </td>
-        <td class="author-col">
+        <td class="author-col" class="listing-author">
           <%= item.author %>
         </td>
       </tr>

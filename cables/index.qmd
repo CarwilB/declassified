@@ -7,6 +7,8 @@ listing:
   id: cables-list
   contents: . # <--- UPDATE THIS to your actual folder name
   template: cables.ejs
+  sort-ui: true
+  filter-ui: true
 column: "body-outset"
 sort: "date desc"
 date-format: "MMM D, YYYY"
