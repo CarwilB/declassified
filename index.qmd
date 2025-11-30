@@ -1,12 +1,10 @@
 ---
-title: "declassified"
+title: "declassified: <br> American Diplomatic Cables from Bolivia"
 css: styles/sans-serif.css
 ---
 
-[This is a Quarto website.](project: type: websiteformat: html: theme: cosmo css: styles.css include-in-header: text: | <link rel="preconnect" href="https://fonts.googleapis.com" <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Special+Elite&display=swap" rel="stylesheet">)
+This is an experimental website for sharing American diplomatic cables that have been declassified and pertain to Bolivia. It is also an experiment in making a collection of such documents more readable and searchable. While such cables are freely available from sources like the National Archives, State Department FOIA library, and the U.S. Declassified Documents Online, they are often hard to read due to formatting issues, and they are not easily searchable as a collection.
 
-[To learn more about Quarto websites visit https://quarto.org/docs/websites.](project: type: websiteformat: html: theme: cosmo css: styles.css include-in-header: text: | <link rel="preconnect" href="https://fonts.googleapis.com" <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Special+Elite&display=swap" rel="stylesheet">)
+Cables presented here have been processed to improve readability, and metadata has been added to facilitate searching and browsing. The collection is still a work in progress, and more cables will be added over time. 
 
-```{r}
-1 + 1
-```
+For now, please do not cite URLs on this website as stable references, as the site structure and filenames can be expected to change. One planned change is inclusion of the original source files (usually PDFs) to make it easier to verify the authenticity of the documents.
