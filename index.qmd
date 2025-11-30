@@ -1,5 +1,6 @@
 ---
 title: "declassified: <br> American Diplomatic Cables from Bolivia"
+css: styles/sans-serif.css
 ---
 
 This is an experimental website for sharing American diplomatic cables that have been declassified and pertain to Bolivia. It is also an experiment in making a collection of such documents more readable and searchable. While such cables are freely available from sources like the National Archives, State Department FOIA library, and the U.S. Declassified Documents Online, they are often hard to read due to formatting issues, and they are not easily searchable as a collection.

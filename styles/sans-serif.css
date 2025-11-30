@@ -1,0 +1,25 @@
+/* styles/sans-serif.css
+   Override monospace fonts with sans-serif for specific pages (home, about).
+   Include this CSS in page YAML frontmatter to apply non-monospaced fonts.
+*/
+
+:root {
+  --sans-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Override body font to use system sans-serif fonts */
+body {
+  font-family: var(--sans-font);
+}
+
+/* Override table styling to use sans-serif fonts */
+table,
+table th,
+table td {
+  font-family: var(--sans-font);
+}
+
+/* Override any cable metadata container if present on these pages */
+.cable-metadata-container {
+  font-family: var(--sans-font);
+}

@@ -1,6 +1,7 @@
 ---
 title: "About"
 author: "Carwil Bjork-James"
+css: styles/sans-serif.css
 ---
 
 This website was created by **Carwil Bjork-James**, a professor of anthropology at Vanderbilt University, as an extension of his research on protest, state violence and political change in Bolivia. Further information about his work is at his [research website](https://carwilb.github.iol), [blog](https:://woborders.blog/), and the book website for [*The Sovereign Street: Making Revolution in Urban Bolivia*](https://sovereignstreet.org/).
