@@ -16,7 +16,7 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "ZINC, CONSTRUCTION, MINING INDUSTRY"
 ---
 
-::: cable-meta
+::: {.cable-meta}
 :::
 
 # DEPARTMENT OF STATE TELEGRAM

@@ -16,7 +16,7 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "EXILES, ANARCHY, SOCIAL CHANGE, CIVIL DISORDERS, EXTORTION, COMMUNIQUES, PARTY MEETINGS, PARTY LEADERS,"
 ---
 
-::: cable-meta
+::: {.cable-meta}
 :::
 
 # DEPARTMENT OF STATE TELEGRAM

@@ -16,7 +16,7 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "OPIUM, SURVEYS"
 ---
 
-::: cable-meta
+::: {.cable-meta}
 :::
 
 # DEPARTMENT OF STATE TELEGRAM
