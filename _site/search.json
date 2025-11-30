@@ -1297,9 +1297,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "declassified",
+    "title": "declassified:  American Diplomatic Cables from Bolivia",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is an experimental website for sharing American diplomatic cables that have been declassified and pertain to Bolivia. It is also an experiment in making a collection of such documents more readable and searchable. While such cables are freely available from sources like the National Archives, State Department FOIA library, and the U.S. Declassified Documents Online, they are often hard to read due to formatting issues, and they are not easily searchable as a collection.\nCables presented here have been processed to improve readability, and metadata has been added to facilitate searching and browsing. The collection is still a work in progress, and more cables will be added over time.\nFor now, please do not cite URLs on this website as stable references, as the site structure and filenames can be expected to change. One planned change is inclusion of the original source files (usually PDFs) to make it easier to verify the authenticity of the documents."
   },
   {
     "objectID": "boeker-1979.html",
@@ -1313,7 +1313,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This website was created by Carwil Bjork-James, a professor of anthropology at Vanderbilt University, as an extension of his research on protest, state violence and political change in Bolivia. Further information about his work is at his research website, blog, and the book website for The Sovereign Street: Making Revolution in Urban Bolivia.\nThis experiment grew out of a desire to share cables like “The Walpurgisnacht of the Bolivian Right: The Hangover Will Be Bad,” sent by US Ambassador Paul Boeker amid the November 1979 coup by General Alberto Natusch Busch. That fairly stunning document expressed outrage over sudden turn away from democracy, during a rare moment of benevolence in American policy towards Bolivia. Diplomatic cables like that one reveal both the intentions and perspectives of American diplomats and behind-the-scenes details, like the fact that Natusch had been appealing to the United States for support of his planned coup for six months prior.\nThe intent here is to share this kind of document in a way that allows readers to peer over diplomats’ shoulders in a readable way.\nThe website is designed with Quarto, with text processing performed using the programming language R. Reformatting is done with an API call to Google’s Gemini-2.5-Flash."
   },
   {
     "objectID": "cables/filename_1738525415886.html",

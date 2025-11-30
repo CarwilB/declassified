@@ -22,10 +22,8 @@ DEPARTMENT OF STATE TELEGRAM
 
 ------------------------------------------------------------------------
 
-
-::: {.cable-meta}
+::: cable-meta
 :::
-
 
 ### 1. Summary
 

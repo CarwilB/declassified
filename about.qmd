@@ -1,9 +1,12 @@
 ---
 title: "About"
+author: "Carwil Bjork-James"
 ---
 
-About this site
+This website was created by **Carwil Bjork-James**, a professor of anthropology at Vanderbilt University, as an extension of his research on protest, state violence and political change in Bolivia. Further information about his work is at his [research website](https://carwilb.github.iol), [blog](https:://woborders.blog/), and the book website for [*The Sovereign Street: Making Revolution in Urban Bolivia*](https://sovereignstreet.org/).
 
-```{r}
-1 + 1
-```
+This experiment grew out of a desire to share cables like "[The Walpurgisnacht of the Bolivian Right: The Hangover Will Be Bad](/boeker-1979.html)," sent by US Ambassador Paul Boeker amid the November 1979 coup by General Alberto Natusch Busch. That fairly stunning document expressed outrage over sudden turn away from democracy, during a rare moment of benevolence in American policy towards Bolivia. Diplomatic cables like that one reveal both the intentions and perspectives of American diplomats and behind-the-scenes details, like the fact that Natusch had been appealing to the United States for support of his planned coup for six months prior.
+
+The intent here is to share this kind of document in a way that allows readers to peer over diplomats' shoulders in a readable way.
+
+The website is designed with [Quarto](https://quarto.org), with text processing performed using the programming language R. Reformatting is done with an API call to Google's Gemini-2.5-Flash.

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
   
 filters:
   - cable-header.lua # Include the new Lua filter
@@ -13,6 +14,13 @@ website:
       - href: cables/index.qmd
         text: Cables
       - about.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/CarwilB/declassified
+          - text: Report Issue
+            href: https://github.com/CarwilB/declassified/issues
 
 collections:
   cables:
