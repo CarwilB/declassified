@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "TIN, LAND, MEETINGS, MINING INDUSTRY, JOINT VENTURES, NEGOTIATIONS, TAXES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. In hour and half meeting with Emboffs Minmines agreed to prudent postponement of automatic revision of January 26, 1974 to Gob of Sapi's unworked concessions about (12,000 hectares) as ordered by Law Decree No. 10998 of July 26, 1973. Embassy believes postponement may be one month.
 

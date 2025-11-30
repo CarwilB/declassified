@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "LABOR, PEACE, ELECTIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** The relatively quiet labor scene that prevailed in Bolivia during 1978 has continued into the first part of 1979. The trade unions, eager to avoid strikes that could jeopardize the democratization process, have been moderate in their wage demands, which the business sector and the GOB have been willing to accommodate. The result has been 14 months of relative labor peace. While most observers expect quiescence to continue through the July elections, there are three factors that could destabilize the situation: (A) increasing pressure from the rank and file for additional wage increases because of the rising rate of inflation; (B) a public posture by the GOB not to grant any wage increases to public sector employees and leave this question to the incoming elected government; and (C) the upcoming (May 1) congress of the Bolivian Workers Center (COB) and the possibility that longtime COB leader Juan Lechin Oquendo might try to provoke labor agitation in order to enhance his reelection bid. Nevertheless, with labor's wanting to avoid any disruption of the democratization process, the chances of avoiding serious strikes appear to be reasonably good. End summary.
 

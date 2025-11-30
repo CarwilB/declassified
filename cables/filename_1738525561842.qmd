@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "INAUGURATION, VISITS, PRESS RELEASES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Following is press movements only to be coordinated with staff schedule.
 

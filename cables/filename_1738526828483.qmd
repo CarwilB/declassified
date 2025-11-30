@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PETROLEUM, SALES, BALANCE OF PAYMENTS, BUDGET DEFICITS, PRICE TRENDS, FOREIGN POLICY POSITION,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. During courtesy call made on him March 11, recently appointed Minister of Energy and Hydrocarbons Jimenez asked me to consider recommending to Washington the use of our "good offices" to assist in the rescheduling of payments to Gulf. He said that at present prices for sales, Bolivia will be paying $2 million a month to Gulf and thus will liquidate remaining approximately $70 million of debt in three or four years. Minister said that government is receiving criticism in several quarters for maintaining rates of payment to Gulf in face of desperate need for use of these resources for budgetary and investment purposes. While he realized government could defend itself to some extent by asserting that percentage arrangement was beneficial to Bolivia in event production and sales declined, this argument hardly satisfies solicitants for increased budgetary allocations under present high world prices of petroleum. According to Minister, Gulf has offered to accept lump sum payment at somewhat smaller amount, but this would place GOB in position of having to negotiate commercial bank credit over short period at high interest rates. Minister Jimenez said that Bolivian representatives had put several alternatives forward to Gulf which is expected to respond within a week or so. Minister not optimistic that Gulf will accept any of these alternatives and hence asked for USG "good offices" so as to free up sorely needed funds for current uses now being derived from high petroleum prices. Minister was well briefed on conversation reported in State 034718 but asked us to reconsider position outlined by BC Deputy Director Lowenthal.
 

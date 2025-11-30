@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "CONSTITUTIONAL LAW, INTERIM GOVERNMENT, PRESIDENTIAL ELECTIONS, DISPUTED ELECTIONS, PERSONNEL"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. An initiative tabled by an ADN senator on August 5 aimed at permitting Senate leader Walter Guevara Arze to be named as Bolivia's interim president has gained considerable momentum and may be near implementation. Such a compromise would seem to be consonant with the constitution, which provides for the head of the Senate to preside over the government in the absence of the elected President and Vice President.
 

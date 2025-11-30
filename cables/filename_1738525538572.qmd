@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "MEDICAL CARE, POLITICAL LEADERS, VISITS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. GENERAL DAVID PADILLA ARANCIBIA, PRESIDENT OF
 BOLIVIAN UNTIL AUGUST 8, 1979, PLANS TO VISIT THE US

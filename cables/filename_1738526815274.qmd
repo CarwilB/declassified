@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PROCUREMENT, MILITARY EQUIPMENT, MILITARY ASSISTANCE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. The Embassy appreciates the careful review made by the Department of the Army of the delivery status of already funded MAP items destined for Bolivian Army Tipo regiments. We are particularly pleased that the M-113A1 armored personnel carriers (14) and the 4.2 in. mortars (11) and the AN/VRC 18 radios (4) are scheduled for delivery not later than June 30 of this year. We are mindful of the difficulties inherent in the delivery schedules for AN/GRC and AN/PRC radios and for the 81 mm mortars, but hope that something can be done to accelerate delivery of at least a few of these items ahead of the dates as given in Reftel A. As indicated in Reftel B, even token deliveries of these items would assist us in dealing with recurrent GOB complaints that we are falling behind in our commitments under our Military Assistance Program to Bolivia.
 2. In view of the reasons given for the inability to forecast deliveries for the 81 mm mortars and the radios, we do not feel it would be particularly useful for DOD to send an officer to Bolivia unless he would have authority to advance delivery dates ahead of the schedules given in Reftel A.

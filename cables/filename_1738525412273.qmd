@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "FOREIGN RELATIONS, TEXT, DIPLOMATIC NOTES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Embassy has received today, November 20, a circular note from Bolivian MFA dated November 17, 1979, expressing GOB's "desire to continue the cordial relations existing between the two countries", Spanish text as follows:
 

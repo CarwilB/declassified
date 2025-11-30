@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "POLITICAL STABILITY, TRENDS, POLITICAL SITUATION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** Since the beginning of the YAR, President Padilla has firmly asserted control over Bolivia's governing military junta, skillfully deflecting potential challenges to his leadership and the democratization process. At the same time, however, he has resisted taking any significant action to shore up the nation's sagging economy and has allowed corruption in the armed forces and the government to spread unchecked. Against this background, the civilian political groups have been organizing slowly. Siles Zuazo's UDP coalition, initially plagued by defections and bitter internal dissension over Siles' choice of the MIR's Paz Zamora for the vice presidential slot, finally jelled on April 9. Paz Estenssoro, whose electoral alliance was formalized that same date, superficially appears to be in a better position than Siles Zuazo—but Siles, as last year, could prove to be the more effective vote getter. Bernal, who may hold the key to the presidency in the event of a congressional runoff, thus far has concentrated on cultivating the rural vote in Cochabamba and Oruro, while former President Banzer, the odd man out, has publicly announced that he will launch his own presidential bid.
 

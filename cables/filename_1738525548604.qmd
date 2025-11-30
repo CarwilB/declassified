@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TREATY RATIFICATION, COMMON MARKETS, ESTABLISHMENT OF OFFICES, CENTRAL LEGISLATURE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. On October 25 the following representatives of Andean Pact governments signed the treaty (Tratado Constitutivo del Parlamento Andino) forming the Andean Pact Parliament: Foreign ministers of Bolivia, Gustavo Fernandez S.; Colombia, Diego Uribe V.; Peru, Carlos Garcia B.; Venezuela, Jose Alberto Zambrano V.; and Ecuadorian Subsecretaries of Foreign Relations, Mario Aleman S. and Walter Esparza F. The agreement, which dates from the Declaration of Quito, signed on August 11, 1979, establishes a 25-member Parliament which will meet for the first time on December 17, 1980, the 150th anniversary of the death of Simon Bolivar.
 2. For ten years after the treaty enters onto force, the legislative body of each Andean Pact member country will select five Parliament representatives who will serve for a period of two years and who may be reelected. After the ten-year period, each country's representatives will be chosen by universal suffrage. The Andean Parliament will elect a President and Vice President from among its members and will meet once a year with the location and time to be decided the previous year. Special sessions may be held when requested by one-third of the member countries.

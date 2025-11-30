@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FOOD SHORTAGE, WHEAT, AGRICULTURAL AGREEMENTS, PL 480 TITLE 1, NEGOTIATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Minister blamed Bolivian difficulties on failure of Argentine government to fulfill October 1973 agreement for 30,000 metric tons of wheat flour. According to Pereda, despite repeated assurances from Argentine embassy, only 5,000 tons have arrived to date and Bolivians have concluded that they cannot count on Argentina to meet vital need for flour imports. While recognizing that Argentina too had wheat problem, Minister opined that slowness of shipments due to "politics" connected with bilateral gas and petroleum negotiations.
 

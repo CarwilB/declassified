@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "REGIONAL ORGANIZATIONS, MEETING PROCEEDINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Sixth plenary session (Oct. 25) opened with the Bargadian Fonmin Henry de B Ford who expressed his country's solidarity with Bolivia. He referred to CIECC meeting in Barbados and criticized US for not having co-sponsored the resolution of Bridgetown which 22 others adhered to. He expressed his opinion that the US left grave doubts as regards its true intentions towards the future of the voluntary funds. In the same vein Forde added that security was not provided by military expenditure alone, and felt that the US, being the most powerful country, could not escape its responsibility to contribute to equitable development in the region. He was followed by Ecuador's Subsecretary of Foreign Relations, Mario Alleman and Paraguay's Fonmin, Albert Nogues, who gave very general presentation.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PROCUREMENT, MILITARY TRAINING, MILITARY SALES, NAVAL SHIPS, TRAINING SHIPS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 For the record, I would like to reiterate my concurrence in the sale of two river boats to Bolivia.
 

@@ -16,11 +16,13 @@ cable-declass-date: "20 Mar 2014"
 cable-concepts: "FINANCIAL CRISIS, GOVERNMENT OVERTHROW, ECONOMIC ASSISTANCE, FOREIGN EXCHANGE HOLDINGS, ECONOMIC"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. (C - ENTIRE TEXT)
 

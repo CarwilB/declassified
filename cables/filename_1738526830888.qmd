@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "LAW OF THE SEA, MEETING AGENDA, NEGOTIATIONS, MEETINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Dr. Jorge Del Villar, member of Law of Sea Department of Foreign Ministry, told Emboff March 15 that GOB is beginning intensive preparations for Caracas Conference in effort to avoid improvisation which characterized previous Bolivian participation in UN-sponsored LOS meetings. Bolivians are currently working on Kampala Landlocked States Conference, where Bolivia will be represented by Dr. Felipe Treidinnick Abasto, Minister-Counsellor of the Bolivian Embassy in Madrid, Spain. Dr. Treidinnick is a career diplomat and lawyer who has specialized in question of Bolivia's right to an access to the sea.
 

@@ -16,12 +16,14 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "EXILES, ANARCHY, SOCIAL CHANGE, CIVIL DISORDERS, EXTORTION, COMMUNIQUES, PARTY MEETINGS, PARTY LEADERS,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  The Ministry of Interior announced that on January 8, Victor Paz Estenssoro, MNR chief, along with the following of his aides--Julio Garret Ayllon, Eduardo Olmedo, Eufronio Amurrio, Jose Ugarte Calvi and Juan Loayza were detained and exiled to Paraguay. Charges against the exiles were (in paraphrase): A) Attempt to change the nature of the Revolution of August 1971; B) Attempt to create divisions within the Armed Forces and Police; C) Systematic agitation among the ranks of organized labor to create anarchy and social discord; D) Unwillingness to accept the responsibility these persons had in the passage of the so-called economic package last October-November; E) Contact with the extreme left both within and outside of the country with patently subversive purposes; and F) Extortion of funds from industry for conspiratorial ends. (Note: This last charge evidently refers to the MNR campaign to raise contributions from party members and the public to defray the costs of the proposed convention.)
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Action requested:** Include Bolivia in the itinerary of the above textile mission. Though Bolivia does not have industry as large as Colombia, Venezuela, and Brazil, its industry is presently operating at close to 100 percent capacity with most companies carrying out and planning expansion. Therefore, we recommend the mission return from Brazil via La Paz.
 

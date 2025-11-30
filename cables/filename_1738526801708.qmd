@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PRESS COMMENTS, MEETING AGENDA, FOREIGN RELATIONS, LESS DEVELOPED COUNTRIES, FOREIGN MINISTERS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bolivian interest increasing in Foreign Ministers' meeting with Secretary Kissinger. News stories and commentaries appearing in La Paz press almost daily. Meeting and its importance being noted to mission personnel by leading Bolivians. Foreign Ministry officials state they working hard on positions for each agenda item and hope to have constructive and active Bolivian participation in sessions. Embassy believes Bolivian delegation will be helpful in conciliatory role and in drafting committees where felicitous choice of phraseology is important.
 

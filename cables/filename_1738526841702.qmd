@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "COMMERCE & INDUSTRY, FOREIGN INVESTMENTS, INVESTMENT OPPORTUNITY REPORTS, INVESTMENT DATA"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Text requested longer than specified para 7 reftel but we feel is close to minimum possible given points reftel para 4 suggests be covered and Bolivia's interesting foreign investment history. If Department wishes to adhere to maximum length specified para 7 reftel, we have no objection to Department eliminating portions of text it believes least important to businessmen.
 

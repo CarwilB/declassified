@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "SILVER, CONSTRUCTION, FOREIGN INVESTMENT, LEAD, PROGRAMS (PROJECTS), PROPOSALS (BID)"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. The Lead-Silver Smelter project being promoted by Klockner is now being reviewed by the GOB. Perhaps because of its size, this project has been the subject of considerable public controversy in recent months. During October the president of Bolivia's Central Bank stated publicly that he did not believe the price increases demanded by Klockner (most recently from $137 to $150 million) were justified, or that the internal rate of return expected from the investment was sufficient to support the expenditure. Rather than sign the guarantee required for the project, the Central Bank president resigned.
 

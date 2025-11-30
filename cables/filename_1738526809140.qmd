@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "LESS DEVELOPED COUNTRIES, LANDLOCKED COUNTRIES, FOREIGN MINISTERS MEETINGS, FOREIGN POLICY POSITION,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. I reviewed structure and substance of Mexico City Foreign Ministers meeting with Dr. Marcelo Ostria, Director General of the Bolivian Foreign Ministry's Division of International Political Affairs. I covered the same ground that I did with the Foreign Minister on Feb. 12 but in more detail. Ostria took notes and was pleased to receive the information which he indicated he would use to guide the Foreign Minister's conduct and substantive conversations in Mexico.
 2. Ostria said Bolivia understands that it will not play a significant role in the Mexico City Conference, given the power of others and the aggressiveness of a few. He expressed a great interest in having the conference arrive at a consensus that aid providers give preference to assistance to the poorer countries in the region. He feels this is not a bilateral issue in its totality and thus can be raised in a multilateral meeting.

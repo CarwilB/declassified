@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "LAND NATIONALIZATION, ATTORNEYS, PROPERTY TITLES, LAND REFORMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 On presence Applegate, Youngquist or their attorney in Bolivia to deal with GOB in this matter, para 1, ref A wish draw Department's attention to fact that Applegate has been in Santa Cruz area for about two months to our knowledge without seeking Embassy help in this matter as reported ref B.
 

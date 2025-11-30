@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "CONTRABAND, DEVALUATIONS, ECONOMIC PROGRAMS, EXPORTS, FOOD SHORTAGE, IMPORTS, PRESS COMMENTS, PRESS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Simple explanation given by government for measures, for instance in signs posted throughout city, is that lines (colas) had to be eliminated.** Without clear elaboration, press reported that in interviews ministers referred to four problems as cause of government action: contraband and hoarding, overevaluation of neighboring countries' currencies, national production and imports. Minister Ind/Com Pereda said that country "not an island" but has long border and although government earlier froze prices, world experiencing worst economic crisis since 1930 and forces of inflation have had local effect. Ministers explained that wheat essentially transportation problem but said that sugar in oversupply and rice harvest delayed. They stated that official meat prices will not be raised. Subsequent press notice stressed that a general price increase not permitted and forty-four basic items still controlled at former prices.
 2.  **Government took pains to emphasize that there will be no devaluation.** One of decrees gave guarantee against devaluation for domestic savings. Minfin stated that this year Bolivia will have favorable balance of payments. He admitted that some additional measures, such as reduction of export taxes and import duties and some internal taxes, are being contemplated to stimulate production and ease burden of new bonus on private concerns.

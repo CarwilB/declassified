@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "ECONOMIC CONDITIONS, ECONOMIC GROWTH, GDP, GOVERNMENT BUDGET, WAGES, VISITS, ECONOMIC ESTIMATES,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. In response to paragraph 2 reference A, Embassy assumes growth over the last two years has absorbed a good portion of unutilized industrial and mining capacity and land easily put under cultivation without irrigation or costly clearing. Therefore, it also assumes an Incremental Capital Output Ratio (ICOR) of at least three would be required to assure long-term growth at recent rates. Such an ICOR means investment would have to rise to about 16 percent of GDP. If additional investment is not well placed in productive sectors or efficiently managed, the ICOR is likely to be even higher. Note that we stated in paragraph 3D reference B that we believed investment would have to exceed 15 percent of GDP to assure continuation of current growth rates. We estimate that investment would have to reach about 19 percent to reach "self-sustaining" growth rates of 8 percent to 9 percent. This will be discussed with the IMF mission when it arrives.
 

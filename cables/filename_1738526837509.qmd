@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PRESIDENT, CABINET, REORGANIZATIONS, POLITICAL SITUATION, POLITICAL PARTIES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Since at least November 1973, when President Banzer decided to ignore the desires of Dr. Paz Estenssoro and appoint MNR cabinet members of Banzer's own choosing, the President has been engaged in a deliberate policy of weakening the voice and influence of the two major political parties (FSB and MNR) making up the so-called Nationalist Popular Front (FPN).
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "AIRCRAFT HIJACKING, CONTINGENCY PLANNING"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. Hijack contingency plan for Bolivia is being pouched to Department April 2, 1979.
 BOEKER

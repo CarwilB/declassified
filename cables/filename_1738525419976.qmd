@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 As Department is aware, resalization of the Mutun project depends entirely on construction of the proposed Bolivia-Brazil gas pipeline. And although pipeline feasibility studies as well as conversations between the Bolivian and Brazilian governments are continuing, for political reasons it is highly unlikely that any final decision to go ahead with the pipeline will be taken this year. Therefore, realistically, we can expect no real progress on the Mutun project until at least late 1979. If, however, any new information on Mutun does surface, it will immediately be reported.
 

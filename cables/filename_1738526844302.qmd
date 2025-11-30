@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, PL 480 TITLE 1"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Since receiving REFTEL A, Embassy has been making more than weekly checks with Ministry IND/COM re promised report on Arequipa milling operation and documentation for it. During this period there has been complete turn-over of officials involved.
 

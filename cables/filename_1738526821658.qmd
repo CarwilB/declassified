@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MILITARY PERSONNEL, MILITARY VISITS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. My attention has just been drawn to traffic in the DEFATT channel concerning your travel to Bolivia. I certainly have no objections to your travel in Bolivia. I wish to point out, however, that Lloyd Aero Boliviano's 727 Boeing, which will be used on its Flight 915 on March 15 from La Paz to Lima, has been judged not, repeat, not to be airworthy on the basis of advice from the FAA representative in Lima. I have had no alternative but to prohibit travel of US Mission personnel on this aircraft so long as the plane continues in service beyond its normal maintenance and overhaul deadline.
 

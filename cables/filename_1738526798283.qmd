@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MARTIAL LAW, GOVERNMENT OVERTHROW, SECURITY CONTROLS, CURFEW, TRAVEL CONTROLS, CIVIL DISORDERS,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **GOB declared a state of siege January 28** in wake of adverse public reaction to government economic initiatives. The state of siege places restrictions on internal travel, i.e., persons traveling from city to city in Bolivia must obtain written police approval. Furthermore, persons may not be out of doors after midnight in groups of three or more. Tourists are specifically advised to carry complete documentation with them at all times.
 

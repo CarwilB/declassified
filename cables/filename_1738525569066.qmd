@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "WATER, COMMITTEES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. ECLA Sessional Committee on Water Resources (Committee III) completed work on April 20 and reviewed and approved the final report of the Sessional Committee on April 21. This committee was formed at the inaugural plenary session to review the following: (A) Consideration and adoption of the recommendations formulated by the Regional Meeting on the Action Plan of the United Nations Water Conference held in Santiago, Chile in October 1978; (B) ECLA objectives, strategies, organization and work plan with regard to water; and (C) Consideration and adoption of the report of the Sessional Committee on Water. Trinidad was elected Chairman of Committee III with Chile and Canada being elected Vice Chairmen and Mexico elected Rapporteur.
 

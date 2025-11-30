@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FINANCIAL TRANSACTIONS, LOANS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  As of six p.m. Jan 24, Capt. Sanchez had not returned from his trip. His office promised to have him telephone Embassy immediately upon his return.
 

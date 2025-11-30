@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "TREATY VIOLATION, FARM EQUIPMENT, TRADE AGREEMENTS, TRACTORS, IMPORT CONTROLS, MONOPOLIES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Trade sources handling U.S. made tractor sales to Bolivia estimate that impact on their sales of the Fiat monopoly will be small. (In terms of total U.S. tractor exports, impact would be negligible.) They are not inclined to protest to GOB. Most believe that greatest gains in tractor sales will be above 112 h.p. maximum reserved for Fiat. We concur large farmers with good credit standing are now looking for bigger tractors.
 

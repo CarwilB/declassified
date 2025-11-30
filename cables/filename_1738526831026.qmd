@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "INDUSTRY, MONEY, NEGOTIATIONS, COURTS, FINANCIAL AGREEMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Captain Augusto Sanchez**, manager of FANAQUINA and GOB's negotiator on FARMABOL case, called on EMBOFF March 15. He urged that FARMABOL rep Hathorn respond to Sanchez's last letter of December 20, 1973 and if possible come to La Paz to pursue negotiations.
 

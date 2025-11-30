@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "CENTRAL BANK, BIOGRAPHIC INFORMATION, DEVELOPMENT BANKS, COMMITTEE MEETINGS, ANNUAL REPORTS, FLOODS,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. GOB delegation to IDB Annual Meeting reportedly will consist of Lic. Manuel Mercado, President, Central Bank, Luis Viscarra, General Manager, Central Bank, Guiddo Valle, ex-IDB Director for Bolivia, Paraguay and Uruguay, Hector Ormachea, ex-Minister of Industry and Commerce and Director Designate of still to be established Institute of External Financing.
 

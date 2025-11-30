@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "ARMS, AMMUNITION, GOVERNMENT PROCUREMENT, MILITARY AIRLIFTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. COMUSMILGP, Bolivia has received official assurance, Feb 2, from GOB G-4, that transportation costs will be paid by GOB for expedited requirements.
 2. Request action soonest. Commence airlift cargo. Stedman

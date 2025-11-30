@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TIN, PRODUCTION, MINERALS, EXPORT DATA"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Embassy has previous projected Bolivia's 1979 tin exports at approximately 30,000 metric tons with the caveat that serious political problems or possible civil strife connected with the upcoming elections could invalidate our estimate. (Bolivia's 1978 exports of tin were 29,696 MT's worth approximately US$335.76 million.)
 

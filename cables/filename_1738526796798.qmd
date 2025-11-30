@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MARTIAL LAW, GOVERNMENT OVERTHROW, PUBLIC DEMONSTRATIONS, SECURITY CONTROLS, PROVINCIAL GOVERNMENT,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Following is text of supreme decree issued January 28 declaring state of siege throughout the territory of Bolivia:**
 

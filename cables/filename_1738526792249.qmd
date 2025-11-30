@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Mickey requests about $450 necessary to enable him settle debts here and return US. Will return US about two weeks after receipt of money. Pls send money through cable. Transfer by First National City Bank. If unable assist please inform c/o US Embassy Consular Section, La Paz, Bolivia.
 Stedman

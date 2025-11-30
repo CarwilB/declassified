@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "JUNTA, MEETING AGENDA, MEETINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. In conversation with EMBOFF, Director of Bolivian Integration Secretariat Adolfo Gutierrez insisted that none of Andean Junta's proposals for assignments for automotive, fertilizer and petrochemical sectors were acceptable to Bolivia and certain other countries (i.e. Venezuela). He added Bolivia has agreement that these assignments will not RPT not be discussed at April 22 meeting.
 

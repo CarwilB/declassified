@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. President had clear idea of topics he wished to cover and did most of talking in one-half hour interview. He began by explaining that the days of Congressman's visit were unusual because Bolivia experiencing serious food shortages and political scene was agitated. He related shortages and long lines seen in city to world-wide food crisis. He gave lengthy explanation of political problem stating that after several years of instability Bolivians generally agreed on need for national unity. For that reason Government, including military and two major parties, formed in 1971 and he recently seeking to broaden political base even further by including smaller groups. While most of MNR agreed with this concept, unfortunately Victor Paz did not and sought merely to strengthen his party for 1975 elections. He and small group of associates thus had to be expelled.
 

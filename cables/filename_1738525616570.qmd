@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TREASON TRIALS, CENTRAL LEGISLATURE, POLITICAL LEADERS, COURT PROCEEDINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Summary:** On August 30 former President Hugo Banzer went on trial before the Congress. This is the sixth such trial in Bolivian history since 1857, and none so far has resulted in convictions. On the eve of the hearing several political parties expressed solidarity with the proceedings. That same day, Banzer went on television to defend his regime and pledge he would go along with the verdict of the people and history. On the first day of the trial, PS-1 Deputy Marcelo Quiroga presented the lengthiest and most detailed of the two accusations made in the time span allowed. While no one can predict at this time how these proceedings will end, the possibility exists that the process—particularly if the Armed Forces become involved as an institution—could jeopardize the consummation of Bolivia's transition to democracy.
 

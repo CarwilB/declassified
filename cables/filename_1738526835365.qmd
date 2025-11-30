@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Recent commercial programs instituted for ARA posts make it imperative that additional FSL clerk-typist position be authorized La Paz commercial section. Present FSL economic/commercial staff of four serves four officers including COMATT. Of these four only one qualified as typist and workload for other econ officers is such that she cannot RPT not handle COMATT typing.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MILITARY ASSISTANCE, MILITARY ASSISTANCE PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Reftel gives the FY 74 allocation of MAP for Bolivia at $2.730 million (Materiel $2.300, Training $.400). Since this represents a substantial cut in anticipated level and will dismay GOB and cause problems for US with GOB military at a crucial time in Bolivian political situation, I would appreciate urgent reconsideration and upward ajustment in the Bolivia program for FY 74 to a level not less than the Continuing Resolution authority which has become common knowledge. I offer the following reasons in support of my request:
     A. The FY 74 allocation of $2.73 million is a reduction from the Continuing Resolution level of $3.5 million consisting of $2.9 million MAP-M and $.6 million MAP-T. To go below $3.5 million will mean heavy cuts of much needed equipment and training to operate equipment already delivered under the FY 72 and FY 73 programs for all services.

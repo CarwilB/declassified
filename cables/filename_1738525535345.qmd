@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "MEETING PROCEEDINGS, REGIONAL ORGANIZATIONS, ORGANIZATION & MANAGEMENT"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** The first day of the conference proceeded smoothly, with adoption of the agenda, appointment of the board, designation of working committees and selection of their boards, opening speeches by ECLA Executive Secretary Enrique Iglesias, and by Bolivia's Planning Minister Gary Prado Salmon. An otherwise harmonious opening day was marred only by remarks in Prado's statement concerning loss of its coastal land and the development constraints which stem from that loss, and his accusing the US of "economic aggression" directed towards Bolivia through sales of tin from our strategic stockpile.
 

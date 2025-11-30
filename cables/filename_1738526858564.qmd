@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. CHARGE AND ADCM CALLED ON MINMINES LEMA JUNE 4 AT REQUEST OF
 MINCOORDINATION CAPRILES. CHARGE EXPLAINED TO MINMINES THAT

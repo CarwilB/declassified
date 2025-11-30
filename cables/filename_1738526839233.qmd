@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "INSURANCE, BUSINESS FIRMS, MINING INDUSTRY, LOANS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. On basis of info available to it, Embassy recommends against OPIC insurance for Lone Star Bolivia Group (registration No. 511-74-232) on same grounds on which it based its recommendation against OPIC insurance for Union Oil Co. Embassy's reasoning is presented in Refs A and B and still appear to be valid. As in case of Union, Lone Star appears quite willing enter into contract in Bolivia without insurance and that it not essential in company's decision to commit resources over time.
 2. Also on basis limited info now available to it, Embassy may recommend against OPIC insurance for New Jersey Zinc (registration No. 511-74-339). As stated Ref C, para 2, we believe USG now well out or almost out (OPIC still has insurance on SAPI and FNCB interest in COMSUR) of sensitive mining sector, should have bias against insurance for extractive industries and should consider new entries on most carefully selective basis. NJZ appears to have made its decision in advance of assurance that it will have OPIC insurance. It has already paid US$ 240,000 of Tye's debts (in this case to Banco Minero). In these circumstances OPIC insurance does not appear to be necessary. We view any investment in mining sector as highly risky and greatly exposed to vagaries of Bolivian nationalism.

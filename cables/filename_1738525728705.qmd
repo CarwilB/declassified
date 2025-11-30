@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DIPLOMATIC DISCUSSIONS, POLITICAL SITUATION, TRENDS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. Walter Guevara Arze, accompanied by his son and Bolivian Ambassador Roberto Arce, called on Assistant Secretary Vaky and ARA/And Director Barnebey on December 11.
 

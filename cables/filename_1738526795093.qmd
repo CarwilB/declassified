@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, SALES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Bolivia will soon enter commercial wheat market to meet at least April to July 1974 requirements estimated at about 40,000 M.T. As only two commercial wheat brokerage firms represented in La Paz, AGATT may wish inform brokerage firms with reps in Lima of opportunity for sales in Bolivia. Reps would do well contact Subsecretary Rolando Pereira, MININD/COM as initial step.
 

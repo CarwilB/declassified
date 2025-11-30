@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "TRADE OPPORTUNITY REPORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bid request for MINAG for 30,000 MT of wheat of the following characteristics: N°2 or hard red winter wheat subclass dark hard winter and/or yellow hard winter wheat: soft red winter, protein content from 11 to 13 percent (minimum 11 percent).
 2. CIF price at Antofagasta, Chile or Matarani, Peru. Ports under free out and/or berth terms.

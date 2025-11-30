@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. INFORM SENATOR ROBERT TAFT, JR THAT EMBASSY RECEIVED
 HIS CABLE REQUEST FOR W/W REPORT RE MR. AND MRS.

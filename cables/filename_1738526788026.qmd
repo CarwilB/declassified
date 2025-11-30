@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, PL 480 TITLE 1, FLOUR, FOREIGN ASSISTANCE PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. According Subsec Minind/Com, portion PL-480 wheat that arrived in Matarani already being milled in Arequipa for delivery to Bolivia as flour on grounds that milling capacity La Paz fully utilized but flour still scarce. Not yet clear whether GOB will use same ratio flour to wheat as established under earlier authority or whether GOB will simply pay commission charge.
 

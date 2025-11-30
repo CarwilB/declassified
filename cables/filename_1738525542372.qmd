@@ -16,11 +16,13 @@ cable-declass-date: "20 Mar 2014"
 cable-concepts: "FINANCIAL CRISIS, ECONOMIC STABILITY, FOREIGN EXCHANGE, NEGOTIATIONS, ECONOMIC PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** According to the local IMF representative, Jorge Sol Perez, the Bolivian reserve situation is now extremely critical but with luck the country can survive through December. In 1980, however, Bolivia's debt service burden will be unsustainable without stabilization measures. The GOB is now studying the IMF proposed stabilization program and is likely to make some counterproposals, some of which Sol Perez has not yet communicated to the IMF headquarters in Washington. The GOB opposes a managed float preferring instead a one-step devaluation with a dual exchange system to lessen the social impact. The GOB realizes that the IMF will be reluctant to support such a plan with Extended Fund Facility (EFF) financing. Sol Perez expects the GOB to request the US to persuade the IMF to accept its proposals. (Note: Sol Perez has acquired this information through informal discussions with GOB officials and he enjoined us in the strongest terms from revealing to others--especially IMF headquarters or the GOB--that we are aware of it.) End Summary.
 

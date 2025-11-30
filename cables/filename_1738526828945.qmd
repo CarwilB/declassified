@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PRESIDENT, FARM EQUIPMENT, PUBLIC RELATIONS, SPEECHES, AGRICULTURAL WORKERS, LAND REFORMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Theme of gathering pronounced by Minister of Campesino Affairs and Agriculture, Col. Natusch Busch, who declared "Military-Campesino Pact" in full force. Natusch identified himself with Banzer and extolled president as campesino's friend. He said Banzer had told him that he hoped campesino would be president of Bolivia in near future.
 

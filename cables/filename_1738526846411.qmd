@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "COMMITTEES, ELECTION CANDIDATES, INTERNATIONAL ORGANIZATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Press report cited reftel a not rpt not correct.** Gob "Arancel Aduanero de Importaciones 1972" still in effect and addendum of February 28, 1973 has expired.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DRUG CONTROL, PERSONNEL TRAINING, VISITS, PERSONNEL TRAVEL"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. S/A MARTIN WILL BE MET ON HIS ARRIVAL IN BOLIVIA
 ON TUESDAY, MAY 14, 1974, VIA BN #979 AT 1:30 P.M.

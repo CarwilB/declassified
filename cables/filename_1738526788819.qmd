@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, SUPPLIES, EXPORTS, CREDIT, PL 480 TITLE 1, FOREIGN ASSISTANCE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. President Banzer called me to his office on January 11 to inquire whether Embassy had received official reply from Washington to GOB request for PL-480 Title I program. He asked me to make every effort to obtain such a reply if it had not been received. I told him that this very day we had received the definitive answer from Washington which unfortunately was negative. I told him, in accordance with State/AIDAC 5919, that no further PL-480 Title I wheat will be possible during FY 74. I told him that FY 75 availabilities and allocation not yet determined but situation is bleak. President Banzer was dismayed at the news which he characterized as "very bad." He asked whether he should dispatch the Minister of Industry and Commerce to Washington on an emergency mission to try to seek reconsideration of Washington's position. I told him that such a mission would be fruitless because there is no wheat for PL-480 allocation in the next five months. The President then inquired what Bolivia could do under these circumstances, given that Argentina has not met its commitments to deliver flour for the Bolivian market. I indicated that export credits may be available from private US banks and/or private exporters for the importation of wheat for Bolivian consumption. He immediately telephoned the Minister of Industry and Commerce to relay to him what he called the "bad news" and asked the Minister to undertake immediately to work out some alternative basis for acquisition of wheat.
 

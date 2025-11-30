@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TIN, PETROLEUM PRODUCTION, EXPLORATION, CORRUPTION, INVESTMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. (Entire text.)
 

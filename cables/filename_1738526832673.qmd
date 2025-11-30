@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "LAW OF THE SEA, MEETINGS, MEETING DELEGATIONS, PERSONNEL TRAVEL, REORGANIZATIONS, MINISTERIAL VISITS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bolivian Foreign Ministry is currently undergoing one of its periodic reorganizations, which also affects staff of Ministry's Law of Sea Department. Foreign Ministry's leading expert on LOS matters: aging Director of Law of Sea Department Dr. Humberto Palza Soliz, is expected to retire from diplomatic service this month or in April. Several sources in Ministry have further indicated that name of new LOS Department Chief and composition of delegation to Caracas conference may not be known until early May. However, none of Foreign Ministry officials presently involved in LOS matters is expected to attend April Foreign Ministers and OAS meetings.
 2. In view of foregoing considerations, Embassy recommends that Department's LOS team postpone visit to Bolivia until mid-May, in order to ensure that team meets with full Bolivian delegation to Caracas LOS Conference.

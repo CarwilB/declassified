@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MILITARY PERSONNEL, BIOGRAPHIC INFORMATION, PERSONNEL APPOINTMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. I concur assignment Col. James H. Shaha as new commander U.S. Military Group, Bolivia. His background, professional skills, area knowledge and language proficiency meet the requirements I believe are necessary for new MILGP commander.
 

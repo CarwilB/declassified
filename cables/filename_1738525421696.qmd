@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "BIOGRAPHIC INFORMATION, AMBASSADORS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Entire text.
 2. Post has nothing further to add to bio information provided La Paz 1174 of Feb 7, 1979. We would, of course, be interested in any Spanish views on Bolivia's outlet-to-sea aspirations which Ambassador Rojas Montalvo may have gleaned in course of his recent calls on GOS. Boeker

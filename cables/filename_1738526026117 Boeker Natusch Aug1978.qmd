@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "GOVERNMENT REFORM, POLICIES, MEETINGS, NATIONAL ELECTIONS, MEETING REPORTS, CAT-B"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. I met with Pereda for one hour at Colonel Natusch Busch's home and with Natusch for another hour. (The role of Natusch, one of the few charismatic figures in the military, is not clear. A Banzer loyalist but personal friend of Pereda, Natusch berated Pereda on coup day for his disloyalty to the military and his damaging of Bolivia's international image through an ill-conceived coup. Subsequently, however, Natusch has been helping Pereda pick up the pieces and urging him to save the situation by new elections in 1979.)
 

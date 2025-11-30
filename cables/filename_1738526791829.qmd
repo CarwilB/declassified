@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FOOD SHORTAGE, WHEAT, INFLATION, IMPORTS, ECONOMIC PROGRAMS, SUBSIDIES, PRICE TRENDS, RETAIL PRICES, WAGE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Product scarcities for above items were extreme in last month, although Bolivia was frequently plagued by problem throughout 1973. These scarcities were basically result of low domestic prices relative to external market and in the case of wheat flour absolute shortages caused by world-wide scarcities, failure of Argentina to supply flour under its agreements with Bolivia and possibly contraband movement of wheat flour to neighboring countries. Official price announced per pound for sugar is $B3.05 which 118 percent over previous official price of $B1.40 and 20 percent over effective market price of $B2.54 per pound. Common bread (pan de batalla) price was 30 centavos per unit of about 66 grams. Price increase to 50 centavos and reduction in weight to 53 grams results in increase of about 100 percent. New wheat flour price was increased approximately 52 percent over earlier official price and 10 percent over "black market" price. Price increased 145 percent over official price and about 20 percent market price.
 

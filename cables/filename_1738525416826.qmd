@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "CONSTITUTIONAL LAW, INTERIM GOVERNMENT, PRESIDENTIAL ELECTIONS, DISPUTED ELECTIONS, PERSONNEL"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** On August 8 Bolivia will install Walter Guevara Arze as the country's first constitutionally-elected president in 13 years. Under Bolivia's current election laws (which virtually everyone wants to change before the next election in May 1980) this election took place in the new Bolivian Congress, since neither of the major candidates, Victor Paz and Hernan Siles, received a majority of the first-round popular vote. After five congressional ballots and a deadlock in which neither Paz nor Siles could achieve the required majority in the indirect election in the Congress, that body, under a provision of the Constitution, chose Senate President Walter Guevara Arze as president for a period of one year pending new elections under a revised electoral law.
 

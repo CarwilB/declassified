@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TEXT, CONDEMNATION, SALES, TIN, PUBLIC CORRESPONDENCE, US CONGRESSIONAL LEGISLATIVE BILLS, STOCKPILES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** You are authorized to provide the following response to General Banzer in answer to his letter of September 19, to President Carter.
 

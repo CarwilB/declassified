@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **For iron-steel complex integrated with mining of Mutun hematite deposit:** Bolivian contact is Major Carlos Morales, President of Empresa Siderurgica Nacional S.A. (SIDERSA) with office in Ministerio de Mineria y Metalurgia, 1769 Av. 16 de Julio, La Paz, Bolivia.
 2. **For gas pipeline and fertilizer plant:** Bolivian contact is Rolando Prada, General Manager of Yacimientos Petroliferos Fiscales Bolivianos (Y.P.F.B.), Calle Bueno S/N, La Paz, Bolivia.

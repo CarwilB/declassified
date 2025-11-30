@@ -16,12 +16,14 @@ cable-declass-date: "20 Mar 2014"
 cable-concepts: "DEMOCRACY, POLICIES, TIN, DIPLOMATIC COMMUNICATIONS, ELECTIONS, STOCKPILE DISPOSAL, ACCESS TO PORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  C-Entire text.
 

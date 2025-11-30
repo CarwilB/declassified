@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DOCUMENTS, FOREIGN INVESTMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Emboffs called on Minfinance Quiroga afternoon February 14 to request copies of various documents relating to $225 million loan offer to GOB made by International Monetary Exchange and others. Emboffs stated that documents were necessary in USG prosecution of Jacob Gordon. Minister manifested immediate willingness to cooperate and promptly turned over to Emboffs several file folders of documents and communications relating to case, which now in possession of Embassy. In perusing documents we find several references to and telexes signed by M.L. Edwards of International Monetary Exchange, Sydney, and R.G. Dawson, also of Sydney, but no reference to or communications from Jacob Gordon. Query: Does Department wish Embassy to photograph these documents and transmit to Department?
 

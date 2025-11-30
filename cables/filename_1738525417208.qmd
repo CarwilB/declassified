@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Police research reveals subject Benjamin Mendoza Meave was born 31 March 32 (vice 21 March 35 as noted Reftel) father Juan Mendoza Gutierrez mother Gregoria Meave Flores, and holds Bolivian personal identify card No. 209908 dated 12 Sept. 58. Police I.D. photo and thumb/index fingerprints being forwarded A/SY by pouch this date.
 

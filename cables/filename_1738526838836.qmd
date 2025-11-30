@@ -16,11 +16,13 @@ cable-declass-date: "28 MAY 2004"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 15. As a soldier formed in discipline and daily sacrifice, I shall call everything by its proper name. I come to tell you that in history and in international affairs, there are no miracles. If we do not face up to this harsh reality with discipline and energy implicit in great historic enterprises, we risk the indefinite continuation of that painful frustration which weighs on our conscience.
 

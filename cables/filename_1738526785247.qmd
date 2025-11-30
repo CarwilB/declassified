@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PETROLEUM, CONSTRUCTION, REFINERIES, PROPOSALS (BID), LOANS, NEGOTIATIONS, EXPORT DATA"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Reftel reported our T0013, an invitation for preselection of bidders to design and build two refineries and one lubricants plant, with financing by IDE.
 

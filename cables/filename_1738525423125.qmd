@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PERSONNEL TRAINING, DRUG CONTROL, PROGRAMS (PROJECTS)"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Unclas La Paz 9738
 

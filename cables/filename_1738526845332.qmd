@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. IN ACCORDANCE WITH INSTRUCTIONS IN REFTEL, I RAISED WITH
 MINISTER MINES LEMA ON MAY 6 THE SUGGESTION THAT GOB ARRANGE FOR

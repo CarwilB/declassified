@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "TOURISM, AIR TRANSPORTATION, VISITS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. As Carnaval is celebrated February 25 and 26, suggest Agattache plan on arriving following weekend or week, i.e., March 2, 3 or 4. Security situation now satisfactory in all parts of country and as nearly as we can estimate should be improved by March 1.
 2. Recommend all onward travel arrangements be made in La Paz despite tight supply of aircraft seats. Believe we can arrange all onward transport satisfactorily.

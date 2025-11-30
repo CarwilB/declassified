@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "HUMAN RIGHTS, REPORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Located in the heart of South America, land-locked Bolivia achieved its independence August 6, 1825. Since that time political instability has been an impediment to economic and social progress which in turn has resulted in an uneven record in terms of human rights observance. However, this trend began to change in 1977 when President Banzer initiated a liberalization of virtually all major restrictions on human rights, releasing all political prisoners, allowing exiles to return and scheduling elections for July 1978. The momentum of human rights progress has continued for the succeeding two years, with the sole dramatic exception of the violent 15-day rule of coup leader Alberto Natusch in November 1979.
 

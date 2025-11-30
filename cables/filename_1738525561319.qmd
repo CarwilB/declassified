@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "ECONOMIC CONDITIONS, ECONOMIC PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** The Nov 30 economic package announced by the GOB addresses many immediate problems which the GOB is facing. The measures include a 25 percent devaluation, changes in the interest rates for time deposits and bank loans, changes in commercial bank reserve requirements, wage adjustments, hydrocarbon price increases, creation of a Monetary Stabilization Council, and limitations on GOB public sector expenditures. Much to the dissatisfaction of the commercial bankers, the Central Bank has not completed regulations for the implementation of the new measures. End summary.
 

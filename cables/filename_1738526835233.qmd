@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "INTERNATIONAL CANALS, TOLLS, FOREIGN POLICY POSITION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. The Foreign Ministry has now responded to the Embassy's note of March 25, concerning a proposal by the Panama Canal Company to increase tolls by twenty percent. Following is the text of the Foreign Ministry's comments on the proposed toll increase.
 

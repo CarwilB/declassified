@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TEXT, LANDLOCKED COUNTRIES, ACCESS TO PORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Following is Spanish text of Bolivia access to the sea as approved by the General Committee.
 

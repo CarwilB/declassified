@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "AGRICULTURAL DEVELOPMENT, NARCOTICS, CONSULTANTS, FRUITS, STUDIES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Development Planning and Research Associates, Inc., Manhattan, Kansas.**
     A. Weighted average evaluation score, 93.

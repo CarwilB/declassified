@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Qualifications: Experience in both the U.S. Customs Division of Investigations/Narcotics and of Foreign Customs Assistance Advisory and Training, or equal.
 2. Good health to meet clearance requirements for high altitude post. Speak Spanish at the R-3 and S-3 level.

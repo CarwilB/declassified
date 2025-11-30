@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, PL 480 TITLE 1, FLOUR, TRADE AGREEMENTS, PROPOSALS (BID)"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Subsec Minind/Com Zamorano made oral request for our acquiescence in utilizing remaining authority under arrangement exchange PL 480 wheat for Peruvian flour authorized Ref (B). Stated only 175 M.T. flour remained on hand in La Paz although there are about 12,000 M.T. PL 480 wheat still in Pacific ports enroute to Bolivia. Noted that limiting factor for flour again is Bolivian milling capacity.
 

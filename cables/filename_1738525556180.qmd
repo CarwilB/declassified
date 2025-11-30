@@ -16,11 +16,13 @@ cable-declass-date: "20 Mar 2014"
 cable-concepts: "MEETINGS, ECONOMIC PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. (Text Removed)
 

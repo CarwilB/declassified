@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "WAR, COMMEMORATIVE CELEBRATIONS, ACCESS TO PORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. On March 23, 1979, Bolivia celebrated "Sea Day", the 100th anniversary of the Battle of Topater, in which Bolivia's national hero, Eduardo Avaroa, lost his life, with parades and speeches in all the major cities throughout the country.
 

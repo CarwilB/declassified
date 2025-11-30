@@ -16,11 +16,13 @@ cable-declass-date: "28 MAY 2004"
 cable-concepts: "MEETINGS, WATERWAY ACCESS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. I am detecting some thinking within the Foreign Ministry that it might be propitious for Foreign Minister Guzman to raise with senior US authorities during forthcoming meeting with Secretary Kissinger the suggestion that US help Bolivia achieve an outlet to the sea through the extension of good offices or some form of mediation. This is probably a natural development from the current burst of Bolivian interest in regaining a seacoast and also Bolivian recognition of the diplomatic skills of Secretary Kissinger. I sense some views within the Foreign Ministry that the USG might, for example, ask the foreign ministers of Chile, Peru and Bolivia to meet together on the subject of an outlet to the sea at some time during the forthcoming meeting in Washington.
 

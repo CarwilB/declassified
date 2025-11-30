@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, CODELS, MEETINGS, MEETING REPORTS, FOREIGN POLICY POSITION, FOREIGN MINISTERS MEETINGS, FOREIGN"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **During courtesy call on the Bolivian Foreign Minister General Guzman January 9, Congressman Charles Whalen (R.-Ohio) asked whether Bolivia had any special points it intended to raise during the forthcoming meeting of Foreign Ministers with SecState Kissinger. The Foreign Minister indicated that the staff of the Foreign Ministry is working on some positions but basically Bolivia has no particular points; rather wishes to participate with the other Foreign Ministers in the preparatory session in Mexico to work out a constructive agenda. He expressed interest in special tariff preference legislation and hoped that the Congressman would assist in bringing about a final and helpful bill inasmuch as Bolivia considers opportunities in relations with the U.S. as more potentially beneficial than benefits to be derived from Latin American integration which is going so slowly. Foreign Minister indicated his appreciation for U.S. assistance and hoped for a continuation of such cooperation, without which, he said, Bolivia cannot break out of its low level of development. He repeated the GOB's interest in PL-480 wheat imports from the U.S. because of the acute shortage of flour and wheat which could create political problems. Mr. Whalen said that there was a high demand for wheat and a consequent short supply in the world. He did say though that he understood that Bolivian and U.S. authorities were discussing the Bolivian request, and he knew that the USG would do whatever it could, although the situation with regard to wheat is bleak.**
 2.  **Congressman Whalen inquired about Bolivia's attitude toward the OAS and Cuba. Foreign Minister expressed support for an effective OAS and felt that efforts should go forward to reconstruct it for the benefit of all members. Foreign Minister said that Bolivian Ambassador Valencia, who occupies double capacity of Ambassador to the U.S. and to the OAS, would join him in Mexico as his advisor on key discussions of OAS aspects during the Foreign Ministers' meeting. As to Cuba, he said the position of the GOB is constant and firm in viewing Cuba as a menace which has harmed Bolivia seriously. Foreign Minister said that Bolivia does not wish to have any variation in the present OAS policy toward Cuba.**

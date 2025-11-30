@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FOOD SHORTAGE, WHEAT, AGRICULTURAL AGREEMENTS, PL 480 TITLE 1, NEGOTIATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Minister of Agriculture, Lt. Col. Natusch Busch, has arranged to call on me Monday, January 14, at 10 a.m. to discuss a matter of great importance. I can only conclude that he wishes to talk about the critical wheat and flour problem in Bolivia. Accordingly, I would very much appreciate having an official position to be able to give him during next week's meeting.
 

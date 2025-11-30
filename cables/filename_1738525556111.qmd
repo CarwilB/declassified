@@ -16,11 +16,13 @@ cable-declass-date: "20 Mar 2014"
 cable-concepts: "NEGOTIATIONS, FINANCIAL AGREEMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** According to IMF team leader Caiola, negotiations between the Fund and the GOB are on track and final action by the IMF should take place by mid-December. Caiola believes that the Central Bank's reserve position is sufficiently good, providing recent credits from Latin American Central Banks are rolled over, for such a schedule to be feasible. End summary.
 

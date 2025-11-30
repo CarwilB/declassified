@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DEMOCRACY, FORM OF GOVERNMENT"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** The Padilla government and its cabinet of Young Turk generationalist military officers raised high hopes in many quarters with its announcement of elections, its continuation of the upbeat pattern of respect for human rights, and the pronouncements of individual ministers with regard to the return to democratic government, the withdrawal of the armed forces from the political direction of the country back to the barracks, the revamping of public corporations, and the general improvement in the quality of government in Bolivia. While human rights and the electoral process have thus far fared well, the Padilla regime has in the meantime mired itself down in a shabby display of infectious venality and incompetence that has tarnished its image and raised some doubts about its ability to carry forward its well-advertised objectives for Bolivia's democratization.
 

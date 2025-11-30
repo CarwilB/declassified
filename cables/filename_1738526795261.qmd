@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, IMPORT DATA, FOOD ASSISTANCE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Embassy notes that International Wheat Council figures regarding Bolivia's wheat imports cited reftel are consistently 10 to 20 percent higher than those collected each quarter by Embassy from local sources. Department may wish refer to Table III Embassy's A-228 which displays Embassy data on FY basis. Updating that table, FY 1973 commercial imports totalled 123,300 metric tons of wheat equivalent. Embassy calculation based on GOB data contrasts with 138,020 metric tons figure cited reftel.
 

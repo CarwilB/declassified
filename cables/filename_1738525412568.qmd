@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "FIGHTER AIRCRAFT, MILITARY ASSISTANCE PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. The Bolivia Air Force (BAF) has requested a letter of offer and acceptance for the following air defense weapons system and related support items:
     *   10 F-5E aircraft

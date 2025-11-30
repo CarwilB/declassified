@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Request whatever U.S. export data on a by country by commodity basis USDOC computer can provide for Bolivia. Can print outs be sent US on a quarterly or semi-annual basis? Need here is great as Bolivian National Statistics Office has only now begun to process 1971 trade data.
 

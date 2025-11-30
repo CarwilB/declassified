@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PERSONNEL TRAINING, DRUG CONTROL, MEETINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. La Paz agrees completely with Quito 0059. After considerable consultation with appropriate country team members, we do not feel that having a seminar in Lima would benefit Mission objectives in La Paz. Our representative to Andean PAO meeting did not understand simultaneous seminars to mean sending participants to other country.
 

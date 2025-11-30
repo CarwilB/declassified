@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Remains of Frances Christian Ring due to depart La Paz 1910 hours December 6 aboard LAB Flight 861 for Miami. Casket will be transferred to Braniff Flight 140 scheduled to arrive Dallas 1430 hours on December 7, 1979.
 2. Pearson Funeral Home, Overton, Texas advised by separate telegram regarding arrival time and has been requested to meet flight.

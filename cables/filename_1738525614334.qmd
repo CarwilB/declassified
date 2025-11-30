@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "ELECTION RESULTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. By all accounts thus far, the July 1 elections have come off extremely smoothly with virtually no violence and few reports of fraud or irregularities. Turnout appears to have been heavy. These may well be the cleanest elections in Bolivia's history, as promised by the Padilla regime from its inception last November.
 

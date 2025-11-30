@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DEMOCRACY, POPULAR SUPPORT, CENTRAL LEGISLATURE, ELECTIONS, FORM OF GOVERNMENT"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. The parliamentary election of Deputy Lidia Gueiler Tejada on November 16, 1979, as President of Bolivia set two precedents: the first lady president in the nation's history, and apparently the first time a military overthrow has ever been reversed through democratic processes. These rather extraordinary events were acclaimed by a rather extraordinary reaction in La Paz on Friday evening as a cheering crowd jammed the Plaza Murillo in front of the Congressional and government palaces while elsewhere citizens' shouting and honking of automobile horns--as if Bolivia had won the American Cup Soccer Competition-- signaled their jubilation over this remarkable return to constitutionalism after two weeks of grim, suppressive military government. Indeed, the change was akin to the sudden abrupt termination of a protracted nightmare.
 

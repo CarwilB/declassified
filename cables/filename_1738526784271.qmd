@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Address:** Casilla 1867, Calle Bozo 119, La Paz, Bolivia. Cable: Turinmo, La Paz. Telex: BX5353. Phone: 55821. Officer: Domingo Linale Urioste, manager.
 2.  **Description:** Large firm established 1968. Employs 60. Acts as agent, retailer, distributor, and importer of automobiles, trucks, pick-up trucks, tractors, and motor vehicle parts and accessories. Is the local representative of "Fiat". Firm buys from Italy, Argentina, and Brazil. Sells throughout the country. Corresponds in Spanish and English.

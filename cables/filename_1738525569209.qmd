@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DISPUTES, PRESIDENT, TRENDS, POLITICAL LEADERS, POLITICAL SUMMARIES, CENTRAL LEGISLATURE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** A procedural dispute over selecting the leadership of state-owned corporations has somewhat marred President Walter Guevara's honeymoon with the Congress that elected him. As the executive and legislative branches thus shake down to one another, the major political groups are beginning to try to organize themselves for next year's elections. Although the UDP, the MNR Alliance and the ADN have all publicly expressed optimism about the political future, their real perspectives are considerably more complex. The UDP is still plagued by the internal tensions that almost pulled it apart earlier in the year; the MNR Alliance has not yet found a way of accommodating the ambitions of some of its younger (albeit middle-aged) leaders; and the ADN, chiefly concerned with the anti-Banzer accusations in Congress, may maneuver for elections in 1981, instead of next year. The armed forces, in the meantime, have accomplished their retreat to the barracks smoothly. Against this background, attention is now beginning to focus increasingly upon the labor sector, which is still considering how--or whether--to press its demands for significant wage hikes. End summary.
 

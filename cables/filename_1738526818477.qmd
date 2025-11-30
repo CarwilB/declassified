@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "SUGAR, AGRICULTURAL PRODUCTION, AGRICULTURAL LAW, COMMITTEE MEETINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 According Dr. Tapia of Sugar Institute letter to Congressional Committee sent through Ministry Foreign Relations about one week ago. Letter clearly states Bolivia will meet 1974 sugar allocation. In parallel approach to Min Foreign Relations, Embassy emphasized necessity for such a letter to be submitted to House Committee NLT March 9. Under Secretary of Fonmin states to Emboff that he would insure that such a letter would go forward.
 

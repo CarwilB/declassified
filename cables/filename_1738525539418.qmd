@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "AMBASSADORS, DIPLOMATIC COMMUNICATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Subject: First Person Note From Foreign Minister Guillermo Bedregal
 

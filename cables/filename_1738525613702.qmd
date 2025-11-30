@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "FINANCIAL AGREEMENTS, IMF DRAWING RIGHTS, FINANCIAL PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** GOB Finance Minister signed a letter of intent requesting Standby and Trust Fund drawing from IMF December 27. The letter also indicates the GOB will seek EFF credit at the conclusion of Standby in late 1980. The Finance Minister also believes the World Bank is committed to providing a program loan once the Standby is approved by IMF and he plans to approach IBRD President McNamara accordingly. End summary.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PETROLEUM PRODUCTS, PRODUCTION TRENDS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Figures recently made public by YPFB** show petroleum production here during January-September 1979 fell 15 percent compared to the same period in 1978. (During the first three quarters of this year YPFB produced 7.61 million barrels; during the same nine months last year production was 8.96 million.)
 

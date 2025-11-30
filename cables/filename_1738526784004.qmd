@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  Asesoria Legal de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), Casilla 401, La Paz, Bolivia. Cable address: YACIBOL.
 2.  Licitacion Número 180/73.

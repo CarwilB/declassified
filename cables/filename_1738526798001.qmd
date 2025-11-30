@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 5. I told the President that subsequent to his observations to Congressman Whalen about our military assistance program, I had made an investigation with our MILGP to determine the causes and remedies for the delays in the delivery of military equipment. I noted that I have presented new recommendations to Washington for expediting certain equipment for the Bolivian Tipos. As to economic assistance, I noted the continuous and comprehensive efforts of our AID mission to work in the agricultural, public health and education fields, giving me every confidence of a sustained and effective economic cooperation program with his government. I told him I could not understand where his representatives in Washington could have obtained views that our government felt he would soon fall. I indicated our policy was unchanged and it was one of continued support for the GOB and its effort to bring progress and development to the country. I asked for guidance as to which Bolivian authorities the US Mission should work with in attempting to devise a more concrete project for agricultural assistance along the lines he had suggested. I attempted to probe as to whether he thought he had a financial problem or a supply problem. His response was most general and indicated that he had needs both financial and equipment. As I departed Presidential Palace, I met Brazilian Ambassador entering, who, I had been informed informally, was being summoned also for requests for assistance.
 

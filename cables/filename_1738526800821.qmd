@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "POSTAL SERVICE, DEBTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Being forwarded by airgram for the information of the Department and of the U.S. Postal Service is a letter from the Director of Bolivia's Postal Service, asking for an extension of time to produce evidence that certain payments were made about 1946.
 

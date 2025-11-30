@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MEETING AGENDA, ECONOMIC ASSISTANCE, LESS DEVELOPED COUNTRIES, FOREIGN MINISTERS MEETINGS, DIPLOMATIC"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bolivian Foreign Minister Guzman received me late afternoon Feb. 12 for lengthy review foreign ministers meeting in Mexico. I handed him Secretary Kissinger's letter indicating that Secretary hoped by the letter to establish first personal contact with the Foreign Minister and to set the stage for the Mexico City meeting. The Foreign Minister was extremely pleased to receive a signed letter from the Secretary and since he does not understand English I had a chance to translate for him with brief explanations of points during the translation. I went over very carefully with the Foreign Minister our preferred format for the Mexico City meeting and followed with emphasis on several points which I thought were of importance to Bolivia. I sought particularly to enlist his support in the effort to encourage the more advanced Latin American countries to share their current high level of foreign exchange earnings with the less developed Latin countries through such institutions as the IDB and the Andean Development Corporation. I sought to underline the importance the Secretary attaches to this meeting while at the same time seeking to dispel any expectation that a miracle will be achieved in Mexico. I then sought to elicit from the Foreign Minister comments on Bolivia's own position for the meeting, reactions to the points I had made, and any observations about what Bolivia might expect from the U.S. during the meeting.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Mr. Jorge Lonsdale, President, National Distillers, La Paz, Bolivia, is interested in acquiring technical know-how and production equipment for the manufacture of "baby food".
 2. Will visit New York City from 17 to 24 March and is interested in contacting firms producing "baby food".

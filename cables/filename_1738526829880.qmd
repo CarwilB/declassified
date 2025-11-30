@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "CACAO, INTERNATIONAL ORGANIZATIONS, MEMBERSHIP APPLICATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Press announced and FONMIN confirms that Bolivia intends to apply for membership in International Cacao Organization at its meeting this month in London.
 2. Bolivian production of cacao has been increasing although we understand current cacao crop suffering from infestation. Bolivia attended 1972 U.N. Cacao Conference and has signed Cacao Convention.

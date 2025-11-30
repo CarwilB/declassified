@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Commercial invoice signed by Bolivian Consul.
 2. Government bill of lading. Lopez would appreciate a copy of final purchase order.

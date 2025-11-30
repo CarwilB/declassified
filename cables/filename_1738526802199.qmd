@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FOREIGN RELATIONS, PRESS COMMENTS, PANAMA CANAL TREATY, NEGOTIATIONS, MAGAZINES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 UNCLAS LA PAZ 0907
 

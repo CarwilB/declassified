@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PETROLEUM, NATIONAL INCOME, EXPORT PRICES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Lumping Bolivia together with other oil exporters such as Venezuela in one sentence in the summary as standing to increase oil earnings by US$ 7 billion is very misleading as it gives the impression that Bolivia has a significant share in the US$ 7 billion, whereas actually Venezuela accounts for about US$ 6 billion and Bolivia only about US$ 100 million.
 

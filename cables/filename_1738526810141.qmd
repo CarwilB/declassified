@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "LAW, WAR, GENEVA CONVENTIONS, FOREIGN POLICY POSITION, MEETINGS, MEETING DELEGATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. EMBOFF discussed subject with Acting Chief (Carrasco) International Organizations Department of FONOFF February 15. She said Bolivia represented by its Ambassador to Switzerland and one other official also of ambassadorial rank and that while not specifically instructed, they would be familiar with Bolivian position on this subject and that we could count on Bolivian support. Suggest USDEL contact both Bolivians and try again citing very clear position taken here by FONOFF against invitation to PRG in particular and to national liberation movements in general.
 2. Carrasco told same EMBOFF today that she would now send instructions, which hopefully will arrive in time.

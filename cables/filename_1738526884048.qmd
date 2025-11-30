@@ -16,12 +16,14 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  RESPONSIBLE FOR ALL WDTR'S AND ADS
 2.  SEEKS TRADE OPPORTUNITIES

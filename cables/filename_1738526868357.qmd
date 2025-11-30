@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FOREIGN MINISTERS MEETINGS, COMMITTEE MEETINGS, BUSINESS FIRMS, AIDE MEMOIRE, REPRESENTATIONAL ACTIVITIES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Message Text
 

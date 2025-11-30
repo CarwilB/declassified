@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TIN, ECONOMIC CONDITIONS, MINING INDUSTRY, LABOR STRIKES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Although Bolivia's private mining sub-sector is working, three Comibol mines/mills--Colquiri, Siglo XX, Catavi--are formally on strike. (Together these three entities represent slightly more than a third of Comibol production.) Additionally, the remainder of Comibol's mines are on quasi-strike, i.e., there is little production.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, PROCUREMENT, FOOD SHORTAGE, PUBLIC DEMONSTRATIONS, ECONOMIC ASSISTANCE, PL 480 TITLE 1,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. We understand milling of PL-480 wheat in Arequipa has stopped. We unable get definite information from MININD/COM officials who say Subsecretary Zamorano is only official who has facts on this matter at his command. Zamorano has been out of La Paz.
 

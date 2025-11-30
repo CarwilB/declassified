@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "NARCOTICS, DEMARCHE, PRESIDENT"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. I recommend that the US delegation to the Bolivian August 6 inauguration, headed by Mrs. Carter, take this opportunity for a strong demarche to the President-elect on US desire for more effective GOB cooperation on our US/GOB narcotics program. This newly elected president will be beholden to us for our support of democratization in Bolivia. He will also have significant requests for further economic and political support from us. Therefore, it is the right time for us to raise our desiderata. Since late 1977 there has been a lack of strong commitment and drive from the top of the GOB, partly resulting from the electoral campaigns of 1978 and 1979. The US must seize the opportunity of the inauguration to impress upon the President-elect our major concern with illicit cocaine trafficking and production. The main point to impress upon him is that sterner, more disciplined GOB policies and enforcement action from the cabinet on down should be adopted. To help finance this increased Bolivian effort and to make it politically tolerable for the new president, the US will need to offer new financial support for narcotics programs in Bolivia. We should offer in return for Bolivian commitments $15 million (over five years) for measures to control the coca leaf market and, in addition to presently planned USAID projects for Bolivia in FY80, $19 million for an agricultural development program which will provide small farmers the incentives to cease or restrict their production of coca. Our ideas on the general content of a memorandum for the White House proposing such a demarche follow.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PRESIDENT, INTERIM GOVERNMENT, POLITICAL SETTLEMENT"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Shortly after 8 PM tonight (Nov 16), the Congress in plenary session unanimously approved a resolution (a) revoking the presidential mandate of Walter Guevara and (b) naming congressional chairperson Lydia Gueiler as interim president of the country until August 6, 1980.
 

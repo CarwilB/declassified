@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DEMARCHE, RELOCATION, AGRICULTURE, TRANSFER OF OFFICES, REPRISALS, SPECIALIZED AGENCIES (UN)"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. Embassy officer made points outlined reftel to MFA under secretary for exterior political affairs Moise Fuentes. Fuentes was not aware of the issue, but did note that Bolivia followed a line supportive of the Camp David Accords and one that eschewed introduction of divisive political issues in UN technical agencies. Hence his off-the-cuff reaction was that Bolivia would be helpful. Nevertheless, he requested an aide memoire to follow-up, since Bolivia will probably be represented at the conference by a technical functionary from the Agriculture Ministry, who would otherwise be unacquainted with some of the political issues.
 3. We are preparing the memoire, and will provide name of Bolivian delegate when appointed, since follow-up in Rome might be useful. Fuentes also noted he had not been approached by Egyptian Embassy on the matter. A check with Egyptian Embassy reveals they have similar instructions, but had not planned their demarche before November 5.

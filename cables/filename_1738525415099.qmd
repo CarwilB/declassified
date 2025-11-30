@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Please provide status and expected completion date of background investigation pending on Consuelo V. Franco, USAID Bolivia FSN employee intended spouse of DEA SA Mario Perez. Case forwarded 24 October, 1979.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PUBLIC DEMONSTRATIONS, GOVERNMENT OVERTHROW, TOSEC, PRESS SUMMARIES, POLITICAL SITUATION, STUDENTS,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** Briefing centered on Bolivia coup and demonstrations in Iran. Also covered were the reported South African raid into Angola, Rhodesia sanctions and USG meetings with the Patriotic Front, and the Secretary's meeting with the Black Caucus on October 31.
 

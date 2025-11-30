@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Dr. Marcos Lezama, a Venezuelan national who is president of the Fundacion Bolivariano, called at the Embassy on March 25 to indicate that he was planning to visit Washington on or about April 1. He indicated that he would participate in a ceremony in which a medal would be presented to AOS Secretary-General Galo Plaza. He indicated that he and the Ambassadors in Washington of the Bolivarian countries would be requesting an appointment with Secretary Kissinger.
 

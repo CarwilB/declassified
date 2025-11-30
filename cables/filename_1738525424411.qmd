@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DEBT DATA, GOVERNMENT DEBTS, DEBT REPAYMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. As of June 30, 1979, total GOB contracted external debt amounted to $US 3,381,342,000, an increase of 15 percent from December 30, 1978. Total disbursements were $US 1,867,350,000 as of June 30, 1979; $US 386.3 million was disbursed in 1978 and $US 186.0 million during the first six months of 1979.
 

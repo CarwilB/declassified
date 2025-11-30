@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "TECHNICAL ASSISTANCE, MINING INDUSTRY, BANK LOANS, PROGRAMS (PROJECTS), CONSULTANTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Gonzalo Gutierrez, director of metallurgy in Ministry of Mining and Metallurgy, called on Emboff and asked embassy help to obtain 6 to 9 month technical assistance to ministry in connection with World Bank loan of US$ 6,200,000 of which US$ 350,000 is destined to set up following sections in ministry: (1) Sectorial planning regarding mining industry development; (2) Documentation center carrying all information on mines; (3) Taxation system involving search for best mining taxation method to be used in Bolivia; and (4) Prefeasibility study on mineral exploration.
 

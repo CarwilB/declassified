@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "CERP, ECONOMIC REPORTS, ECONOMIC DATA"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** The latest Central Bank estimates of Bolivia's 1978 balance of payments performance show that imports (FOB) increased 23 percent during the year, while exports (FOB) fell 1.1 percent, and the services account deficit rose by more than 39 percent. These unhappy phenomena gave rise to a current account deficit of $385.1 million. Year-end short-term borrowings, which appear to have amounted to approximately $100 million, held the balance of payments deficit to an estimated $123.3 million.
 

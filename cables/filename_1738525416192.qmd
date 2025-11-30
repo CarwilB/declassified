@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "INDUSTRIAL PRODUCTION, TIN, ECONOMIC ESTIMATES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Based on current production trends, Post predicts that Bolivia's tin production this year will total 28,176 metric tons. Although in physical terms this is 5.1 percent less than the 29,696 tons produced in 1978, record tin prices will enable this year's earnings substantially to exceed last year's. (We currently project Bolivia's total 1979 tin receipts at approximately $US 580 million versus the $US 515 million earned in 1978.)
 2. While there's little chance 1979 production will exceed our estimate by a significant amount, there is always the possibility that serious labor unrest could reduce the year-end total substantially below the current projection.

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "AGRICULTURAL PRODUCTION, FOOD SHORTAGE, FOODS, AGRICULTURAL IMPORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Direct Sale for Resale:**
     **Description:**

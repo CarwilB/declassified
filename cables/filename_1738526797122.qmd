@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "NATIONALIZATION, ARBITRATION, MINING INDUSTRY, INDEMNIFICATION, INDUSTRIAL PLANTS, METAL PRODUCTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. First contradiction is in first paragraph of Tye's letter to Senator Bentsen dated November 30, 1973, wherein Tye states IMPC received half million dollars in compensation for nationalization of its property. Embassy will send ASAP translation and copy in Spanish of original receipt and document of payment signed by Tye and IMPC's lawyer, Luis Soux, declaring and "confessing" they received check duly endorsed for US$ 1,447,066 which they recognize as just and fair indemnification for all its investments in Bolivia and those made in foreign countries for investigations related to treatment and mining of tin tailings.
 

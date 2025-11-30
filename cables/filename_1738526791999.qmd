@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "FOOD SHORTAGE, AGREEMENTS, PUBLIC DEMONSTRATIONS, FLOUR, FOREIGN COMMITMENTS, BLACK MARKETS,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. According to Millers' Association on January 10, mills had only 1,525 M.T. of wheat stocks. Two of three La Paz mills and one of two mills in Oruro were out and closed January 11. Mills reopened January 14 using wheat that arrived over weekend. Oruro and La Paz are supplied from Matarani. Mills in Cochabamba, supplied from Antofagasta, have improved position in first week of year but mills in other interior towns also showed decline in stocks. Authorities estimate that daily wheat consumption is 632 M.T. in country, of which 138 M.T. consumed in La Paz.
 

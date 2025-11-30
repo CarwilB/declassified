@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "INTERNATIONAL CANALS, TOLLS, FOREIGN POLICY POSITION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. EmbOff presented diplomatic note March 25 to Foreign Ministry's Director of North American Affairs, regarding subject matter reftel. Initial reaction to proposed toll increase strongly negative, in view of impact this measure would have on cost of shipping Bolivia's mineral exports through Panama Canal. GOB is already seriously concerned over impact recently over US strategic stockpile disposals, addition of toll increase issue at this time would revive old charges of "economic aggression" as a political issue in bilateral US-Bolivian relations.
 2. Foreign Ministry official promised to pass substance our note to economic ministries of GOB for further assessment of potential impact on Bolivian economy. Foreign Ministry will inform Embassy of results of these consultations, which we will in turn transmit to Department.

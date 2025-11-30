@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Dept recently received inquiry from Congressman Bud Shuster's office regarding Embassy's delay in responding to their letter dated January 23 and directed to attention of Ambassador Boeker. Specifically, Congressman Shuster requested assistance on behalf of Mr. Donald L. Beaver in securing release from customs officials in Santa Cruz, a 1979 Ford pickup truck, serial no. F14BCDC1583, Pennsylvania registration. Olivet Baptist Church in Bellwood, Pennsylvania, of which Mr. Beaver is a member, purchased truck as a gift to Mr. Mario R. Illobre for his missionary work in Bolivia. Mr. Illobre presently residing at Casilla 1960, Santa Cruz de la Sierra.
 

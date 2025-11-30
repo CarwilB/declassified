@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "FINANCIAL CRISIS, GOVERNMENT DEBTS, FINANCIAL RESERVES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** The Bolivian financial situation, which was critical before today's cabinet changes, may deteriorate sharply during the next six weeks. If the government cannot obtain substantial financial credits (i.e., in the vicinity of $100 million) before elections, a substantial buildup of arrearages on foreign obligations by the end of July is virtually a foregone conclusion.
 

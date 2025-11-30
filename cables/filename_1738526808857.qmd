@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PERSONNEL TRAINING, DRUG CONTROL"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bolivian candidates for subject school are Lt Oscar Bernal Vasquez and Det Edgar Garcia Munoz. These candidates are endorsed and recommended by DEA.
 

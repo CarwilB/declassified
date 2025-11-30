@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Acting Foreign Minister Cespedes told Ambassador that President Banzer will depart March 12 or 13 to attend President-elect Geisel's inauguration in Brasilia on March 15. Banzer to be accompanied by Roberto Capriles, Minister Coordinator of Government, an expert on fuels and energy matters and probably the most professional and influential cabinet member in Bolivia.
 

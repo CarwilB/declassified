@@ -16,11 +16,13 @@ cable-declass-date: "20 Mar 2014"
 cable-concepts: "PRESIDENT, POLICIES, POLITICAL STABILITY, POLITICAL MILITARY RELATIONS, PRESIDENTIAL SUCCESSION, ELECTIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** President Guevara told me October 4 that he had on the previous evening asked Hernan Siles and Victor Paz to support the extension of Guevara's term in office to mid-1981, when general elections would be held. Guevara told them that in his view Paz' and Siles' choice was elections in '81 or a return to military government, since a call for May 1980 elections would maintain the current political climate at a confrontational pitch which would provoke a military coup before elections. Guevara claimed that with Paz' and Siles' support for a two-year term, special economic powers and reduction of the charges against Banzer, Guevara could assuage the military, stabilize the economy and hand over a working civilian democracy to someone else in 1981. Without this support, he feared the worse. Neither Paz nor Siles has given Guevara a response. The fat is now in the fire and Guevara's government, and maybe civilian rule, are headed for a showdown by early November on a complex set of questions – the two-year Guevara term, economic stabilization and changes in the military high command. End Summary.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DIPLOMATIC PRIVILEGES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. For: L: On March 20, 1979 embassy administrative officer, Gerald E. Snyder, in his official capacity appeared before the judge of the Fifth Court in La Paz and, under oath, ratified that the information contained in the "denuncia" of January 15, 1979 was true and correct to the best of his knowledge. (See security case SY6-15237.)
 

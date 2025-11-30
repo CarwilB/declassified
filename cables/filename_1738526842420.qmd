@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MILITARY ASSISTANCE, PRESIDENT, ECONOMIC ASSISTANCE, CREDIT AGREEMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Reference message reported that State and Defense have allocated $4 million FMS for Bolivia in FY 1974.
 2. We have been informed by GOB Sub-Secretary of Defense that President Banzer has accepted $4 million credit under the terms indicated in Para. 2 of Reftel.

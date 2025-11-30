@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "COTTON, CROP DESTRUCTION, PRODUCTION DATA"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Jose Justiniano, general manager of ADEPA, the Bolivian cotton grower's association, has provided US with information indicating that recent floods have caused more damage to the 1979 cotton crop than originally suspected.
 

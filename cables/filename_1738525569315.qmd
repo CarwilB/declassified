@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "ELECTIONS, POLITICAL SITUATION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** A recent (January 30 - February 2) visit to Santa Cruz by an Embassy officer revealed that support for the electoral process is growing in this key regional capital, and that most business and political observers, with the exception of the FSB, believe Victor Paz Estenssoro will carry the Santa Cruz department in the coming elections. Private businessmen in Santa Cruz have pledged approximately $500,000 of the $3.5 million Paz estimates is necessary to run his campaign, and the private sector has also agreed to pay the expenses of Santa Cruz delegates to the MNR convention in La Paz.
 

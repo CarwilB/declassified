@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DISASTER RELIEF, DEVELOPMENT FINANCE, FOREIGN ASSISTANCE PROGRAMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bolivian Foreign Minister, General Guzman, has released to the press the letter from Secretary Kissinger delivered Feb. 28 by the ambassador and announced that the secretary took under consideration a Bolivian request for financial assistance for reconstruction of flood damage. In his press conference remarks, Guzman said that he had also presented to Secretary Kissinger the Bolivian case for special preference for loans because of its state of underdevelopment compounded by its lack of a sea-coast. He said too that he asked the secretary for special "non-reimbursable" financing for the substitution of coca production. These remarks, he said, were well received by the U.S. Secretary of State, although no formal response given.
 

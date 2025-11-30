@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MILITARY EQUIPMENT, MILITARY ASSISTANCE, ARMS, AMMUNITION, GOVERNMENT PROCUREMENT, MILITARY AIRLIFTS,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Points embodied in Binns/Ambassador telecon Jan 31 have been passed to appropriate Bolivian authorities. I did not raise transportation problems with President Banzer when I spoke to him at 2:30 p.m. this afternoon. We have informed GOB that we wish to help in request for ammunition and that sale is approved. We have informed authorities of difficulties in arranging official US air transportation. We have told them that if US transports material payment would have to be arranged for by Bolivian authorities.
 

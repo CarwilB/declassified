@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "LAW, LAND NATIONALIZATION, TAXES, ATTORNEYS, PROPERTY TITLES, FOREIGN POLICY POSITION, LAND REFORMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. The Embassy has received a copy of a letter signed by the Ministry of Industry and Commerce to Mr. J.A. Moran, attorney for Applegate-Youngquist, in reply to his letter to GOB of January 11. GOB reply inter alia 1) states the GOB cannot be subject to pressures or threats; 2) renews offer of compensation in form of land; 3) asks for documentation regarding Applegate-Youngquist payment of taxes prior to seizure of land, deeds of title and appointment of legal representative for Applegate & Youngquist, or alternatively their presence in Bolivia, in order to deal with GOB on the matter. Although the letter is somewhat brusque in tone, we do not necessarily consider it a step backward since the documents sought by GOB are presumably available in one form or another from Applegate & Youngquist.
 

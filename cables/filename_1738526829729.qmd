@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PROCUREMENT, AGRICULTURAL COMMODITIES, TRADE OPPORTUNITY REPORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Action requested:** Embassy would appreciate confirmation that CCC credit lines remain frozen and that it is not, repeat not, possible for Bolivia to open GSM-4 credit at this time.
 

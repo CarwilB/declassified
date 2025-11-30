@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. POST REQUESTS ASSISTANCE EITHER THROUGH PARTIAL
 LEADER GRANT OR VOLUNTARY VISITORS'S BUREAU AND USIS

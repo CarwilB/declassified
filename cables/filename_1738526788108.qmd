@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "NATIONALIZATION, MINING INDUSTRY, INDEMNIFICATION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. "Mr. Minister:
 "In my position as representative of International Metal Processing Corporation, I have remained in the country two weeks trying to contact you, Mr. Minister, and with other authorities, to discuss the problem that has arisen with Embosa and try to reach an arbitrated agreement as provided in Article 39 of the social statutes of the cited enterprise.

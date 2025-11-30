@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Mission is pleased that Dr. Hoofnagle will be able to make an administrative visit to La Paz with the OINM Bolivia Desk Officer for approximately one week beginning on/about April 16. Please confirm exact dates, flights, etc. when this information is available.
 2. For the record, Mission would also appreciate receiving a telegram from USDA confirming its approval for PASA Project Manager Howard L. Steele to take early home leave beginning on/about May 24 as per discussion during Beal/Hoofnagle telecon March 9.

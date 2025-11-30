@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "WHEAT, SUPPLIES, PL 480 TITLE 1, AGRICULTURAL PRODUCT SALES, AGRICULTURAL PRICES, AGRICULTURAL AGREEMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Econoffs met with Minind/Com in follow-up to Ambassador's conversation with President Banzer (Ref A). Econoff explained situation as described Refs B and C and offered Mission's assistance in arranging commercial wheat sales. Minister Pereda complained that if USG had responded to GOB request sooner, GOB could have made arrangements to cover its requirements. Econoff conceded would have been helpful had we been able respond sooner but pointed out that (1) almost 50,000 M.T. PL-480 wheat still had not entered Bolivia, (2) these supplies should last until mid-April, 1974 which should afford GOB time to make other arrangements, and (3) flour was real short-term problem and possibility of importing flour under PL-480 had been discarded from time 1972 agreement had been under negotiation due to prohibitively high U.S. price delivered to Bolivia.
 

@@ -16,11 +16,13 @@ cable-declass-date: "28 MAY 2004"
 cable-concepts: "DIPLOMATIC COMMUNICATIONS, ACCESS TO PORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Message Text
 

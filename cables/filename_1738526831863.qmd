@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DISASTER RELIEF, ECONOMIC ASSISTANCE, FLOODS, ECONOMIC RECONSTRUCTION, DEVELOPMENT PROGRAMS,"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. On March 19 I handed text of following Aide Memoire to Acting President General Guzman in the Presidential Palace:
 

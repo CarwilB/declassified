@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TEXT, PRESS RELEASES, VISITS, MEETINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. In lieu of a press conference or departure statement, we suggest a press release at the time of the Secretary's departure from La Paz Wednesday, October 24. We have used this technique before, e.g. for Under Secretary Newsom's visit, and found it gets excellent coverage from local press.
 2. Needless to say, substance, e.g. on tin, will have to be adjusted in the course of the Secretary's visit, but we submit the following so the Secretary can consider the type of release we propose.

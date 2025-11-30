@@ -16,12 +16,14 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "OPIUM, SURVEYS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Mission concurs with Peru Coca Survey Team visit to Bolivia. Team will be met and other details arranged. Confirmation of visiting dates will be made after August 6, 1979 due to the pending change of government. Boeker
 

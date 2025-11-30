@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "COMMUNITY RELATIONS, ECONOMIC COOPERATION, SPEECHES, LANGUAGE SERVICES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 La Paz.- Con el propósito de acelerar la integración educativa, cultural y científica en el área que comprende el Pacto Andino, ayer (miércoles 27) fueron inauguradas las labores de la Quinta Reunión de Ministros de Educación de la Subregión Andina y en la que también participan representantes especiales de la OEA, UNESCO, BID y otras entidades internacionales.
 

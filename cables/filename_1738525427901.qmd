@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "DECISION, BANKS, HOLIDAYS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Late Nov 14, the Central Bank ordered commercial banks and the money exchange houses throughout Bolivia to close Nov 15 and Nov 16. The order stated that this measure was being taken to permit fundamental adjustments in the country's financial system and to avoid unnecessary confusion in normal banking operations.
 

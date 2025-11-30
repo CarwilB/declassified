@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "INAUGURATION, INTERIM GOVERNMENT, SPEECHES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Summary:** In a simple, moving ceremony Walter Guevara Arze took the oath of office as interim president of Bolivia at 1pm on August 8, and was promptly given a bear hug by outgoing President General David Padilla -- the emotional centerpiece of the ceremony. Padilla's receding speech stressed that he and the armed forces had now done exactly what they promised to do -- restore Bolivia to constitutional rule. Guevara promised a government of national conciliation, but regretted that apparently not all groups would participate in his yet-to-be formed cabinet. His major tasks, Guevara said, will be confronting Bolivia's economic crisis and reforming the electoral laws to provide for a second round popular vote in the May 1980 elections. This modest inauguration and its indications of the pragmatic evolution of Bolivia's young democracy are most encouraging for U.S. interests. End summary.
 

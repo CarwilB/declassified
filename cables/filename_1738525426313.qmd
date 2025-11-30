@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "GENERALIZED PREFERENCES (TARIFFS), MEETING DELEGATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. GOB will send a team to subject hearings scheduled week of September 24 to present three petitions (wall hangings, pillow covers, and men's outerwear of llama hair) in effort to have these products included in the GSP.
 2. Bolivian team will consist of:

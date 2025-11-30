@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "GOVERNMENT OVERTHROW, PRESS CONFERENCES, POLITICAL SITUATION, FOREIGN POLICY POSITION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Following is a transcript** of the 11/2/79 noon press briefing given by Tom Reston:
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "SUGAR, AGRICULTURAL PRODUCTION, AGRICULTURAL DEVELOPMENT"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Ref A is comprehensive report on Bolivian sugar situation and will be in March 11 pouch. Ref presents strong evidence that Bolivian sugar production will continue its recent dynamic growth and that, therefore, Bolivia should be regarded as a reliable supplier.
 2. Would appreciate knowing whether Department has made presentation recommended in Ref B and, if so, results. Stedman

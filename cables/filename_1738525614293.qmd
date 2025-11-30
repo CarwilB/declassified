@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "FINANCIAL CRISIS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. (C Entire text).
 

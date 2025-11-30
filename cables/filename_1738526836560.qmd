@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "TECHNICAL ASSISTANCE, CERP 0008, DEVELOPMENT PROGRAMS, US CONGRESSIONAL PRESENTATIONS, FOREIGN"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Role of UNDP, UN development system (Subpara A).** The ResRep in Bolivia is a career UN civil servant who has served here for several years. He is knowledgeable and energetic. He strikes us as a forceful manager of NDP activities and as an effective coordinator of all other UN system technical assistance. He has a reputation for expressing quite frank opinions to GOB officials and to be willing to accelerate the termination of projects which are not being well supported. His relationship with his home office appears to be good.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. CAPT AUGUSTO SANCHEZ, MANAGER OF FANAQUINA, PLANNING TO ARRIVE
 WASHINGTON JULY 1. SANCHEZ TOLD EMBOFF THAT TRIP TO U.S. PRINCIPALLY

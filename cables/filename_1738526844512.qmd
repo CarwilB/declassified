@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "INSURANCE, CATTLE, NATIONALIZATION, INVESTORS, FOREIGN INVESTMENTS, CONTRACTS, LAND REFORMS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Embassy has received note from Foreign Office asking U.S. to inform OPIC that Bolivian Ministry of Agriculture has approved proposed investment in cattle ranches by subject U.S. citizens.**
 2.  **Ministry official told EMBOFF that note intended to constitute Bolivian Government approval of OPIC insurance for projects.** Nonetheless, OPIC will wish to inspect text of note carefully (Embassy translating and pouching) to see if language adequately constitutes foreign government approval since language of note only implies that Min Ag's approval constitutes GOB approval. In fact, note goes on to further inform OPIC that details of investments must still be approved by GOB's Institute of National Investment (INI).

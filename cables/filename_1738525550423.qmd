@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "ITINERARY, VISITS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Subject: First Lady's Bolivian Schedule
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "LAND, CATTLE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. The effective world-side advertising campaign of the Anglo-Bolivian Land and Cattle Co. (ABLC) deluged US with inquiries about the company. In July 1978 we completed our investigation and sent our report to USDOC and SECSTATE. Our efforts have continued but with virtually no new information. We have found it extremely difficult to obtain information about this company.
 

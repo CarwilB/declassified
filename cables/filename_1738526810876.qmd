@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PRESS COMMENTS, FOREIGN RELATIONS, FOREIGN MINISTERS MEETINGS, PUBLIC ATTITUDES, FOREIGN POLICY POSITION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Local reaction to meeting of Foreign Ministers Mexico City thus far limited to statement issued by Foreign Ministry on February 23, and February 25 editorial in leading morning newspaper Presencia. Text of Foreign Ministry statement read as follows: "The delegation of Bolivia proposed today in the conference of Foreign Ministers that the following points should be included in the proposals which are presented to the Secretary of State of the United States of America, Henry A. Kissinger: (1) That in the area of Development Assistance, the United States grant most favorable treatment to the least developed countries, and even more to those nations with geographic limitations, such as a land-locked status. (2) That the United States avoid policies and measures which affect the economies of Latin American states which produce minerals and other basic products. Both suggestions received the unanimous support of the Latin American countries meeting in the Mexican capital. The spokesman of the Foreign Ministers presented the first point to Secretary of State Kissinger, who accepted fully this orientation for inclusion in the program of Development Assistance."
 

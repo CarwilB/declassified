@@ -16,11 +16,13 @@ cable-declass-date: "28 MAY 2004"
 cable-concepts: "MILITARY SALES, NAVAL SHIPS, DIPLOMATIC COMMUNICATIONS, MILITARY CREDIT, MILITARY ASSISTANCE AGREEMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Admiral Zumwalt has signed a letter dated December 13, 1973 to Admiral Pinto of the Bolivian Navy, offering "two small unarmed patrol craft, PBRs" to meet the Bolivian Navy's "requirements." Admiral Zumwalt's letter goes on to state: "The estimated cost of the craft, including necessary repairs to place them in good operating condition as training craft is $25,000 each. In order that we can expedite the procedures to transfer these units to your Navy, I would suggest the submission of a diplomatic note to the U.S. government stating your country's wish to make this purchase. The means of funding the craft is, of course, at your discretion. The use of MAP funds might be a possibility and this avenue would require coordination with our Military Group in Bolivia. Another means is by a direct purchase through the Foreign Military Sales. After the diplomatic note has been submitted and approved, precise price and availability information of the patrol craft can be provided. This will, in turn, provide the basis for an official letter of offer and acceptance. I would estimate that the craft would be ready for shipment to Bolivia within sixty days after the financial arrangements have been completed."
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** As of the evening of April 21, Committee II's work has been virtually completed, the committee having fully discussed the Secretariat's activities over the last two years, the Secretariat's projected work program for 1979-81, and having considered 25 out of 26 draft resolutions before it. The US delegation played an active role and was successful in promoting greater concern over the need for budgetary discipline and the need to stop the proliferating number of international meetings and subsidiary bodies of ECLA. A very good resolution on decentralization (restructuring) of UN activities was adopted which incorporates the concept of redeploying resources from New York to the regional commission to enable the latter to effectively assume their growing responsibilities (text to be sent septel). Only remaining business on Committee II agenda is consideration of Uruguayan draft resolution on energy which is still before Latin American Working Group and adoption of Committee II report which will be forwarded to Plenary. End summary.
 

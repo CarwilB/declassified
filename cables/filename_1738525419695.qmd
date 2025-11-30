@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Assuming prompt allocation of one new FSNE position for FY 1979 (para four, REF A), Bolivia will require one additional FSNE position in FY 1981. We note, however, that in our last consular package (para 85, REF B), this position was requested FY FY 1980; yet La Paz is not included among the posts listed in para 5, REF. A which have pending FY 1980 requests. If possible, we would like to include this position in FY 1980 budget request.
 2. La Paz will also probably require one additional officer position in FY 1981 if present trend in NIV work continues. BOEKER

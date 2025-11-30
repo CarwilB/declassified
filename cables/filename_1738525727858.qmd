@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "HUMAN RIGHTS, REPORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Bolivia's past political instability has been an impediment to economic and social progress and, therefore, at least partially responsible for the country's uneven record in terms of human rights observance. In 1977 then President Banzer initiated a liberalization of virtually all major restrictions on human rights, releasing all reported political prisoners, allowing exiles to return, and scheduling elections for July 1978. This positive human rights momentum was not checked by the Pereda coup (August 1978) or the Padilla takeover (November 1978). While the first represented a brief interruption in the democratization process and the second was designed to put it back on track, both governments contributed to the improving human rights situation: General Pereda by abrogating the feared State Security Law, and General Padilla by overseeing in July 1979, possibly the most democratic elections in Bolivia's history.
 

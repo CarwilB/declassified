@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "BIOGRAPHIC INFORMATION, PRESIDENT, INTERIM GOVERNMENT"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. **Summary:** In electing Walter Guevara Arze, 67, as Bolivia's first constitutionally-elected president in 13 years, the Congress has picked one of Bolivia's most intelligent and attractive moderate politicians. He is widely respected by those outside Bolivia who know him for his rational and direct approach to political problems. One of the founders of the MNR in the 40s, he has not recently been close to Victor Paz and is not a leading insider in that party. Following the 1952 MNR Revolution Guevara served as Foreign Minister (1952-56), Ambassador to France (1956-58) and Minister of Interior (1958-59). Guevara split with Victor Paz in 1959 and formed the Authentic Revolutionary Party, a conservative offshoot of the MNR. In the 1960's he again served as Foreign Minister (1967-68) and as Bolivia's Permanent Representative to the United Nations (1968-71). Following several years of exile in the mid-1970's Guevara returned to Bolivia and allied himself with Paz in both the 1978 and 1979 presidential elections. He was elected Senator from Cochabamba in the July 1979 elections and then President of the Senate from which position he emerged as Bolivia's interim president when the Congress was unable to choose between either of the two leading vote getters, Hernan Siles or Victor Paz. Although he has at times been critical of the US, Guevara is generally considered to be friendly towards the United States. The US should have a close and cooperative working relationship with Guevara. End summary.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "SUGAR, DISPUTE SETTLEMENT, TRADE COMPLAINTS, LAND NATIONALIZATION, COURTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 SUBJ: Applegate/Youngquist Case
 REF: State 062797

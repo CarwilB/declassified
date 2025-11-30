@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DRUG CONTROL, FOREIGN ASSISTANCE PROGRAMS, PERSONNEL ASSIGNMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Embassy appreciates opportunity to give more detailed assessment of its need for a new narcotics advisor position. Annex B of Survey Report of Narcotics Law Enforcement Study Team No. 4 (April-May 1972) gives a good picture of problems faced by GOB in coming to grips with the narcotics problem in Bolivia and proposes a strategy and plan of action for USG assistance which this Embassy through its Narcotics Control Action Plans has been trying to implement since that time.
 2. While considerable progress has been made, e.g., the passage of a comprehensive narcotics law, the assignment of a DEA unit to the US Embassy, fairly extensive training to Bolivian enforcement officers both in the US and in-country, and the provision of equipment and operating funds to the narcotics unit in the police force, we are still in Phase I of the two-phase approach recommended in the Survey Report.

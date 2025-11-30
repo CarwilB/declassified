@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PRESIDENT, DIPLOMATIC COMMUNICATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. On February 23 President Padilla asked the Ambassador to come to the palace with Messrs. Paul and Bartolucci of AID who are in Bolivia to consider possible location here of an AID-financed regional center for remote sensing. President Padilla presented the Ambassador with the text of a letter to President Carter (repeated beginning paragraph 5 below with informal English translation). The original letter is being forwarded through the Bolivian Embassy in Washington.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Embassy contacted Kish family by telephone. Wife and children all perfectly well and have had no problems. They plan to depart Bolivia February 21, via Lufthansa.
 

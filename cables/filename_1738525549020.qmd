@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PRESIDENT, INTERIM GOVERNMENT, BIOGRAPHIC INFORMATION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 2. Lidia Gueiler Tejada, chosen by the Congress to serve as Bolivia's interim president until Aug 6, 1980, is, by her own account, "not a great intellectual," but rather a "revolutionary woman" guided by the experience of "30 years of struggle." Although she previously served as president of the Chamber of Deputies (and as acting chairperson of the bicameral Congress), Ms. Gueiler is not a very well known politician. Her roots are in the Nationalist Revolutionary Movement (MNR), which she joined when it began to gather force in 1946. Regarded for many years as "leftist" and labor-oriented, she split from the mainstream MNR before the 1960 general elections to help Juan Lechin form the Revolutionary Party of the National Left (PRIN). In early 1978, she veered away from Lechin to found her own PRIN faction. In 1979, she and her small band of followers became affiliated with Victor Paz Estenssoro's MNR alliance. Her subsequent emergence as president of the lower house--a circumstance that led to her being selected Chief of State on Nov 16--was more attributable to Paz' machinations than to any of her own.
 

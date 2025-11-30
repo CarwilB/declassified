@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "AGRICULTURAL DEVELOPMENT, GRANTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. The mission has in a very limited number of special cases supplemented salaries of key Bolivian civil servants whose training, experience and ability make them uniquely qualified to advance crucial elements of the GOB cooperative program with the mission. This is done to encourage such personnel to remain in key positions of leadership within the government in the face of employment offers from other agencies, multinational or private sector, which offer remuneration substantially above GOB civil service scale. In this sense we top off the salary for a fixed time period until, hopefully, GOB civil service scale for the position is adjusted upward and encourage the key leader not to leave the country or the GOB.
 

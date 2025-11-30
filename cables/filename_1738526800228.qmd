@@ -16,12 +16,14 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "ZINC, CONSTRUCTION, MINING INDUSTRY"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  On January 30, local representative of Engelhard Minerals and Chemicals Corporation stated that he was recommending to his firm to make an offer to GOB to construct smelter under mixed enterprise arrangement with ENAF. Russian, German, Japanese, Brazilian, French, Polish and Czechoslovak offers reportedly also likely to be made.
 2.  **Comment:** According to Singmaster and Bryer (consultants to U.S. Steel and COMIBOL) report of 1969, there is no technical reason why an electrolytic zinc plant could not be installed and operated successfully in Bolivia despite problems of high altitude. However, report also stated that economic success of the zinc refinery depended on electric power costs, sufficient reserves for guaranteed delivery of zinc concentrates for 20 years, and guaranteed market for sulphuric acid produced, which due to high transportation costs, would have to be marketed internally. For zinc refinery with annual output of 33,600 metric tons of zinc, 265,440 pounds of cadmium, and 360 tons of copper residues, 61,000 metric tons of sulphuric acid would be produced. Embassy believes that whether present economics of smelter are justifiable or not, smelter will be built in any event.

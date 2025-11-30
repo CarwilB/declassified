@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "SECURITY, ITINERARY, SURVEYS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **This preliminary site survey was conducted in and around La Paz, Bolivia from October 15 to October 19, 1979 by Special Agents Possanza, Kruchko, Christopher, and RSO Blystone.**
 

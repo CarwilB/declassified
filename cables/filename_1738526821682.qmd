@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MEETING AGENDA, COMMITTEE MEETINGS, NEGOTIATIONS, MEETING DELEGATIONS, MEETINGS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. In a meeting March 6, Fonoff official added little to earlier discussion of IA-ECOSOC agenda. He stated the Fonmin was pleased that the U.S. saw the meeting as a continuation of discussion begun at Mexico City. Bolivians will be interested in picking up themes from the last annual meeting, including trade preference and soft loan financing. The official said that the minister was interested in establishing special preferences for the least developed. It was clear that this position did not (repeat not) include the views of the Planning Council and its Minister-Secretary, who will lead the Bolivian delegation.
 2. The official said that Bolivia has not (repeat not) come to a firm decision on CIAP leadership but noted a general sentiment that Interim Chairman Rodriguez be confirmed.

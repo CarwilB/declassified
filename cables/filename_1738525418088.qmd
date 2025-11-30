@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Remains of Frances Christian Ring being shipped from La Paz December 6 at 1910 hours via LAB Flight 861 to Miami for connection with Braniff Flight 140 due to arrive at Dallas, Texas 1430 hours on December 7, 1979. Request that you meet flight upon arrival at Dallas.
 

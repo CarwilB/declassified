@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DRUG CONTROL, BUDGETS, PERSONNEL TRAINING, FUND ALLOTMENT, DRUG TRAFFIC, POLICE FORCES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** Request amendment of FY 1974 NCAP budget to include additional $15,000 for operating expenses.
 

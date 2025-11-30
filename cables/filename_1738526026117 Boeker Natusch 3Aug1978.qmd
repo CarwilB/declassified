@@ -16,12 +16,14 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "GOVERNMENT REFORM, REPORTS, NATIONAL ELECTIONS, CAT-B"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  Natush Busch told me evening of August 2 that Pereda's meeting with the La Paz garrisons, which Natush attended, went quite well. The garrisons asked for six days to give their response in writing, but Pereda was still hoping that all needed approvals could be obtained in time for an August 6 announcement of new elections. Natush said Carlos Iturralde (GOB ambassador in Washington) had been sent to see Banzer in Santa Cruz to solicit a nod of approval from him to Banzer loyalists in the military on the election plan. Natush thought that if Banzer would cooperate this would assure success but he was optimistic in any case. Pereda, he said was meeting his commitments to US.
 

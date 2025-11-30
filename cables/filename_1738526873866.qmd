@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PL 480 TITLE 1, DEBT REPAYMENTS, AGRICULTURAL AGREEMENTS, CHECKS (MONEY)"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 Message Text
 

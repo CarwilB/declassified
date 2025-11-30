@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. FNCB manager La Paz states FNCB considered direct dollar financing as well as guarantee for subject sale. Decided against any participation in financing because study prepared by Asociacion de Consultores, LTA. of Santa Cruz for Cooperacion Agricola Warnes showed barely sufficient cash flow would not begin until 1975 crop (harvested in May, 1975). Warnes study showed total investment of US$ 568,000 including for working capital (US$361,000 for gin F.A.S. Southern U.S. port). Cotton supply estimated at 87,000 quintales annually from 6,000 hectares or 14.5 quintales per hectare which higher than average yield in Santa Cruz. Warnes planned charge US$ 3 per quintal generating US$261,000. After deduction costs including interest (calculated at 11 percent by FNCB) about US$79,000 in first year and US$104,000 in fourth year remain in net profit and depreciation allowance to cover roughly US$99,000 per year loan amortization.
 

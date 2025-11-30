@@ -16,12 +16,14 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "NATURAL GAS, INDUSTRIAL DEVELOPMENT, TREATY SIGNATURE, DEVELOPMENT PROGRAMS, TECHNICAL ASSISTANCE"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 ------------------------------------------------------------------------
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "NATIONALIZATION, COMPENSATION, CENTRAL LEGISLATURE, RESOLUTIONS, PUBLIC UTILITIES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** The Bolivian Congress recently passed a resolution seeking confiscation or nationalization of the Bolivian Power Company, a Canadian (Nova Scotia) registered company whose major shareholders are US citizens or corporations, including Baldwin United of Cincinnati, Ohio which owns 49 percent of Bolivian Power's common stock. The resolution resulted in the appointment of a special technical committee of the Lower House, consisting of lawyers, engineers and other experts to study the issue and make recommendations. Bolivian Power responded with its own initiative, i.e., a lease-sale arrangement with fees to be paid over twenty years after which the Bolivian Government would receive title to the company's assets for no additional costs and with no interest payments. In a conversation with the Ambassador on October 16, Energy Minister O'Connor stated that Bolivian Power's proposal was an acceptable basis for negotiation, but that a number of specific elements of the proposal were unacceptable to the GOB.
 

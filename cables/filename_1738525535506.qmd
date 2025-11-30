@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PETROLEUM, GASOLINE, TRADE AGREEMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Summary:** A combination of Bolivia's rapidly worsening balance of payments predicament and serious financial problems in YPFB is spurring efforts here to find a way to avoid the country's again becoming a net petroleum importer. One possible medium-term solution being discussed within the GOB is a petroleum swap with Brazil.
 

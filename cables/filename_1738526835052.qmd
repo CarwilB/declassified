@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "LANDLOCKED COUNTRIES, CHIEFS OF STATE MEETINGS, FOREIGN POLICY POSITION, ACCESS TO PORTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **Summary:** President Banzer's mid-March interview with Chilean President Pinochet in Brasilia, where both men were attending the inauguration of Brazilian President Ernesto Geisel, set off a wave of speculative commentary in Bolivia on prospects for realizing the country's long-standing desire to regain an access to the sea. Banzer himself did much to stimulate this renewed upsurge of interest in the historic Bolivian obsession with "returning to the sea" by his optimistic appraisals of the outcome of his talks with Pinochet. Although the Banzer-Pinochet meeting coincided with the beginning of Bolivia's annual "Week of the Sea" celebrations, most Bolivian political observers displayed a new willingness, in the wake of the talks, to put aside patriotic rhetoric in favor of a pragmatic search for possible grounds of agreement with its Pacific coast neighbors. At the same time, however, politicians and government officials alike realized the enormous difficulties facing Bolivia in its efforts to convince Chile and/or Peru to grant it renewed direct access to the sea. The major point upon which both the majority of political observers and the government of Bolivia itself appeared to be in agreement was the necessity for Bolivia to abstain from self-defeating threats of violence, much less actual recourse to physical force, in favor of peaceful, diplomatic initiatives toward resolving the country's century-old landlocked status.
 

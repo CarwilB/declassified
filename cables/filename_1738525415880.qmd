@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "TIN, SALES, GOVERNMENT REACTIONS, DIPLOMATIC COMMUNICATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bolivian PERMREP circulated, as an official document of the General Assembly under agenda item 12, the complete text of the letter from Bolivian Foreign Affairs Minister Fernandez to Ambassador Boeker dated September 28, 1979, protesting the approval by the Senate Armed Services Committee of a bill that would permit the sale of tin from the U.S. strategic reserves on the international market. We are not repeating text which we assume has already been transmitted by AmEmbassy La Paz.
 2. **Comment:** Bolivia circulated its letter within the 3rd Committee - Social (not 2nd Committee - Economic) under item 12 (report of ECOSOC). There is no indication that any action by the General Assembly is being requested or expected. McHenry

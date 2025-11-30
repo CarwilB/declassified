@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DISASTER RELIEF, AGREEMENT DRAFT, PETROLEUM, LOAN AGREEMENTS, FLOODS, PRICES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Would appreciate prompt clarification USG response to request by GOB for $50 million AID loan for flood reconstruction. First, would you be kind enough to inform us what is meant by "We are willing to collaborate with the GOB in assessing flood damage and reconstruction requirements." Next, would appreciate clarification whether statement in para 3 that we would support reasonable request to IDB and IBRD means that we would not be willing to entertain request to AID. Note that para 2 speaks of "limited development loan resources" but does not preclude receipt for consideration of reconstruction loan request. Finally, I would prefer not to use "Bolivia's windfall petroleum earnings" in discussing reconstruction assistance with Foreign Minister. While prices for Bolivia's petroleum exports have risen considerably, there is as yet no guarantee that current prices will hold during the year nor that proceeds from taxation on petroleum will not be required to cover budgetary expenditures and investment needs. I would also like to note that Declaration of Tlatelolco in section 4, para 7 states "The Foreign Ministers agree that one of the principal objectives is the accelerated development of the countries of the Americas and the promotion of the welfare of all their peoples. In this regard, the U.S. accepts a special responsibility; and the more developed countries of the Americas recognize that special attention should be paid to the needs of the lesser developed." As Bolivia has the lowest GNP per capita of any country on the continent of Latin America, it is viewing with special interest this particular section of the Mexico City Declaration.
 

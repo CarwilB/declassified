@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PRESIDENT, MARTIAL LAW, GOVERNMENT OVERTHROW, FOOD SHORTAGE, SPEECHES, ECONOMIC CONTROLS, CIVIL"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Following is text of President Banzer's speech of January 28 announcing institution of state of siege throughout Bolivia.**
 

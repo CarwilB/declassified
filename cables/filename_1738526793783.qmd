@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PETROLEUM PRODUCTS, TRADE DATA, EXPORT DATA, IMPORT DATA"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1.  **Following data supplied by Bolivian National Oil Company Yacimientos Petroliferos Fiscales Bolivianos (Y.P.F.B.), the only petroleum gas producing and exporting entity in Bolivia:**
     A. Crude oil production - 17,265,582 US barrels.

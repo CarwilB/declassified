@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "VISITS, SOCIAL RECEPTIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Mrs. Carter's program includes buffet dinner at residence on Sunday, August 5, at 1900. We are planning to invite approximately ten Bolivian couples, though we cannot do so until the new president has been named.
 

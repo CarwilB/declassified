@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "ECONOMIC CONDITIONS, FOREIGN POLICY POSITION, INTELLIGENCE ASSESSMENTS, POLITICAL SITUATION"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Bolivia is now trying to emerge from a two-year period of political turbulence, short-lived and ineffective governments, economic decline and intense military-civilian tension. The most consistent trends during this period have been broad popular pressure for civilian government and growing anti-military sentiment, culminating in the strident repudiation and undoing of the Natusch coup and installation of the Gueiler government in November 1979.
 

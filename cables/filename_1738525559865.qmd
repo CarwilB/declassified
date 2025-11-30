@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "ECONOMIC CONTROLS, DEVALUATIONS, CURRENCIES"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. This morning, November 30, at 0345 hours, the GOB announced a package of economic measures much along the lines of reftel. The program includes the following:
     (A) A devaluation of 25 percent to 24.51 pesos (buying) 25 pesos (selling) to the dollar.

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "PETROLEUM, MINISTERIAL MEETINGS, EMBARGOES, PRICE TRENDS, HYDROELECTRIC POWER PLANTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Congressman Whalen was cordially received by Minenergy/Hydro-carbons Capriles January 8. Minister remarked that US economy resisting Arab oil embargo remarkably well: certainly much better than Europe or Japan. Latter had proven be extremely vulnerable. Congressman described gasoline/fuel situation in US as spotty with some areas suffering considerably and others almost untouched.
 

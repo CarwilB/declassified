@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "ARMED FORCES, LABOR, LEGISLATORS, POLITICAL SETTLEMENT, NEGOTIATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Since approximately 5:30 p.m. November 12, tripartite negotiations have been in process in the Bolivian Senate between the Armed Forces, the Bolivian Labor Federation (COB) and representatives of the Congress in search of a political solution to the current crisis. Gen Eden Castillo, Armed Forces Commander, is heading that delegation. COB Secretary General Juan Lechin along with his Deputy Oscar Sanjines, Congressman Simon Reyes and other Executive Committee members represent labor, and the Congress is represented by each chamber's officers as well as the parties' respective floor leaders. The current focus appears to remain on the idea of a governing triumvirate whereby a member of Congress, labor, and the Armed Forces would form Bolivia's executive. Thus far the COB and the Congress have resoundingly rejected Col. Natusch as the Armed Forces' representative in such an arrangement, which in turn has caused the military to take the position that if the COB and the Congress can elect their own to the triumvirate, then the Armed Forces should be no less entitled to do the same. The impasse, then, is over Natusch. According to one MNR source, a sounding of the Armed Forces garrisons in La Paz and the interior reveals an overwhelming sentiment that Natusch continue. This appears borne out by Alfredo Arce, close Banzer advisor, who informs us that events are moving closer to a purely military (castrense) solution. Arce -- who earlier in the day (November 12) noted that Banzer is in town -- also mentioned "consultations" with the garrisons, which he characterized more as briefing sessions than soundings, but with the same result, i.e., total support for Natusch. Hence, Arce noted, if the Congress and the COB continue to hold out against Natusch in the current negotiations over the triumvirate, then the Armed Forces will simply end the discussion and effectively suspend the Congress. This would not preclude civilians in the cabinet and other positions, he suggested, but the conclusion is that civilian participants would come largely from Banzer's and coalition which Arce confirmed is now supporting the regime.
 

@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "MEETING AGENDA, MEETINGS, MEETING DELEGATIONS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Acting Director Economic Affairs Bolivian Foreign Ministry Ortiz states that GOB still in midst planning for Ninth Annual ECOSOC meeting. He now certain that Sergio Otero, Minister-Secretary of Government Planning Office (CONEPLAN) will lead delegation accompanied by Armando Loayza, CONEPLAN, Eulalio Medina of Foreign Ministry and not yet named reps of MININD/COM and of FOMEX, Bolivian Export Promotion Office.
 2. Ortiz promised to discuss GOB position again March 6. Embassy will cable results conversation. For moment he only wished to stress GOB interest in maintaining CIPE, which has given effective assistance to Bolivia. Stedman

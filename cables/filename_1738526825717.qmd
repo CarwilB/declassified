@@ -16,11 +16,13 @@ cable-declass-date: "28 MAY 2004"
 cable-concepts: "NARCOTICS, DRUG TRAFFIC, EXTRADITION, ARRESTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Following receipt of reftel, DCM spoke with legal advisor and Subsecretary of Justice Ledezma on February 20 concerning our desire that Penaranda be expelled from Bolivia into US custody. DCM stated that Washington authorities were of the view that procedure earlier outlined by Ledezma (La Paz 0712) seemed to be indistinguishable from formal extradition request, particularly need to channel documents through Foreign Office. DCM inquired whether Ledezma viewed his procedure as, in effect, an extradition procedure and whether Foreign Office channel could not be omitted. Ledezma replied that he did not regard procedure earlier outlined as formal extradition route. Rather, Foreign Office channel seemed to him to be required only in order that signature of Bolivian Consul in New York could be duly certified by Foreign Ministry. (Ledezma had not earlier mentioned need for Bolivian consul certification). When pressed as to the real need for use of Foreign Office channel, Ledezma agreed that this could be dropped and the relevant documents submitted directly to him. Assuming that documents are in good order, he would then authorize issuance of an arrest warrant for Penaranda. It was clear in the conversation with Ledezma that he views the documents as legally necessary to support issuance of an arrest warrant against a Bolivian citizen.
 

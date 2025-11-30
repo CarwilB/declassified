@@ -16,11 +16,13 @@ cable-declass-date: "01 JAN 1960"
 cable-concepts: "DRUG CONTROL, NARCOTICS, PERSONNEL APPOINTMENTS, PERSONNEL ASSIGNMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. In order to facilitate coordination with the Bolivians and to avoid the dissipation of authority and effectiveness which too much overlapping of responsibilities engenders, I have assigned clearly defined areas of jurisdiction to the individual members of the Narcotics Committee. In making these assignments, it became obvious to me that at this formative stage in the development of the Bolivian narcotics control effort, we need all the qualified personnel strength we have at the moment to isolate and cope with the problems in this major area of concern. We will not be able to replace or retain one of our key team members for the next fiscal year unless we get a new position.
 

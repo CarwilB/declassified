@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "n/a"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. Embassy checked with the freight company and found out that Mr. Harold Poole's personal effects were shipped back to U.S. on September 3, 1979 Braniff Flight 974, AWB 00284743746.
 2. Please forward to this embassy through the Department of State, WASHDC (SCS) the amount of US DOL 165.00 (one hundred and sixty five dollars) to cover all remaining expenses incurred on Mr. Harold Poole's death.

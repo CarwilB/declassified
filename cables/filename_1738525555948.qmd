@@ -16,11 +16,13 @@ cable-declass-date: "01 jan 1960"
 cable-concepts: "PL 480, AMENDMENTS, FOREIGN ASSISTANCE AGREEMENTS"
 ---
 
-::: {.cable-meta}
-:::
 
 # DEPARTMENT OF STATE TELEGRAM
 **UNCLASSIFIED**
+
+::: {.cable-meta}
+:::
+
 
 1. **The following is the text of message yet undelivered to post regarding the Fourth Amendment to the Title I/III PL 480 Agreement of May 31, 1978.**
 
