@@ -1,0 +1,39 @@
+---
+title: ""
+author: "Unknown"
+date: "April 09, 1974"
+editor: visual
+cable-date: "April 09, 1974"
+cable-from: ""
+cable-to: ""
+cable-info: ""
+cable-subject: ""
+cable-tags: "PBOR, PFOR, BL, OAS"
+cable-ref: ""
+cable-doc-number: "1974LAPAZ02230"
+cable-classification: "UNCLASSIFIED"
+cable-declass-date: "01 JAN 1960"
+cable-concepts: "LANDLOCKED COUNTRIES, FOREIGN MINISTERS MEETINGS, ACCESS TO PORTS"
+---
+
+::: {.cable-meta}
+:::
+
+# DEPARTMENT OF STATE TELEGRAM
+**UNCLASSIFIED**
+
+
+
+***
+
+#### Message Attributes
+
+- **Document Number:** 1974LAPAZ02230
+
+- **Date:** April 09, 1974
+
+- **Classification:** UNCLASSIFIED
+
+- **Declassified:** 01 JAN 1960
+
+- **Concepts:** LANDLOCKED COUNTRIES, FOREIGN MINISTERS MEETINGS, ACCESS TO PORTS
