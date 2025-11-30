@@ -4,7 +4,7 @@ library(stringr)
 library(dplyr)
 
 # --- Configuration ---
-target_dir <- "output_qmd" # Adjust to your folder name
+target_dir <- "cables" # Adjust to your folder name
 
 # --- Processing Function ---
 move_meta_block <- function(file_path) {
