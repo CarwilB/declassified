@@ -1,1 +1,0 @@
-meta_data <- process_directory("data/cables-usa", "cables", use_llm = TRUE)
