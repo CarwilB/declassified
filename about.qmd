@@ -1,5 +1,6 @@
 ---
 title: "About"
+css: styles/sans-serif.css
 ---
 
 About this site
