@@ -1,0 +1,41 @@
+/* styles/sans-serif.css
+   Overrides for standard sans-serif readability on pages that include this file 
+   (e.g., listings, home, about).
+*/
+
+:root {
+  /* Define a universal sans-serif stack */
+  --sans-font: "Source Sans Pro", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* Define the monospace stack used in the original design (Courier Prime or default monospace) */
+  --mono-font: 'Courier Prime', monospace; 
+}
+
+/* 1. Override BODY font */
+body {
+  font-family: var(--sans-font) !important; /* Use !important to ensure it overrides global styles.css */
+}
+
+/* 2. Override all Table elements (required for listing view) */
+.quarto-listing-table,
+.quarto-listing-table thead th,
+.quarto-listing-table tbody td,
+table,
+table th,
+table td {
+  font-family: var(--sans-font) !important;
+}
+
+/* 3. Ensure general text is covered */
+p, li {
+  font-family: var(--sans-font) !important;
+}
+
+/* 4. EXPLICITLY KEEP NAVBAR MONOSPACED (NEW) */
+/* Target common Quarto/Bootstrap navbar classes (navbar, navbar-nav, nav-link) */
+#quarto-header,
+.navbar,
+.navbar-nav,
+.nav-link,
+.navbar-brand {
+    font-family: var(--mono-font) !important;
+}
