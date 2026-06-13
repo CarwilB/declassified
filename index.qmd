@@ -1,10 +1,21 @@
 ---
 title: "declassified: <br> American Diplomatic Cables from Bolivia"
 css: styles/sans-serif.css
----
+listing:
+  id: cables-list
+  sort: date
+  contents: . # <--- UPDATE THIS to your actual folder name
+  type: table
+column: "body-outset"
+sort: "date desc"
+date-format: "MMM D, YYYY"
+page-size: 30
+--- 
 
 This is an experimental website for sharing American diplomatic cables that have been declassified and pertain to Bolivia. It is also an experiment in making a collection of such documents more readable and searchable. While such cables are freely available from sources like the National Archives, State Department FOIA library, and the U.S. Declassified Documents Online, they are often hard to read due to formatting issues, and they are not easily searchable as a collection.
 
 Cables presented here have been processed to improve readability, and metadata has been added to facilitate searching and browsing. The collection is still a work in progress, and more cables will be added over time. 
 
 For now, please do not cite URLs on this website as stable references, as the site structure and filenames can be expected to change. One planned change is inclusion of the original source files (usually PDFs) to make it easier to verify the authenticity of the documents.
+
+### Cables archived here

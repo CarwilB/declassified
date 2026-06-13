@@ -2,17 +2,16 @@
 title: Cables
 format:
   html:
-    css: styles/cables-table.css
+    css: ../styles/sans-serif.css
 listing:
   id: cables-list
+  sort: date
   contents: . # <--- UPDATE THIS to your actual folder name
-  template: cables.ejs
-  sort-ui: true
-  filter-ui: true
+  type: table
 column: "body-outset"
 sort: "date desc"
 date-format: "MMM D, YYYY"
-page-size: 50
+page-size: 30
 ---
 
 

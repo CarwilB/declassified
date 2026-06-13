@@ -1,29 +1,38 @@
-<table class="cables-table" class="list">
-  <colgroup>
-    <col class="date-col" />
-    <col class="title-col" />
-    <col class="author-col" />
-  </colgroup>
-  <thead>
-    <tr>
-      <th class="date-col">Date</th>
-      <th class="title-col">Title</th>
-      <th class="author-col">Author</th>
-    </tr>
-  </thead>
-  <tbody>
-    <% for (const item of items) { %>
-      <tr <%= metadataAttrs(item) %>>
-        <td class="date-col" class="listing-date">
-          <%= item.date %>
-        </td>
-        <td class="title-col" class="listing-title">
-          <a href="<%- item.path %>"><%= item.title %></a>
-        </td>
-        <td class="author-col" class="listing-author">
-          <%= item.author %>
-        </td>
+<!-- Quarto requires the interactive items to be rendered inside this specific div -->
+<div class="quarto-listing-table-contents">
+
+  <table class="cables-table">
+    <colgroup>
+      <!-- Set a fixed pixel width (or 10% for relative size) on the date column -->
+      <!-- 140px ensures space for "November 06, 1979" without breaking monospace font -->
+      <col class="date-col" style="width: 140px;" /> 
+      <col class="title-col" />
+      <col class="author-col" style="width: 25%;" />
+    </colgroup>
+    <thead>
+      <tr>
+        <!-- The data-sort attributes are CRITICAL for Quarto's built-in sorting UI -->
+        <th class="date-col" data-sort="date">Date</th> 
+        <th class="title-col" data-sort="title">Title</th>
+        <th class="author-col" data-sort="author">Author</th>
       </tr>
-    <% } %>
-  </tbody>
-</table>
+    </thead>
+    <tbody>
+      <% for (const item of items) { %>
+        <!-- data-listing-item is required for filtering and sorting of the row -->
+        <tr data-listing-item>
+          <td class="date-col">
+            <%= item.date %>
+          </td>
+          <td class="title-col">
+            <a href="<%- item.path %>"><%= item.title %></a>
+          </td>
+          <td class="author-col">
+            <%= item.author %>
+          </td>
+        </tr>
+      <% } %>
+    </tbody>
+  </table>
+
+</div>
